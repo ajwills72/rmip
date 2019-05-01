@@ -6,15 +6,15 @@ TBC.
 
 ## Part 2
 
-Students on this course get a guided introduction to doing research as a team. Across 12 weeks, they go through the whole circle of research, twice. They pick a topic, plan a study, build an experiment, collect data, analyze that data, and give a group presentation on their findings. They then modify their design in response to feedback, collect and analyze more data, and write up the whole thing in journal article format. Feedback on the report is returned in peer review format.
+Students on this module get a guided introduction to doing research as a team. Across 12 weeks, they go through the whole circle of research, twice. They pick a topic, plan a study, build an experiment, collect data, analyze that data, and give a group presentation on their findings. They then modify their design in response to feedback, collect and analyze more data, and write up the whole thing in journal article format. Feedback on the report is returned in peer review format.
 
+The module focusses on learning relatively few key techniques, and giving students lots of practice in those techniques -- learning by doing. 
 
-- [Teachers' notes: Course overview](overview.html).
+- [Teachers' notes: Staffing, resources, assessment](part2-overview.html).
 
-- [Teachers' notes: Staffing, resources](resources.html).
+### Week 0: Pre-class preparation
 
-- [Teachers' notes: Assessment](assessment.html).
-
+- [Teachers' notes](pre_prep.html)
 
 ### Week 1: Select topic and learn skills
 
@@ -23,6 +23,12 @@ Students on this course get a guided introduction to doing research as a team. A
 - [Statistical power in R](https://ajwills72.github.io/rminr/power.html) 
 
 - [Introduction to OpenSesame](openses_intro.html)
+
+- [Topic 1](topic1.md)
+
+- [Topic 2](topic2.md)
+
+- [Topic 3](topic3.md)
 
 ### Week 2: Define question, outline design and learn skills
 
