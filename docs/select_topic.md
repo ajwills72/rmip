@@ -17,7 +17,7 @@
 
 ### Low-intensity session, and homework
 
-- Read and discuss the assigned papers.
+- Read and discuss the assigned papers. There are three papers, so each paper gets read by two people.
 
 - Agree in your group which sub-topic you're going to investigate.
 
