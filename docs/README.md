@@ -8,7 +8,7 @@ TBC.
 
 Students on this module get a guided introduction to doing research as a team. Across 12 weeks, they go through the whole circle of research, twice. They pick a topic, plan a study, build an experiment, collect data, analyze that data, and give a group presentation on their findings. They then modify their design in response to feedback, collect and analyze more data, and write up the whole thing in journal article format. Feedback on the report is returned in peer review format.
 
-The module focusses on learning relatively few key techniques, and giving students lots of practice in those techniques -- learning by doing. 
+The module focusses on learning relatively few key techniques, and giving students lots of practice in those techniques -- learning by doing. It teaches students how to do good, open, reproducible science.
 
 - [Teachers' notes: Staffing, resources, assessment](part2-overview.html).
 
@@ -20,15 +20,15 @@ The module focusses on learning relatively few key techniques, and giving studen
 
 - [Teachers' notes](select_topic.html).
 
-- [Statistical power in R](https://ajwills72.github.io/rminr/power.html) 
+- [Statistical power](https://ajwills72.github.io/rminr/power.html) 
 
 - [Introduction to OpenSesame](openses_intro.html)
 
 - [Topic 1](topic1.md)
 
-- [Topic 2](topic2.md)
+- [Topic 2](topic1.md)
 
-- [Topic 3](topic3.md)
+- [Topic 3](topic1.md)
 
 ### Week 2: Define question, outline design and learn skills
 
@@ -50,15 +50,15 @@ The module focusses on learning relatively few key techniques, and giving studen
 
 - [Teachers' notes](collect_anova.html).
 
-- [One-factor ANOVA](https://ajwills72.github.io/rminr/preproc.html). 
+- [One-factor ANOVA](https://ajwills72.github.io/rminr/anova1.html). 
 
 ### Week 6: Analyze data and prepare presentation
 
-- [Teachers' notes](analyze_pres_prep.html).
+- [Teachers' notes](analyze_prep.html).
 
 ### Week 7: Give group presentation
 
-- [Teachers' notes](analyze_pres_prep.html).
+- [Teachers' notes](pres.html).
 
 ### Week 8: Modify, and start to rebuild, experiment
 
@@ -73,6 +73,8 @@ The module focusses on learning relatively few key techniques, and giving studen
 ### Week 10: Learn skills and finish data collection
 
 - [Teachers' notes](collect_anova_2.html).
+
+- [Two-factor ANOVA](https://ajwills72.github.io/rminr/anova2.html). 
 
 ### Week 11: Analyze data and start report plan
 

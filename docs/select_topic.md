@@ -11,8 +11,8 @@
 | 025 | Students self-organize into groups. TA allocated to groups. Any given TA does one topic.                 |
 | 030 | TAs introduce the sub-topics in their topic to their groups, and assign tasks for low-intensity workshop |
 | 050 | Break                                                                                                    |
-| 060 | Students work through _Introduction to Power_ worksheet, with support                                    |
-| 090 | Students work through _Introduction to OpenSesame_ worksheet, with support                               |
+| 060 | Students work through  [Statistical power](https://ajwills72.github.io/rminr/power.html) worksheet, with support                                    |
+| 090 | Students work through [Introduction to OpenSesame](openses_intro.html) worksheet, with support                               |
 | 110 | Finish                                                                                                   |
 
 ### Low-intensity session, and homework
@@ -21,6 +21,6 @@
 
 - Agree in your group which sub-topic you're going to investigate.
 
-- Complete the online competency tests for the _Introduction to Power_ and _Introduction to OpenSesame_ worksheets
+- Complete the online competency tests for the _Statistical Power_ and _Introduction to OpenSesame_ worksheets
 
 

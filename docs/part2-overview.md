@@ -11,11 +11,35 @@ The low-intensity workshops are staffed at 40:1 ratio, by teaching assistants. N
 
 ## Assessment
 
-20% - Group mark for a 10-min group oral presentation. The mark is weighted mainly on the quality of the research presented, rather than audio-visual slickness. There is a detailed quantitative markscheme.
+20% - Group mark for a 10-min group oral presentation. The mark is weighted mainly on the quality of the research presented, rather than audio-visual slickness. There is a detailed quantitative markscheme. **Due end of Week 7**
 
-80% - Individual mark for an individually-written 4000-word journal article. The feedback is returned in the format of a journal peer review, and the mark derived from this feedback via a detailed quantitative mark scheme.
+80% - Individual mark for an individually-written 4000-word journal article. The feedback is returned in the format of a journal peer review, and the mark derived from this feedback via a detailed quantitative mark scheme. **Due end of Week 12**.
 
-Pass/fail - There are a set of auto-marked pass/fail competency tests for the skill-learning aspect of the course. Students can retake these as many times as they like before the deadline. They have to pass 80% of them to pass the module. 
+Pass/fail - There are a set of pass/fail competency components, and also act as a **lab book**. In order to keep on track students should complete them in the week indicated (see below). However, they can revise their entries at any point up until the end of week 12. Some of these are group components. In these cases, every member of the group still has to submit it individually, but they should all be submitting the same thing.
+
+They have to pass 80% of them to pass the module. 
+
+### List of pass/fail assessments
+
+1. _Indvidiual_: Statistical power exercise (Week 1)
+2. _Individual_: Introduction to OpenSesame exercise (Week 1)
+3. _Group_: Submit one-page broad design summary (Week 2)
+4. _Individual_: Data preprocessing exercise (Week 2)
+5. _Group_: Submit full experiment protocol (Week 3)
+6. _Individual_: Building an experiment in OpenSesame exercise (Week 3)
+7. _Group_: Submit completed open sesame script (Week 4)
+8. _Individual_: One-factor ANOVA exercise (Week 5)
+9. _Group_: Submit raw data files (Week 5)
+10. _Group_: Submit 'conference' abstract (Week 6)
+11. _Group_: Submit analysis script (Week 6)
+12. _Group_: Submit revised experiment prototcol (Week 8)
+13. _Group_: Submit revised OpenSesame Script (Week 9)
+14. _Individual_: Two-factor ANOVA exercise (Week 10)
+15. _Group_: Submit raw data files (Week 10)
+16. _Group_: Submit report bullet-point plan (Week 11)
+17. _Group_: Submit analysis script (Week 11)
+
+- WEEK 12: Individual report is due (see above)
 
 ## Resources
 
@@ -23,4 +47,14 @@ All sessions in 2019/20 will be run in the Psyc:EL space. The course requires on
 
 For activities based around R, students will continue to use the RStudio server account they were allocated at Stage 1. They should be prompted a week before the module starts to request login details if they do not have them.
 
+There is a need for an online **lab book** system (see above). A single Rmarkdown file on RStudio server might be one good solution ... then could then knit this and submit a single HTML file to the DLE by the deadline.
+
 For activities using Open Sesame, students will need to install this on their machine. There is time in the schedule for them to do this in class. 
+
+## Employability skills
+
+Communication skills. Group working to deadline. Project planning / timetabling. Critical thinking / analysis.
+
+## Ethics
+
+The students wrtite a detailed description of their methods; the discussion and approval of this document by staff provides a practical insight into ethics in these fairly innocous studies.
