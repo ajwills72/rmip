@@ -2,7 +2,27 @@
 
 ## Part 1
 
-TBC.
+This module is about understanding the relationships between the things that matter to people and the psychological constructs or variables that help us to understand them. It includes qualitative approaches, where you search for common themes within spoken or written material, and quantitative approaches where you use one or more measures to predict an outcome. Each week you will work in groups to solve problems and work towards a practical presentation of your work at the end of the semester (worth 20% of the mark), with two pieces of written coursework during the module (80% of the mark).
+
+### Weeks 1-6: Qualitative Research
+# 1. Orientation to the scenario/research question. Philosophy and terminology for qualitative research
+# 2. Design issues and applications for single qual, multi, and mixed methods in psychology (Theory/model building, expansion, exploratory, applied, process eval for quant studies/Action)
+# 3. Standards, reflexivity, ethics, rigor and quality,  practical issues
+# 4. Methods (CA, DA, IPA, FGs, online, meta, Qual review, Interviews, Obs)
+# 5. Analysis (CA, DA, IPA, Thematic, Framework) potentially + quant/qual integration
+# 6. Interpretation and write up
+
+### Weeks 7-12: Quantitative Research
+# 7. Survey Design and Online Surveys
+# 8. Data Wrangling and pre-processing
+# 9. Psychometrics
+# 10. Fitting a linear regression
+# 11. Fitting a multiple regression
+# 12. Choosing the best model
+
+**CHRISTMAS BREAK**
+
+### Week 13: Presentation of Research Findings
 
 ## Part 2
 
