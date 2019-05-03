@@ -1,8 +1,8 @@
-# Research Methods in Practice (Part 2)
+# Research Methods in Practice
 
 ## Course organization and staffing
 
-Students work in groups of 6 within workshop classes of 80, so each class is three times to accommodate a cohort of 240 students. The course runs for 12 weeks. Throughout that time, there will be a specified teaching assistant (Ph.D student or TARA) who is the supervisor of each group as is responsible for monitoring the progress of their groups. 
+In both modules, Students work in groups of 6 within workshop classes of 80, so each class is three times to accommodate a cohort of 240 students. The courses runs for 15 weeks, with 12 weeks of teaching, followed by three 'fallow' weeks allocated to revision and exams for other modules. Throughout that time, there will be a specified teaching assistant (Ph.D student or TARA) who is the supervisor of each group as is responsible for monitoring the progress of their groups. 
 
 Each week, students attend a two-hour _high intensity_ workshop, and a two-hour _low intensity_ workshop. 
 The high-intensity workshops have a student:staff ratio of 16:1. One of those staff must be a member of academic staff (Lecturer / AP / Prof), who is expected to be present throughout the session. High-intensity sessions are where new topics are introduced, and where students can expect prompt high-quality support from topic experts, including their supervisor. 
@@ -10,6 +10,24 @@ The high-intensity workshops have a student:staff ratio of 16:1. One of those st
 The low-intensity workshops are staffed at 40:1 ratio, by teaching assistants. No academic staff member is present. The low-intensity sessions are where students continue to work on material introduced in the high-intensity workshops, with support that is mainly technical or procedural in nature.
 
 ## Assessment
+
+Both modules' mark is based on  20% Practical and 80% coursework, with no exams, but wth pass/fail comptency components.
+
+### Part 1
+
+20% - Group mark for a 10-min group Poster presentation, covering qualitative and quantitative approaches to a problem. The mark will be agreed by one academic and one TARA who will assess the poster and the group's ability to answer questions on the research. **Due in Week 13 of module, after Christmas**
+
+80% - There will be two pieces of individually-written coursework during the module, one (30%) reporting the Qualitative approach and one (50%) the quantitative approach.
+**Qualitative (30%) Due in week 7 of module, returned in week 10)
+Quantitative (50%) Due in week 12 of module (before Christmas; returned Week 15)**
+
+Pass/fail - There are a set of pass/fail competency components, which students should complete them in the week indicated (see below). However, they can revise their entries at any point up until the end of week 12. Some of these are group components. In these cases, every member of the group still has to submit it individually, but they can all submit the same thing without penalty. A threshold number of submissions (_to be determined_) will be required to pass this component.
+
+### List of pass/fail assessments
+_to be determined, 1 per week_
+
+
+### Part 2
 
 20% - Group mark for a 10-min group oral presentation. The mark is weighted mainly on the quality of the research presented, rather than audio-visual slickness. There is a detailed quantitative markscheme. **Due end of Week 7**
 
@@ -57,4 +75,4 @@ Communication skills. Group working to deadline. Project planning / timetabling.
 
 ## Ethics
 
-The students wrtite a detailed description of their methods; the discussion and approval of this document by staff provides a practical insight into ethics in these fairly innocous studies.
+In Part 2, students write a detailed description of their methods; the discussion and approval of this document by staff provides a practical insight into ethics in these fairly innocous studies.
