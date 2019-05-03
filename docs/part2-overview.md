@@ -15,7 +15,7 @@ The low-intensity workshops are staffed at 40:1 ratio, by teaching assistants. N
 
 80% - Individual mark for an individually-written 4000-word journal article. The feedback is returned in the format of a journal peer review, and the mark derived from this feedback via a detailed quantitative mark scheme. **Due end of Week 12**.
 
-Pass/fail - There are a set of pass/fail competency components, and also act as a **lab book**. In order to keep on track students should complete them in the week indicated (see below). However, they can revise their entries at any point up until the end of week 12. Some of these are group components. In these cases, every member of the group still has to submit it individually, but they should all be submitting the same thing.
+Pass/fail - There are a set of pass/fail competency components, and also act as a **lab book**. In order to keep on track students should complete them in the week indicated (see below). However, they can revise their entries at any point up until the end of week 12. Some of these are group components. In these cases, every member of the group still has to submit it individually, but they can all submit the same thing without penalty.
 
 They have to pass 80% of them to pass the module. 
 
@@ -26,7 +26,7 @@ They have to pass 80% of them to pass the module.
 3. _Group_: Submit one-page broad design summary (Week 2)
 4. _Individual_: Data preprocessing exercise (Week 2)
 5. _Group_: Submit full experiment protocol (Week 3)
-6. _Individual_: Building an experiment in OpenSesame exercise (Week 3)
+6. _Group_: Building an experiment in OpenSesame exercise (Week 3)
 7. _Group_: Submit completed open sesame script (Week 4)
 8. _Individual_: One-factor ANOVA exercise (Week 5)
 9. _Group_: Submit raw data files (Week 5)

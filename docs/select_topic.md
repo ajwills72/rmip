@@ -2,7 +2,15 @@
 
 ## Week 1: Select topic and learn skills
 
-### High instensity session:
+### Resources for teachers
+
+- If you're new to R, work through the [Absolute Beginners' Guide to R, part 1](https://ajwills72.github.io/rminr). It should take about four hours.
+
+- If you're new to OpenSeame, watch the video in this
+  [tutorial](https://osdoc.cogsci.nl/3.2/tutorials/beginner/), and follow along
+  as he does things. It should take less than two hours.
+
+### High-intensity session:
 
 | min | Contents                                                                                                 |
 |-----|----------------------------------------------------------------------------------------------------------|
