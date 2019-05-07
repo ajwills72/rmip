@@ -1,6 +1,9 @@
 # Research Methods in Practice
 
-## Part 1
+In Stage 2 there are two modules focussing on Research Methods in Practice, one in each Semester. They form a complete course to prepare students for conducting their own ethical, open, reproducible science in their final year.
+[Teachers' notes: Staffing, resources, assessment](rmip-overview.html)
+
+## Part 1 (Autumn Semester: PSYC519)
 
 This module is about understanding the relationships between the things that matter to people and the psychological constructs or variables that help us to understand them. It includes qualitative approaches, where you search for common themes within spoken or written material, and quantitative approaches where you use one or more measures to predict an outcome. Each week you will work in groups to solve problems and work towards a practical presentation of your work at the end of the semester (worth 20% of the mark), with two pieces of written coursework during the module (80% of the mark).
 
@@ -24,13 +27,11 @@ This module is about understanding the relationships between the things that mat
 
 ### Week 13: Presentation of Research Findings
 
-## Part 2
+## Part 2 (Spring Semester: PSYC520)
 
 Students on this module get a guided introduction to doing research as a team. Across 12 weeks, they go through the whole circle of research, twice. They pick a topic, plan a study, build an experiment, collect data, analyze that data, and give a group presentation on their findings. They then modify their design in response to feedback, collect and analyze more data, and write up the whole thing in journal article format. Feedback on the report is returned in peer review format.
 
 The module focusses on learning relatively few key techniques, and giving students lots of practice in those techniques -- learning by doing. It teaches students how to do good, open, reproducible science.
-
-- [Teachers' notes: Staffing, resources, assessment](part2-overview.html).
 
 ### Week 0: Pre-class preparation
 
