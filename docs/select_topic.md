@@ -19,7 +19,7 @@
 | 025 | Students self-organize into groups. TA allocated to groups. Any given TA does one topic.                 |
 | 030 | TAs introduce the sub-topics in their topic to their groups, and assign reading tasks for low-intensity workshop |
 | 050 | Break                                                                                                    |
-| 060 | Students work through [RMarkdown](https://ajwills72.github.io/rminr/rmarkdown.html) , [Statistical power](https://ajwills72.github.io/rminr/power.html) and [Introduction to OpenSesame](openses_intro.html)  worksheets, with support                                    |
+| 060 | Students work through [Statistical power](https://ajwills72.github.io/rminr/power.html) and [Introduction to OpenSesame](openses_intro.html)  worksheets, with support                                    |
 | 110 | Finish                                                                                                   |
 
 ### Low-intensity session, and homework
