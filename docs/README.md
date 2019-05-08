@@ -41,8 +41,6 @@ The module focusses on learning relatively few key techniques, and giving studen
 
 - [Teachers' notes](select_topic.html).
 
-- [RMarkdown](https://ajwills72.github.io/rminr/rmarkdown.html) 
-
 - [Statistical power](https://ajwills72.github.io/rminr/power.html) 
 
 - [Introduction to OpenSesame](openses_intro.html)
