@@ -12,6 +12,7 @@ The low-intensity workshops are staffed at 40:1 ratio, by teaching assistants. N
 ## Assessment
 
 Both modules' mark is based on  20% Practical and 80% coursework, with no exams, but wth pass/fail comptency components.
+_References to 'week X' mean the Xth teaching week of the semester_. For the 2019/20 Plymouth University timetable, teaching week 1 of semester 1 begins 23/09/2019, and teaching week 1 of semester 2 begins 27/01/2020. 
 
 ### Part 1
 
