@@ -32,7 +32,7 @@ _to be determined, 1 per week_
 
 20% - Group mark for a 10-min group oral presentation. The mark is weighted mainly on the quality of the research presented, rather than audio-visual slickness. There is a detailed quantitative markscheme. **Due end of Week 7**
 
-80% - Individual mark for an individually-written 4000-word journal article. The feedback is returned in the format of a journal peer review, and the mark derived from this feedback via a detailed quantitative mark scheme. **Due end of Week 12**.
+80% - Individual mark for an individually-written 4000-word journal article. The feedback is returned in the format of a journal peer review, and the mark derived from this feedback via a detailed quantitative mark scheme. **Due end of Week 12**. Aim to completing marking by end of Week 14 (in order to assist assessment officers. Return to students Monday of Week 16 (not earlier, to avoid returning work during the exam period). 
 
 Pass/fail - There are a set of pass/fail competency components, and also act as a **lab book**. In order to keep on track students should complete them in the week indicated (see below). However, they can revise their entries at any point up until the end of week 12. Some of these are group components. In these cases, every member of the group still has to submit it individually, but they can all submit the same thing without penalty.
 
