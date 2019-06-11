@@ -31,22 +31,22 @@ Objects relevant to survival are better remembered. Is this evidence that memory
 
 Nairne, J. & Pandeirada, J. (2016). Adaptive Memory: The Evolutionary Significance of Survival Processing. Perspectives on Psychological Science, 11, 496–511. [DOI: 10.1177/1745691616635613](http://evo.psych.purdue.edu/downloads/2016_Nairne_Pandeirada.pdf).
 
-Nairne, J., Pandeirada, J., & R Thompson, S. (2008). Adaptive Memory The Comparative Value of Survival Processing. Psychological science. 19, 176-80. DOI: 10.1111/j.1467-9280.2008.02064
+Nairne, J., Pandeirada, J., & R Thompson, S. (2008). Adaptive Memory The Comparative Value of Survival Processing. Psychological science. 19, 176-80. [DOI: 10.1111/j.1467-9280.2008.02064](http://evo.psych.purdue.edu/downloads/2008_Nairne_Pandeirada_Comparative_Value_of_Survival_Processing.pdf)
 
-Nairne, J.S., Thompson S.R., Pandeirada, J.N.S. (2007). Adaptive memory: survival processing enhances retention. Journal of Experimental Psychology: Learning, Memory, and Cognition, 33(2), 263–273. DOI: 10.1037/0278-7393.33.2.263
+Nairne, J.S., Thompson S.R., Pandeirada, J.N.S. (2007). Adaptive memory: survival processing enhances retention. Journal of Experimental Psychology: Learning, Memory, and Cognition, 33(2), 263–273. [DOI: 10.1037/0278-7393.33.2.263](http://evo.psych.purdue.edu/downloads/2007_Nairne_etal_Survival_Processing_Enhances_Retention.pdf)
 
 
 ## Metamemory: Judgements of Learning and Font Size
 
 ### Overview
 
-Metamemory is our understanding of how our own memory works. Judgments of learning (JOLs) ask people to rate how likely they are to remember information later. JOLs measure naive beliefs about what makes something memorable. People tend to believe that words shown in large fonts will be better remembered than words shown in small fonts. This is an inaccurate belief but it may reveal something important about peoples' insight (or lack thereof) into the capabilities of their own memory.     
+Metamemory is our understanding of how our own memory works. Judgments of learning (JOLs) ask people to rate how likely they are to remember information later. JOLs measure naive beliefs about what makes something memorable. People tend to believe that words shown in large fonts will be better remembered than words shown in small fonts. This is an inaccurate belief but it may reveal something important about peoples' insight (or lack thereof) into the capabilities of their own memory.
 
 ### Reading
 
-Katzir, T., Hershko, S., & Halamish, V. (2013). The Effect of Font Size on Reading Comprehension on Second and Fifth Grade Children: Bigger Is Not Always Better. PloS one, 8. doi: 10.1371/journal.pone.0074061. 
+Katzir, T., Hershko, S., & Halamish, V. (2013). The Effect of Font Size on Reading Comprehension on Second and Fifth Grade Children: Bigger Is Not Always Better. PloS one, 8. [doi: 10.1371/journal.pone.0074061](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0074061&type=printable). 
 
-Hu, X., Li, T., Zheng, J., Su, N., Liu, Z., & Luo, L. (2015). How Much Do Metamemory Beliefs Contribute to the Font-Size Effect in Judgments of Learning? PLoS ONE, 10(11). doi:10.1371/journal.pone.0142351
+Hu, X., Li, T., Zheng, J., Su, N., Liu, Z., & Luo, L. (2015). How Much Do Metamemory Beliefs Contribute to the Font-Size Effect in Judgments of Learning? PLoS ONE, 10(11). [doi:10.1371/journal.pone.0142351](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0142351&type=printable)
 
-Rhodes, M. G. & Castel, A. (2008). Memory Predictions Are Influenced by Perceptual Information: Evidence for Metacognitive Illusions. Journal of experimental psychology. General, 137, 615-25. doi: 10.1037/a0013684.
+Rhodes, M. G. & Castel, A. (2008). Memory Predictions Are Influenced by Perceptual Information: Evidence for Metacognitive Illusions. Journal of experimental psychology. General, 137, 615-25. [doi: 10.1037/a0013684](http://castel.bol.ucla.edu/publications/Rhodes&CastelJEPG2008.pdf).
 
