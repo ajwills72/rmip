@@ -4,7 +4,7 @@
 
 ## Overview
 
-Provide slides and notes sufficient for another member of academic staff to deliver a 5-minute oral introduction to your topic. Aim to engage and enthuse the students about this topic. The topic should be reasonably broad, e.g. Reasoning, Memory, Learning.
+**TO DO**: Provide slides and notes sufficient for another member of academic staff to deliver a 5-minute oral introduction to your topic. Aim to engage and enthuse the students about this topic. 
 
 ## Production Effect
 
@@ -14,12 +14,11 @@ Words that are spoken aloud are better remembered than words read silently. The 
 
 ### Reading
 
-MacLeod, C. M. (2011). I said, you said: The production effect gets personal. Psychonomic Bulletin & Review, 18, 1197–1202.
-DOI 10.3758/s13423-011-0168-8
+MacLeod, C. M. (2011). I said, you said: The production effect gets personal. Psychonomic Bulletin & Review, 18, 1197–1202.[DOI 10.3758/s13423-011-0168-8](https://uwaterloo.ca/memory-attention-cognition-lab/sites/ca.memory-attention-cognition-lab/files/uploads/files/pbr2011.pdf)
 
-Quinlan, C. K. & Taylor, T. L. (2013) Enhancing the production effect in memory. Memory, 21, 904-915. DOI: 10.1080/09658211.2013.76675
+Quinlan, C. K. & Taylor, T. L. (2013) Enhancing the production effect in memory. Memory, 21, 904-915. [DOI: 10.1080/09658211.2013.76675](https://www.researchgate.net/publication/235404770_Enhancing_the_production_effect_in_memory)
 
-Forrin, N. D., Jonker, T. R., & MacLeod, C. M. (2014). Production improves memory equivalently following elaborative vs. non-elaborative processing. Memory, 22, 509–524. doi:10.1080/09658211.2013.798417
+Forrin, N. D., Jonker, T. R., & MacLeod, C. M. (2014). Production improves memory equivalently following elaborative vs. non-elaborative processing. Memory, 22, 509–524. [doi:10.1080/09658211.2013.798417](https://uwaterloo.ca/memory-attention-cognition-lab/sites/ca.memory-attention-cognition-lab/files/uploads/files/forrin2014.pdf)
 
 ## Adaptive Memory
 
@@ -30,7 +29,7 @@ Objects relevant to survival are better remembered. Is this evidence that memory
 
 ### Reading
 
-Nairne, J. & Pandeirada, J. (2016). Adaptive Memory: The Evolutionary Significance of Survival Processing. Perspectives on Psychological Science, 11, 496–511. DOI: 10.1177/1745691616635613.
+Nairne, J. & Pandeirada, J. (2016). Adaptive Memory: The Evolutionary Significance of Survival Processing. Perspectives on Psychological Science, 11, 496–511. [DOI: 10.1177/1745691616635613](http://evo.psych.purdue.edu/downloads/2016_Nairne_Pandeirada.pdf).
 
 Nairne, J., Pandeirada, J., & R Thompson, S. (2008). Adaptive Memory The Comparative Value of Survival Processing. Psychological science. 19, 176-80. DOI: 10.1111/j.1467-9280.2008.02064
 
