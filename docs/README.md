@@ -47,7 +47,7 @@ The module focusses on learning relatively few key techniques, and giving studen
 
 - [Topic 1: (Clare Walsh)](topic1.md)
 
-- [Topic 2: Long-term memory](topic2.md), with [teachers' notes](topic2teachersnotes.html)
+- [Topic 2: Long-term memory](topic2.md), with [teachers' notes](topic2teachernotes.html)
 
 - [Topic 3: (Marina Wimmer)](topic3.md)
 
