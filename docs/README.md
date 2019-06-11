@@ -45,11 +45,11 @@ The module focusses on learning relatively few key techniques, and giving studen
 
 - [Introduction to OpenSesame](openses_intro.html)
 
-- [Topic 1](topic1.md)
+- [Topic 1: (Clare Walsh)](topic1.md)
 
-- [Topic 2](topic1.md)
+- [Topic 2: Long-term memory](topic2.md)
 
-- [Topic 3](topic1.md)
+- [Topic 3: (Marina Wimmer)](topic3.md)
 
 ### Week 2: Define question, outline design and learn skills
 
