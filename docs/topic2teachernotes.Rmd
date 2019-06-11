@@ -1,0 +1,50 @@
+---
+title: "Topic 2: Long-term memory (Teachers' notes)"
+author: "Michael Verde and Andy Wills"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+## DEVELOPERS: Uncomment one option, as appropriate
+
+## Show only commands.
+## knitr::opts_chunk$set(echo = TRUE, message = FALSE, results='hide', fig.keep = 'none', comment=NA)
+
+## Show commands and ouptut.
+knitr::opts_chunk$set(echo = TRUE, comment=NA)
+```
+
+**AW**: I've made some comments below, anticipating some possible issues, and making some suggestions. Note that for adequate power at N=25, eta-squared must be at least .25; Cohen's d must be at least .58. I've put the calculations at the end for reference. _Note_: One error I came across in at least  three papers is the apparent assumption that the standard error of the mean of each condition is meaningful in the the context of a within-subjects design. It isn't, of course, because the w/subj test is conducted on the differences. It'll be important to ensure students are aware of, and don't repeat, this error.
+
+**AW**: How about a 'snazzier' title for this topic? Something like _Improving peoples' memories_
+
+## Production effect
+
+**AW**: Seems like a solid effect. Experiment 3 of Forrin et al. (2014) is underpowered; other than that, power is OK. My main thought was -- are you confident there are things students could do here that haven't already been done?
+
+## Adaptive memory
+
+**AW**: I can see this might be interesting to students, and I'm sure there's more that can be done here. In terms of readings, I'd recommend keeping Nairne et al. (2007), asking students to focus on Experiments 2 and 4 (the others are between-subjects or underpowered). Narine et al. (2008) is underpowered within-subjects, so should probably be dropped from the reading list? Nairne & Pandeirada (2016) is a bit on the long side, and contains no primary reports of experiments -- so should perhaps be dropped, too? It would be good to have a paper on which Nairne was not an author, given the importance of independent replication. Unless of course you think this will not replicate, and that's part of what you're aiming for here.
+
+## JOL and font size
+
+**AW**: The font size effect on JOL is adequately powered, but the interpretability of this result lies in demonstrating that retrieval is not affected by font size. None of the papers show this -- two incorrectly conclude from a null, and the other doesn't measure JOL. The third paper shows font size effects, but it's in kids, it's underpowered, and you can get the effect in either direction. So, I can see students doing something on this topic, but it seems like it would be a priority for them to either assess the Bayesian evidence for the null, and/or do something that might produce a font size effect in adults. This makes it quite risky in terms of the likelihood of students getting an interpretable result, so it'll be important to think how you manage this.
+
+## Power calculations
+
+```{r pwr-calcs}
+library(pwr)
+## Minimum effect size at N=25 for 80% power: eta-squared = .25
+etasq.to.f2  <- function(etasq) etasq / (1-etasq)
+f2  <- etasq.to.f2(.25) 
+pwr.f2.test(u = 1, v = 24, f2 = f2, sig.level = .05)
+## Minimum effect size at N=25 for 80% power: Cohen's d = .58
+pwr.t.test(n=25, sig.level = .05, power = .8, type='paired')
+
+## Some readings (mainly aimed at staff rather than students)
+
+## https://en.wikipedia.org/wiki/Effect_size
+## https://www.statmethods.net/stats/power.html
+## https://www.r-bloggers.com/power-analysis-and-sample-size-calculation-for-agriculture/
+## https://www.theanalysisfactor.com/effect-size/
+```
