@@ -4,7 +4,7 @@
 
 ### Teachers' resources
 
-Here are some (slides)[report-writing.odp] on report writing I put together for a similar course at Exeter about a decade ago. They might be helpful in developing materials here.
+Here are some [slides](report-writing.odp) on report writing I put together for a similar course at Exeter about a decade ago. They might be helpful in developing materials here.
 
 ### High-intensity session
 
