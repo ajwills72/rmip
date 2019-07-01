@@ -49,7 +49,7 @@ The module focusses on learning relatively few key techniques, and giving studen
 
 - [Topic 2: Long-term memory](topic2.md), with [teachers' notes](topic2teachernotes.html)
 
-- [Topic 3: (Marina Wimmer)](topic3.md)
+- [Topic 3: (Chris Longmore)](topic3.md)
 
 ### Week 2: Define question, outline design and learn skills
 

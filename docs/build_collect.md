@@ -2,6 +2,10 @@
 
 ## Week 4: Build experiment and start data collection
 
+### Resources
+
+Chris Longmore is building a [library](openses_lib.md) of OpenSesame scripts that students can access.
+
 ### High intensity session
 
 Whole session is dedicated to achieving the following goal: Have a working,
