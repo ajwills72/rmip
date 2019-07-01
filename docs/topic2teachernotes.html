@@ -196,6 +196,7 @@ $(document).ready(function () {
 
 
 <p><strong>AW</strong>: I’ve made some comments below, anticipating some possible issues, and making some suggestions. Note that for adequate power at N=25, eta-squared must be at least .25; Cohen’s d must be at least .58. I’ve put the calculations at the end for reference. <em>Note</em>: One error I came across in at least three papers is the apparent assumption that the standard error of the mean of each condition is meaningful in the the context of a within-subjects design. It isn’t, of course, because the w/subj test is conducted on the differences. It’ll be important to ensure students are aware of, and don’t repeat, this error.</p>
+<p><strong>AW</strong>: It is possible to estimate partial eta squared, even if it is not reported, as long as you have the F ratio and the dfs. For example, you can use this <a href="https://effect-size-calculator.herokuapp.com/#partial-eta-squared-fixed-effects">online calculator</a></p>
 <p><strong>AW</strong>: How about a ‘snazzier’ title for this topic? Something like <em>Improving peoples’ memories</em></p>
 <div id="production-effect" class="section level2">
 <h2>Production effect</h2>
@@ -236,6 +237,12 @@ pwr.t.test(n=25, sig.level = .05, power = .8, type='paired')</code></pre>
     alternative = two.sided
 
 NOTE: n is number of *pairs*</code></pre>
+<pre class="r"><code>## Some readings (mainly aimed at staff rather than students)
+
+## https://en.wikipedia.org/wiki/Effect_size
+## https://www.statmethods.net/stats/power.html
+## https://www.r-bloggers.com/power-analysis-and-sample-size-calculation-for-agriculture/
+## https://www.theanalysisfactor.com/effect-size/</code></pre>
 </div>
 
 

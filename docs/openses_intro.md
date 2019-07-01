@@ -10,7 +10,7 @@
 
 ## Worksheet plan
 
-- [Download](https://osdoc.cogsci.nl/3.2/download/) and install OpenSesame. 
+- [Download](https://osdoc.cogsci.nl/3.2/download/) and install OpenSesame.  **For the 2019/20 session, we will standardize on Open Sesame version 3.2.7**.
 
 - Loading an example script. 
 

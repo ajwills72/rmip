@@ -16,6 +16,8 @@ knitr::opts_chunk$set(echo = TRUE, comment=NA)
 
 **AW**: I've made some comments below, anticipating some possible issues, and making some suggestions. Note that for adequate power at N=25, eta-squared must be at least .25; Cohen's d must be at least .58. I've put the calculations at the end for reference. _Note_: One error I came across in at least  three papers is the apparent assumption that the standard error of the mean of each condition is meaningful in the the context of a within-subjects design. It isn't, of course, because the w/subj test is conducted on the differences. It'll be important to ensure students are aware of, and don't repeat, this error.
 
+**AW**: It is possible to estimate partial eta squared, even if it is not reported, as long as you have the F ratio and the dfs. For example, you can use this [online calculator](https://effect-size-calculator.herokuapp.com/#partial-eta-squared-fixed-effects)
+
 **AW**: How about a 'snazzier' title for this topic? Something like _Improving peoples' memories_
 
 ## Production effect

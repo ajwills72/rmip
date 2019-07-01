@@ -2,6 +2,10 @@
 
 ## Week 2: Define question, outline design and learn skills
 
+### Teachers' resources
+
+Here are some [slides](expt-design.odp) on experimental design written about a decade ago for the Exeter Stage 2 practicals. They might be useful for developing materials for Weeks 2 and 3 of this module. 
+
 ### High instensity session
 
 | min | Contents                                                               |
