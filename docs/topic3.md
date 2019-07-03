@@ -1,47 +1,25 @@
-# Resarch Methods in Practice (Part 2)
+# Face Processing
 
-# Insert topic name
-
-## Overview
-
-Provide slides and notes sufficient for another member of academic staff to deliver a 5-minute oral introduction to your topic. Aim to engage and enthuse the students about this topic. The topic should be reasonably broad, e.g. Reasoning, Memory, Learning.
-
-## Insert sub-topic 1 name
+## Holistic processing of faces and the composite face effect
 
 ### Overview
 
-Provide notes sufficient for a TARA to understand and orally (without slides) present the sub-topic to their groups, and discuss it with them. 
+Holistic processing refers to one way in which faces are perceived and processed. It refers to the processing of all aspects of the face (e.g. features, spatial relations between features and so on) as a single representation. One way of investigating holistic processing of faces is through the use of the compoiste face effect. A composite face is one in which the top half of individual's face has been paired with the bottom half of another person's face. An example is shown below. Can you identify the top half of the face? What about the bottom half?
 
-### Reading
+![A004.png](images/A004.png)
 
-Provide exactly three primary journal articles that:
+People tend to find this task difficult because the two halves of the face are fused together to create a new, holistic, representation of a face. However this representation does not match any face you know, you find the task harder. Constrast this with the image below in which the two halves are misaligned.
 
-1. **Short**. No more than 4000 words; if longer, indicate partial read up to 4000 words. This will help give students time to understand it fully.
+![B004.png](images/B004.png)
 
-2. **Open**. Available in some form of open-access format, including personal or institutional websites. Teaching open science is a core part of this module.
+In this image the two halves have been separated and the task becomes notably easier. This is because the two halves are no longer fused into a single holistic representation. You are then able to process the two halves with relative ease. (If you are still stuck [click here](holistic_ans.md) to find out who these people are). The term **composite face effect** refers to the difficulty people have with processing an *aligned* composite face as opposed to the relative ease in which they process a *misaligned* composite face.
 
-3. **Easy**. Test: An out-of-area Ph.D. student so be able to fully and quickly pick up what was done and why.
+This example demonstrates the composite face effect can influence the recognition of identity. Here are some papers that have looked at other aspects of face processing that are influenced by the composite face effect.
 
-4. **Well powered**: Students will be following this up with an N=25 directional within-subjects hypothesis, followed by an N=25/group directional between-subjects hypothesis. The minimum effect sizes for this are d=.55 for the within-subjects comparison, and d=.75 for the between-subjects comparison. Ensure your papers have something follow-up-able with those effect sizes, and that the papers had sufficiently large sample sizes to accurately estimate that effect size.
+### Resources
 
-5. **Easy to program**: Students have to be able to set this up themselves in Open Sesame quite quickly.
+Hole, G.J. (1994). Configurational factors in the perception of unfamiliar faces. *Perception*, *23*, 65 - 74, [DOI:10.1068/p230065](http://sro.sussex.ac.uk/id/eprint/14457/1/p230065.pdf)
 
-## Insert sub-topic 2 name
+Hugenberg, K. & Corneille, O. (2009). Holistic processing is tuned for in-group faces. *Cognitive Science*, *33*, 1173 - 1181 [DOI:10.1111/j.1551-6709.2009.01048.x](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1551-6709.2009.01048.x)
 
-### Overview
-
-INSERT.
-
-### Reading
-
-INSERT
-
-## Insert sub-topic 3 name
-
-### Overview
-
-INSERT.
-
-### Reading
-
-INSERT
+Zhao, M. & Hayward, W.G. (2010). Holistic processding underlies gender judgements of faces. *Attention, Perception and Psychophysics*, *72*, 591 - 596 [DOI:10.3758/APP.72.3.591](https://link.springer.com/content/pdf/10.3758%2FAPP.72.3.591.pdf)
