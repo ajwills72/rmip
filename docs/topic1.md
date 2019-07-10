@@ -1,6 +1,6 @@
 # Resarch Methods in Practice (Part 2)
 
-# Insert topic name
+# Thinking and Reasoning
 
 ## Overview
 
