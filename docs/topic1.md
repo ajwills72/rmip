@@ -24,6 +24,8 @@ Teasdale, J. D., Proctor, L., Lloyd, C. A., & Baddeley, A. D. (1993). Working me
 
 ## 2.	What do people think about when their minds wander?
 
+### Overview
+
 Mind-wandering involves shifting the focus of our thoughts from external cues to self-generated thought. When people do this, they are more likely to focus on the future than the past.
 
 ### Reading
@@ -36,6 +38,8 @@ Seli, P., Ralph, B. C., Konishi, M., Smilek, D., & Schacter, D. L. (2017). What 
 
 
 ## 3.	Thinking and Fast and Slow: Are we really lazy thinkers?
+
+### Overview
 
 People make judgments and decisions all the time and when they do so, they often do so quickly by taking short-cuts. These short-cuts are efficient and they are often accurate but sometimes they lead to a wrong or less optimal response. When we take these short-cuts it is usually assumed that to be efficient, we only attend to some superficial cues. The following papers challenge this view, showing that people do attend to additional information even when they don't use it.
 
