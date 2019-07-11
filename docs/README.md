@@ -45,11 +45,11 @@ The module focusses on learning relatively few key techniques, and giving studen
 
 - [Introduction to OpenSesame](openses_intro.html)
 
-- [Topic 1: (Clare Walsh)](topic1.md)
+- [Topic 1: Daydreaming and lazy thinking](topic1.html), with [teachers' notes](topic1teachernotes.html)
 
-- [Topic 2: Long-term memory](topic2.md), with [teachers' notes](topic2teachernotes.html)
+- [Topic 2: Long-term memory](topic2.html), with [teachers' notes](topic2teachernotes.html)
 
-- [Topic 3: (Chris Longmore)](topic3.md)
+- [Topic 3: (Chris Longmore)](topic3.html)
 
 ### Week 2: Define question, outline design and learn skills
 

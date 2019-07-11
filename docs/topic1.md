@@ -1,12 +1,12 @@
 # Resarch Methods in Practice (Part 2)
 
-# Thinking and Reasoning
+# Daydreaming and lazy thinking
 
 ## Overview
 
-Provide slides and notes sufficient for another member of academic staff to deliver a 5-minute oral introduction to your topic. Aim to engage and enthuse the students about this topic. The topic should be reasonably broad, e.g. Reasoning, Memory, Learning.
+**TO DO**: Provide slides and notes sufficient for another member of academic staff to deliver a 5-minute oral introduction to your topic. Aim to engage and enthuse the students about this topic. 
 
-## How does the task we are engaged in affect the likelihood of mind-wandering?
+## 1. When does our mind wander?
 
 ### Overview
 
@@ -14,15 +14,19 @@ Mind-wandering involves shifting the focus of our thoughts from external cues to
 
 ### Reading
 
-Forster, S. & Lavie, N. (2009). Harnessing the wandering mind: The role of perceptual load. Cognition,  111,  345-355.
+Forster, S. & Lavie, N. (2009). Harnessing the wandering mind: The role of
+perceptual load. _Cognition, 111_, 345-355.[PDF on open-access
+repository](https://www.researchgate.net/publication/24240279_Harnessing_the_wandering_mind_The_role_of_perceptual_load). **Focus
+on Experiments 1A and 1B**.
 
-Xu & Metcalfe (2016). Studying in the region of proximal learning reduces mind wandering. Memory & Cognition, 44, 681–695.
+Xu, J. & Metcalfe, J. (2016). Studying in the region of proximal learning
+reduces mind wandering. _Memory & Cognition, 44_,[PDF on institutional
+repository](http://www.columbia.edu/cu/psychology/metcalfe/PDFs/XuMetcalfe2016.pdf). **Focus
+on Experiment 2**.
 
-Teasdale, J. D., Proctor, L., Lloyd, C. A., & Baddeley, A. D. (1993). Working memory and stimulus-independent thought: Effects of memory load and presentation rate. European Journal of Cognitive Psychology, 5(4), 417–433.
+Teasdale, J. D., Proctor, L., Lloyd, C. A., & Baddeley, A. D. (1993). Working memory and stimulus-independent thought: Effects of memory load and presentation rate. _European Journal of Cognitive Psychology, 5_, 417–433. [DOI: 10.1080/09541449308520128](deadlink.html). **Focus on Experiment 1**.
 
-
-
-## 2.	What do people think about when their minds wander?
+## 2. Where does our mind wander?
 
 ### Overview
 
@@ -30,14 +34,14 @@ Mind-wandering involves shifting the focus of our thoughts from external cues to
 
 ### Reading
 
-Benjamin Baird, Jonathan Smallwood, Jonathan W. Schooler (2011). Back to the future: Autobiographical planning and the functionality of mind-wandering. Consciousness and Cognition, 20, 1604-1611.
+Baird, B., Smallwood, J. & Schooler, J.W. (2011). Back to the future: Autobiographical planning and the functionality of mind-wandering. _Consciousness and Cognition, 20_, 1604-1611. [PDF on author's personal website](https://labs.psych.ucsb.edu/schooler/jonathan/sites/labs.psych.ucsb.edu.schooler.jonathan/files/pubs/back_to_the_future.pdf). **Ignore the OSPAN parts of this paper.**
 
-Stawarczyk, D., Majerus, S., Michalina M., Van der Lindena, M., D'Argembeau, A. (2011). Mind-wandering: Phenomenology and function as assessed with a novel experience sampling method. Acta Psychologica, 136, 370-381.
+Stawarczyk, D., Majerus, S., Michalina M., Van der Lindena, M., D'Argembeau, A. (2011). Mind-wandering: Phenomenology and function as assessed with a novel experience sampling method. _Acta Psychologica, 136_, 370-381. [PDF on open-access repository](https://www.researchgate.net/publication/50195530_Mind-wandering_Phenomenology_and_function_as_assessed_with_a_novel_experience_sampling_method). **Focus on the "personal goals" condition of Experiment 2.**
 
-Seli, P., Ralph, B. C., Konishi, M., Smilek, D., & Schacter, D. L. (2017). What did you have in mind? Examining the content of intentional and unintentional types of mind wandering. Consciousness and Cognition, 51, 149–156.
+Seli, P., Ralph, B. C., Konishi, M., Smilek, D., & Schacter, D. L. (2017). What did you have in mind? Examining the content of intentional and unintentional types of mind wandering. _Consciousness and Cognition, 51_, 149–156. [PDF on author's personal website](https://scholar.harvard.edu/files/schacterlab/files/1-s2.0-s1053810017300132-main.pdf)
 
 
-## 3.	Thinking and Fast and Slow: Are we really lazy thinkers?
+## 3. Are we really lazy thinkers?
 
 ### Overview
 
@@ -45,10 +49,10 @@ People make judgments and decisions all the time and when they do so, they often
 
 ### Reading
 
-DeNeys,W. & Glumicic, T. (2008). Conflict monitoring in dual process theories of thinking. Cognition, 106, 1248-1299.
+DeNeys, W. & Glumicic, T. (2008). Conflict monitoring in dual process theories of thinking. _Cognition, 106_, 1248-1299. [PDF on author's personal website](http://www.wdeneys.org/data/COGNIT_1695.pdf)
 
-Pennycook, J., Fugelsang, J.A. & Koehler, D.J. (2012). Are we good at detecting conflict during reasoning? Cognition, 124, 101-106.
+Pennycook, J., Fugelsang, J.A. & Koehler, D.J. (2012). Are we good at detecting conflict during reasoning? _Cognition, 124_, 101-106.[PDF on institutional website](https://uwaterloo.ca/psychology/sites/ca.psychology/files/uploads/files/conflict%20detection.pdf)
 
-De Neys, W., Rossi, S., & Houdé, O. (2013). Bats, balls, and substitution sensitivity: Cognitive misers are no happy fools. Psychonomic Bulletin & Review, 20, 269-273.
+De Neys, W., Rossi, S., & Houdé, O. (2013). Bats, balls, and substitution sensitivity: Cognitive misers are no happy fools. Psychonomic Bulletin & Review, 20, 269-273. [PDF on author's personal website](http://www.wdeneys.org/data/De%20Neys_substitution_revision.pdf)
 
 
