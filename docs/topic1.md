@@ -14,17 +14,14 @@ Mind-wandering involves shifting the focus of our thoughts from external cues to
 
 ### Reading
 
-Forster, S. & Lavie, N. (2009). Harnessing the wandering mind: The role of
-perceptual load. _Cognition, 111_, 345-355.[PDF on open-access
-repository](https://www.researchgate.net/publication/24240279_Harnessing_the_wandering_mind_The_role_of_perceptual_load). **Focus
-on Experiments 1A and 1B**.
+Seli, P., Konishi, M., Risko, E. F., & Smilek, D. (2018). The role of task difficulty in theoretical accounts of mind wandering. Consciousness and cognition, 65, 255–262. [PDF](https://www.sciencedirect.com/science/article/pii/S1053810018301892). 
 
 Xu, J. & Metcalfe, J. (2016). Studying in the region of proximal learning
 reduces mind wandering. _Memory & Cognition, 44_,[PDF on institutional
 repository](http://www.columbia.edu/cu/psychology/metcalfe/PDFs/XuMetcalfe2016.pdf). **Focus
 on Experiment 2**.
 
-Teasdale, J. D., Proctor, L., Lloyd, C. A., & Baddeley, A. D. (1993). Working memory and stimulus-independent thought: Effects of memory load and presentation rate. _European Journal of Cognitive Psychology, 5_, 417–433. [DOI: 10.1080/09541449308520128](deadlink.html). **Focus on Experiment 1**.
+Teasdale J.D. Dritschel B.H. Taylor M.J. Proctor L. Lloyd C.A. Nimmo-Smith I. (1995). Stimulus-independent thought depends on central executive resources. Memory and Cognition, 23, 551–559 [PDF](https://link.springer.com/content/pdf/10.3758/BF03197257.pdf). **Focus on Experiments 1 and 2**.
 
 ## 2. Where does our mind wander?
 
