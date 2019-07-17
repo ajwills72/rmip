@@ -17,7 +17,7 @@ Mind-wandering involves shifting the focus of our thoughts from external cues to
 Seli, P., Konishi, M., Risko, E. F., & Smilek, D. (2018). The role of task difficulty in theoretical accounts of mind wandering. Consciousness and cognition, 65, 255–262. [PDF](https://www.sciencedirect.com/science/article/pii/S1053810018301892). 
 
 Xu, J. & Metcalfe, J. (2016). Studying in the region of proximal learning
-reduces mind wandering. _Memory & Cognition, 44_,[PDF on institutional
+reduces mind wandering. _Memory & Cognition, 44, 681–695.  [PDF on institutional
 repository](http://www.columbia.edu/cu/psychology/metcalfe/PDFs/XuMetcalfe2016.pdf). **Focus
 on Experiment 2**.
 
