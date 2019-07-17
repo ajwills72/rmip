@@ -31,6 +31,8 @@ SD = .89*sqrt(23) = 4.27.  So d = 2.2/4.27 = .51.
 
 **AW**: The trial-unique random generation of stimuli required is possible in Open Sesame, but you'll need to think how you support students to use a design like this (it's a bit beyond introductory level). 
 
+**CW** I have replaced this paper with one which has a larger sample and a simpler design
+
 ### Xu & Metcalfe (2016) (_bad graph_)
 
 **CW**: Experiment 2 is key; effect size is: partial-eta-squared = .27
@@ -50,6 +52,9 @@ SD = .89*sqrt(23) = 4.27.  So d = 2.2/4.27 = .51.
 **CW**: Experiment 1: Estimated partial-eta-squared for the working memory load is about .5 (.55 for Experiment 1, .52 for Experiment 3). For presentation rate, it's .3.
 
 **AW**: If keeping with auditory stimuli, you'll need to ensure that students have sufficient pairs of headphones available to them for testing -- probably worth getting these ordered through the tech office now? And I'd recommend moving from verbal to keyboard responding, as verbal responding isn't going to be easy to achieve or code in the mass-testing arrangements of this module. This means participants won't be able to keep their eyes closed ... does that matter? Students may also want to think about whether they really want people to make a free-text responding to the though probes. It might be better to switch to the technique used in some other papers where participants just report whether their thought was task-related or task-unrelated?
+
+**CW**: I have replaced this paper with one which has a simpler design. Study 2 using tapping so no verbalisation required for that one. Probes and responses can be done on a computer with eyes open as is typically done now.
+
 
 ## 2. Where does our mind wander?
 
