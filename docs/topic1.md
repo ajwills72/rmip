@@ -1,10 +1,12 @@
 # Resarch Methods in Practice (Part 2)
 
-# Daydreaming and lazy thinking
+# Mind wandering
 
 ## Overview
 
 **TO DO**: Provide slides and notes sufficient for another member of academic staff to deliver a 5-minute oral introduction to your topic. Aim to engage and enthuse the students about this topic. 
+
+There are two sub-topics:
 
 ## 1. When does our mind wander?
 
@@ -14,7 +16,7 @@ Mind-wandering involves shifting the focus of our thoughts from external cues to
 
 ### Reading
 
-Seli, P., Konishi, M., Risko, E. F., & Smilek, D. (2018). The role of task difficulty in theoretical accounts of mind wandering. Consciousness and cognition, 65, 255–262. [PDF](https://www.sciencedirect.com/science/article/pii/S1053810018301892). 
+Seli, P., Konishi, M., Risko, E. F., & Smilek, D. (2018). The role of task difficulty in theoretical accounts of mind wandering. Consciousness and cognition, 65, 255–262. [PDF behind a paywall](https://www.sciencedirect.com/science/article/pii/S1053810018301892) (accessible from within Plymouth University).
 
 Xu, J. & Metcalfe, J. (2016). Studying in the region of proximal learning
 reduces mind wandering. _Memory & Cognition, 44, 681–695.  [PDF on institutional
@@ -38,18 +40,5 @@ Stawarczyk, D., Majerus, S., Michalina M., Van der Lindena, M., D'Argembeau, A. 
 Seli, P., Ralph, B. C., Konishi, M., Smilek, D., & Schacter, D. L. (2017). What did you have in mind? Examining the content of intentional and unintentional types of mind wandering. _Consciousness and Cognition, 51_, 149–156. [PDF on author's personal website](https://scholar.harvard.edu/files/schacterlab/files/1-s2.0-s1053810017300132-main.pdf)
 
 
-## 3. Are we really lazy thinkers?
-
-### Overview
-
-People make judgments and decisions all the time and when they do so, they often do so quickly by taking short-cuts. These short-cuts are efficient and they are often accurate but sometimes they lead to a wrong or less optimal response. When we take these short-cuts it is usually assumed that to be efficient, we only attend to some superficial cues. The following papers challenge this view, showing that people do attend to additional information even when they don't use it.
-
-### Reading
-
-DeNeys, W. & Glumicic, T. (2008). Conflict monitoring in dual process theories of thinking. _Cognition, 106_, 1248-1299. [PDF on author's personal website](http://www.wdeneys.org/data/COGNIT_1695.pdf)
-
-Pennycook, J., Fugelsang, J.A. & Koehler, D.J. (2012). Are we good at detecting conflict during reasoning? _Cognition, 124_, 101-106.[PDF on institutional website](https://uwaterloo.ca/psychology/sites/ca.psychology/files/uploads/files/conflict%20detection.pdf)
-
-De Neys, W., Rossi, S., & Houdé, O. (2013). Bats, balls, and substitution sensitivity: Cognitive misers are no happy fools. Psychonomic Bulletin & Review, 20, 269-273. [PDF on author's personal website](http://www.wdeneys.org/data/De%20Neys_substitution_revision.pdf)
 
 
