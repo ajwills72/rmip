@@ -21,25 +21,15 @@ SD = .89*sqrt(23) = 4.27.  So d = 2.2/4.27 = .51.
 
 ## 1. When does our mind wander?
 
-**CW**: Although there are many papers on this topic, I've selected the ones that focus on the main effect and have a decent effect size. 
+Although there are many papers on this topic, we've selected the ones that focus on the main effect, have a decent effect size, and a relatively simple design that's practical to implement in this class. 
 
-**AW**: Seems like a good topic. I guess my main question would be, "how do you see students following this up?".
+### Seli et al. (2018) (_bad graph_)
 
-### Forster & Lavie (2009) (_small sample_, _bad graph_)
-
-**CW**: Experiments 1A and 1B are key. Effect size is d = 1.60 for Experiment 1A, and d = 1.20 for Experiment 1B.
-
-**AW**: The trial-unique random generation of stimuli required is possible in Open Sesame, but you'll need to think how you support students to use a design like this (it's a bit beyond introductory level). 
-
-**CW** I have replaced this paper with one which has a larger sample and a simpler design
+Effect size is OK for intentional mindwandering (d = 0.59), and for mindwandering in general (i.e. ignoring type, partial eta-squared = .32).
 
 ### Xu & Metcalfe (2016) (_bad graph_)
 
-**CW**: Experiment 2 is key; effect size is: partial-eta-squared = .27
-
-**CW**: Students would need to develop stimuli at range of difficulties, and would need to reduce testing time. 
-
-**AW**: Agreed.
+Experiment 2 is key; effect size is: partial-eta-squared = .27. Students would need to develop stimuli at range of difficulties, and would need to reduce testing time. 
 
 ### Teasdale et al. (1993) (_small sample_, _bad graph_)
 
