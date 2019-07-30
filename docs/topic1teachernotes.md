@@ -8,7 +8,7 @@ Although there are many papers on this topic, we've selected the ones that focus
 
 ### Seli et al. (2018) 
 
-Effect size is OK for intentional mindwandering (d = 0.59), and for mindwandering in general (i.e. ignoring type, partial eta-squared = .32).
+Effect size is OK for intentional mindwandering (d = 0.59), and for mindwandering in general (i.e. ignoring type, partial eta-squared = .32). This paper is only available behind a paywall, you may wish to raise the issues this causes for open science with your groups. 
 
 ### Xu & Metcalfe (2016) 
 
@@ -16,7 +16,7 @@ Experiment 2 is key; effect size is: partial-eta-squared = .27. Students would n
 
 ### Teasdale et al. (1995) 
 
-This paper is only available behind a paywall, you may wish to raise the issues this causes for open science with your groups. Turning to its contents, there are reasonable effect sizes in both Experiment 1 (partial eta-squared = .64) and Experiment 2 (partial eta-squared = .62), although you should make students ware that these are based on a very small sample size (12 participants) and so may not be good estimates. It would be desirable to computerize the thought probes and responses, as per papers above. You'll also need to drop the articulatory suppresion condition, due to overall noise issues with group-based testing. In the digit load task, digits should be entered via the keyboard rather than spoken, for the same reason. Overall, Experiment 2's motor-spatial procedure may be an easier choice here!
+Turning to its contents, there are reasonable effect sizes in both Experiment 1 (partial eta-squared = .64) and Experiment 2 (partial eta-squared = .62), although you should make students ware that these are based on a very small sample size (12 participants) and so may not be good estimates. It would be desirable to computerize the thought probes and responses, as per papers above. You'll also need to drop the articulatory suppresion condition, due to overall noise issues with group-based testing. In the digit load task, digits should be entered via the keyboard rather than spoken, for the same reason. Overall, Experiment 2's motor-spatial procedure may be an easier choice here!
 
 ## 2. Where does our mind wander?
 
