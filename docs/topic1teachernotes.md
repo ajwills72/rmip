@@ -1,4 +1,4 @@
-# Daydreaming and lazy thinking: Teachers' notes
+# Mind wandering: Teachers' notes
 
 **AW**: In some of these papers, the error bars on the Figures are wrong, because they calculated for each condition separately, while the analysis is obviously conducted on the _differences_. I've marked them as _bad graph_, below. You'll need to make sure students do not replicate this error. In some cases, there isn't a graph, but the same error has been made in a table. I've also given these the same label.
 
@@ -78,29 +78,3 @@ SD = .89*sqrt(23) = 4.27.  So d = 2.2/4.27 = .51.
 
 **AW**: Seems like a good study.
 
-## 3. Are we really lazy thinkers?
-
-**AW**: I think that, in the first two papers, there's an interesting sub-topic ... but that there are problems with the specific experiments you've focussed on. Perhaps there are other, more suitable, papers on the same topic? The De Neys et al. (2013) is an odd-one-out, and also doesn't look that well suited to the format of this module. 
-
-### Seli et al. (2017) (_small sample_, _bad graph_, _dicohotomizing_)
-
-**CW**: People tend to neglect base rate information when making judgments, but they recall that base rate information better if it was incongruent with stereotype than congruent with it. Partial eta-squared is .46
-
-**AW**: The above refers to Experiment 1, but I don't think you can do Experiment 1 in this module. It uses a "thinking aloud" procedure, which I doubt is going to be practical in our mass testing arrangements. Might Experiment 2 be more suitable? 
-
-### Pennycook et al. (2012) _UNDERPOWERED_
-
-**CW**: People are slower to give the stereotypical response when it conflicts with base rates than when it doesn’tFocus on experiments 3 and 4, as these are the conditions under which the effect occurs. The effect size isn't reported, and I'm unsure how to calculate it.
-
-**AW**: Short answer is that experiments based on this procedure will likely be underpowered in the context of our class. The effect size is about 0.5. I'm also a bit concerned that they test 32 people but can only analyse 23, a 28% dropout rate that would leave our students with an effective N of around 18. For N=18, it's d>=.61. So overall, this effect is really a bit too small for this class.
-
-#### De Neys et al. (2013)
-
-**CW**: They are slower to give the stereotypical response when it conflicts with base rates than when it doesn’t. Effect size is partial eta-square = .23, which is slightly low, but it's a nice, accessible paper.
-
-**AW**: I agree it's a nicely accessible study, and I think the effect size we
-can live with, particularly as there's a successful replication on [OSF](https://osf.io/79urz/#!). A bigger issue is that the procedure is extraordinarily short - two short problems, where they give their answer and a confidence rating. I
-don't think it's a sufficiently challenging task in terms of the goal of
-getting them to set up an experiment in Open Sesame. It's also not a great fit
-in terms of testing time against all the other topics and sub-topics - I assume
-the whole thing takes less than 5 minutes per participant. Another issue is that it doesn't group particularly well with the other two papers in this topic. For your other two topics, all papers are about the same issue. Here, two papers are and one is not.
