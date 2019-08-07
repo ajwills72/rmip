@@ -1,6 +1,9 @@
 # Face Processing
 
-## Holistic processing of faces and the composite face effect
+## Overview
+These [slides](topic3.odp) introduce the topic.
+
+## Sub-topic 1: Holistic processing of faces and the composite face effect
 
 ### Overview
 
@@ -26,15 +29,15 @@ Hugenberg, K. & Corneille, O. (2009). Holistic processing is tuned for in-group 
 Zhao, M. & Hayward, W.G. (2010). Holistic processing underlies gender judgements of faces. *Attention, Perception and Psychophysics*, *72*, 591 - 596 [DOI:10.3758/APP.72.3.591](https://link.springer.com/content/pdf/10.3758%2FAPP.72.3.591.pdf)  
 **It is experiment 3 here that is of major interest as this one looks at the composite face effect**
 
-## Image-dependency of unfamiliar face recognition and matching
+## Sub-topic 2: Image-dependency of unfamiliar face recognition and matching
 
 ### Overview
 
-As you will remember from PSYC412, unfamiliar face recognition is largely mediated by pictorial codes - cues to an identity that are tied to particular images (for those that want a refresher, and for direct entry and MSc students, you can [view the lecture here](https://plymouth.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f1cbe922-6246-4c99-84ee-a98801069f53)). This means that if you look at a single image of an unfamiliar face, you are quite likely to recognise **that particular image** of a the face again. However, change the image in some way, and recognition accuracy is likely to fall. Even when memory is not involved and a matching task is used, matching performance is degraded if you are asked to match two different pictures of a person's face (it is trivial if the same picture is used twice). The three papers below document ways in which unfamiliar face recognition is affected by images changes. Can you think of other ways in which recognition or matching might be affected?
+As you may have learned in a previous module, unfamiliar face recognition is largely mediated by pictorial codes - cues to an identity that are tied to particular images (current students at Plymouth University can view [view the lecture here](https://plymouth.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f1cbe922-6246-4c99-84ee-a98801069f53)). This means that if you look at a single image of an unfamiliar face, you are quite likely to recognise **that particular image** of a the face again. However, change the image in some way, and recognition accuracy is likely to fall. Even when memory is not involved and a matching task is used, matching performance is degraded if you are asked to match two different pictures of a person's face (it is trivial if the same picture is used twice). The three papers below document ways in which unfamiliar face recognition is affected by images changes. Can you think of other ways in which recognition or matching might be affected?
 
 ### Resources
 
-Balas, B., Gable, J. & Pearson, H. (2019). The effects of blue and inversion on the recognition of ambient face images. *Perception*, *48*, 58 - 71 [DOI:10.1177/0301006618812581](https://psyarxiv.com/dqjsy/)  
+Balas, B., Gable, J. & Pearson, H. (2019). The effects of blur and inversion on the recognition of ambient face images. *Perception*, *48*, 58 - 71 [DOI:10.1177/0301006618812581](https://psyarxiv.com/dqjsy/)  
 **Experiment 1 is the important one here. Note that this study used physical card sorting which will not be possible in OpenSesame. The key point is the effect that blurring has on a participant's ability to detect identity. Think about how such an effect might be looked at using a different paradigm that can be implemented in OpenSesame.**
 
 Bindemann, M., Attard, J., Leach, A. & Johnston, R.A. (2013). The effect of image pixelation on unfamiliar face matching. *Applied Cognitive Psychology*, *27*, 707 - 717 [DOI:10.1002/acp.2970](https://kar.kent.ac.uk/36097/1/Bindemann_ACP_2013b.pdf)  
