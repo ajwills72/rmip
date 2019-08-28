@@ -2,33 +2,16 @@
 
 ## Course organization and staffing
 
-In both modules, Students work in groups of 6 within workshop classes of 80, so each class is three times to accommodate a cohort of 240 students. The courses runs for 15 weeks, with 12 weeks of teaching, followed by three 'fallow' weeks allocated to revision and exams for other modules. Throughout that time, there will be a specified teaching assistant (Ph.D student or TARA) who is the supervisor of each group as is responsible for monitoring the progress of their groups. 
+Students work in groups of 6 within workshop classes of 80, so each class is three times to accommodate a cohort of 240 students. The courses runs for 15 weeks, with 12 weeks of teaching, followed by three 'fallow' weeks allocated to revision and exams for other modules. Throughout that time, there will be a specified teaching assistant (Ph.D student or TARA) who is the supervisor of each group as is responsible for monitoring the progress of their groups. 
 
-Each week, students attend a two-hour _high intensity_ workshop, and a two-hour _low intensity_ workshop. 
-The high-intensity workshops have a student:staff ratio of 16:1. One of those staff must be a member of academic staff (Lecturer / AP / Prof), who is expected to be present throughout the session. High-intensity sessions are where new topics are introduced, and where students can expect prompt high-quality support from topic experts, including their supervisor. 
+Each week, students attend a two-hour _high intensity_ workshop, and a two-hour _low intensity_ workshop. The high-intensity workshops have a student:staff ratio of 16:1. One of those staff must be a member of academic staff (Lecturer / AP / Prof), who is expected to be present throughout the session. High-intensity sessions are where new topics are introduced, and where students can expect prompt high-quality support from topic experts, including their supervisor. 
 
 The low-intensity workshops are staffed at 40:1 ratio, by teaching assistants. No academic staff member is present. The low-intensity sessions are where students continue to work on material introduced in the high-intensity workshops, with support that is mainly technical or procedural in nature.
 
 ## Assessment
 
-Both modules' mark is based on  20% Practical and 80% coursework, with no exams, but wth pass/fail comptency components.
-_References to 'week X' mean the Xth teaching week of the semester_. For the 2019/20 Plymouth University timetable, teaching week 1 of semester 1 begins 23/09/2019, and teaching week 1 of semester 2 begins 27/01/2020. 
-
-### Part 1
-
-20% - Group mark for a 10-min group Poster presentation, covering qualitative and quantitative approaches to a problem. The mark will be agreed by one academic and one TARA who will assess the poster and the group's ability to answer questions on the research. **Due in Week 13 of module, after Christmas**
-
-80% - There will be two pieces of individually-written coursework during the module, one (30%) reporting the Qualitative approach and one (50%) the quantitative approach.
-**Qualitative (30%) Due in week 7 of module, returned in week 10)
-Quantitative (50%) Due in week 12 of module (before Christmas; returned Week 15)**
-
-Pass/fail - There are a set of pass/fail competency components, which students should complete them in the week indicated (see below). However, they can revise their entries at any point up until the end of week 12. Some of these are group components. In these cases, every member of the group still has to submit it individually, but they can all submit the same thing without penalty. A threshold number of submissions (_to be determined_) will be required to pass this component.
-
-### List of pass/fail assessments
-_to be determined, 1 per week_
-
-
-### Part 2
+The module's mark is based on  20% Practical and 80% coursework, with no exams, but wth pass/fail comptency components.
+_References to 'week X' mean the Xth teaching week of the semester_. For the 2019/20 Plymouth University timetable, teaching week 1 of semester 2 begins 27/01/2020. 
 
 20% - Group mark for a 10-min group oral presentation. The mark is weighted mainly on the quality of the research presented, rather than audio-visual slickness. There is a detailed quantitative markscheme. **Due end of Week 7**
 
@@ -66,7 +49,7 @@ All sessions in 2019/20 will be run in the Psyc:EL space. The course requires on
 
 For activities based around R, students will continue to use the RStudio server account they were allocated at Stage 1. They should be prompted a week before the module starts to request login details if they do not have them.
 
-There is a need for an online **lab book** system (see above). A single Rmarkdown file on RStudio server might be one good solution ... then could then knit this and submit a single HTML file to the DLE by the deadline.
+There is a need for an online **lab book** system (see above). 
 
 For activities using Open Sesame, students will need to install this on their machine. There is time in the schedule for them to do this in class. 
 
@@ -76,4 +59,4 @@ Communication skills. Group working to deadline. Project planning / timetabling.
 
 ## Ethics
 
-In Part 2, students write a detailed description of their methods; the discussion and approval of this document by staff provides a practical insight into ethics in these fairly innocous studies.
+Students write a detailed description of their methods; the discussion and approval of this document by staff provides a practical insight into ethics in these fairly innocous studies.
