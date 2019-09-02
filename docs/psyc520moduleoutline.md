@@ -1,4 +1,4 @@
-# PSYC520: Research Skills in Practice 2
+# PSYC520 / PSYC720 : Research Skills in Practice 2
 # Module Outline
 
 **Credit Weighting:**	20 Credits
