@@ -5,3 +5,5 @@ Just compiling a list at the moment; will later provide material or links on how
 - `affect` versus `effect`
 
 - apostrophe use.
+
+- Not knowing the difference between clauses and sentences. Which is annoying.
