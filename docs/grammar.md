@@ -9,7 +9,7 @@ Just compiling a list at the moment; will later provide material or links on how
 
 - Anthropomorphism 
 
--- `This area remains ambiguous and difficult to empirically test`
+`This area remains ambiguous and difficult to empirically test`
 
 - apostrophe use.
 
@@ -19,6 +19,14 @@ Just compiling a list at the moment; will later provide material or links on how
 
 - Unsure of word meaning: e.g.
 
--- `implemeting` versus `implicating`
+`implemeting` versus `implicating`
 
--- `affect` versus `effect`
+`affect` versus `effect`
+
+- Connectives: with, from, through 
+
+"Although there is evidence that the police hold certain prejudices through
+selection and socialisation effects it is important to see how these differ with the
+general public."
+
+- `et al.` is short for et alia ('and others' in Latin), so it's `et al.` not `et all` or `et al`
