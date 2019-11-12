@@ -44,3 +44,17 @@ general public."
 - Superfluous 'as to'
 
 "The reason as to why this is such an important question..."
+
+- Superfluous capitalisation
+
+"the police may be Implicitly racist"
+
+- Arbitrary/inaccurate word splitting and combining:
+
+"performance improves overtime"
+
+"the diet of the urban goat could include any thing from crisps to shoes"
+
+
+
+
