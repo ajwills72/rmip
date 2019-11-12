@@ -30,3 +30,7 @@ selection and socialisation effects it is important to see how these differ with
 general public."
 
 - `et al.` is short for et alia ('and others' in Latin), so it's `et al.` not `et all` or `et al`
+
+- Explanations versus descriptions
+
+"Implicit bias explains bias that we have against certain groups of people which are at an unconscious level."
