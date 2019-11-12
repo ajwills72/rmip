@@ -34,3 +34,11 @@ general public."
 - Explanations versus descriptions
 
 "Implicit bias explains bias that we have against certain groups of people which are at an unconscious level."
+
+- Word endings:
+
+"Police officers in the UK are racially bias towards ethnic minorities"
+
+- Superfluous 'as to'
+
+"The reason as to why this is such an important question..."
