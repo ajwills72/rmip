@@ -39,6 +39,8 @@ general public."
 
 "Police officers in the UK are racially bias towards ethnic minorities"
 
+"not following up on a good lead about the suspects quick enough"
+
 - Superfluous 'as to'
 
 "The reason as to why this is such an important question..."
