@@ -55,6 +55,10 @@ general public."
 
 "the diet of the urban goat could include any thing from crisps to shoes"
 
+- Theories are not causes
+
+"Gender bias is due to Social Identity Theory"
+
 
 
 
