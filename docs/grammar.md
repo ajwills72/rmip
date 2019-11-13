@@ -75,6 +75,8 @@ general public."
 
 # Standards of evidence
 
+- It's not enough to report the conclusions of others. You must also give some sense of the specific evidence (method, results) upon which their conclusions are based.
+
 - News outlets are not high-reliability sources. Use only to demonstrate presence of media coverage, not to 
 support arguments concerning data/statistics
 
