@@ -78,6 +78,8 @@ support arguments concerning data/statistics
 
 "This study was completed in France, so may not apply to the UK population"
 
+"researchers have not studied every single police force worldwide so it would be inaccurate to generalise this to every police institution."
+
 This is not a good criticism. Every study has to be conducted somewhere, and the criticism does not go on to establish whether or not similar results are found in other countries. Unless you have conducted (or found) a systematic review and it's the case that there's no relevant evidence outside a restricted population, don't make this point. You may also wish to consider how likely cultural differences are a priori, depending on the question you are examining. For example, if shooting someone in the head causes brain damage in France, we can probably conclude it also does so in the UK, without conducting the experiment.
 
 
