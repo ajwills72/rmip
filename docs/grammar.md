@@ -69,6 +69,10 @@ general public."
 
 "Research also displays that, after two years of police training,..." -- the word is 'shows'. Also note that this is anthropomorphism. Researchers, not research, show things.
 
+- Avoid the passive voice
+
+"It is argued" -> "I argue", "We argue", "They argue"
+
 # Standards of evidence
 
 - News outlets are not high-reliability sources. Use only to demonstrate presence of media coverage, not to 
