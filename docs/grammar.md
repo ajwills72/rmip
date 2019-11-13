@@ -11,6 +11,10 @@ Just compiling a list at the moment; will later provide material or links on how
 
 `This area remains ambiguous and difficult to empirically test`
 
+`research also displays that prejudice exists` 
+
+`The theory of socialization believes`
+
 - apostrophe use.
 
 - Not knowing the difference between clauses and sentences. Which is annoying.
@@ -58,6 +62,10 @@ general public."
 - Theories are not causes
 
 "Gender bias is due to Social Identity Theory"
+
+- Thesaurus rash (replacing a simply understood word with a synonym, adding nothing and making the sentence harder to follow:
+
+"Research also displays that, after two years of police training,..." -- the word is 'shows'. Also note that this is anthropomorphism. Researchers, not research, show things.
 
 # Standards of evidence
 
