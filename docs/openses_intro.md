@@ -22,7 +22,7 @@
 
 - Locating the data file. 
 
-- Open a project in RStudio (revision), make a directory inside it, upload data file to directory. 
+- Uploading it to PsycEL.
 
 ## Assessment
 
