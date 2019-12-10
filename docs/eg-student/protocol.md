@@ -4,7 +4,7 @@ Upload your group's full experiment protocol. It must be in PDF format, and must
 
 ----
 
-A model protocol can be found [here](eg-student/protocol-example.pdf)
+A model protocol can be found [here](protocol-example.pdf)
 
 ----
 

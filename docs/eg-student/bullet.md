@@ -4,7 +4,7 @@ Copy and paste your group's bullet point plan for the report below:
 
 ----
 
-A model answer can be found [here](eg-student/eg-bullet.md)
+A model answer can be found [here](eg-bullet.md)
 
 ----
 

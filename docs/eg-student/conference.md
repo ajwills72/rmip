@@ -4,7 +4,7 @@ Upload your group's conference submission, as a PDF, using the proforma you have
 
 ----
 
-A model submission, from the perspective of the imaginary student, can be found [here](eg-student/conference-abstract-eg.pdf)
+A model submission, from the perspective of the imaginary student, can be found [here](conference-abstract-eg.pdf)
 
 ----
 
