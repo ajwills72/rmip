@@ -21,27 +21,9 @@ Pass/fail - There are a set of pass/fail competency components, and also act as 
 
 They have to pass 80% of them to pass the module. 
 
-### List of pass/fail assessments
+### List of assessments
 
-1. _Indvidiual_: Statistical power exercise (Week 1)
-2. _Individual_: Introduction to OpenSesame exercise (Week 1)
-3. _Group_: Submit one-page broad design summary (Week 2)
-4. _Individual_: Data preprocessing exercise (Week 2)
-5. _Group_: Submit full experiment protocol (Week 3)
-6. _Group_: Building an experiment in OpenSesame exercise (Week 3)
-7. _Group_: Submit completed open sesame script (Week 4)
-8. _Individual_: One-factor ANOVA exercise (Week 5)
-9. _Group_: Submit raw data files (Week 5)
-10. _Group_: Submit 'conference' abstract (Week 6)
-11. _Group_: Submit analysis script (Week 6)
-12. _Group_: Submit revised experiment prototcol (Week 8)
-13. _Group_: Submit revised OpenSesame Script (Week 9)
-14. _Individual_: Two-factor ANOVA exercise (Week 10)
-15. _Group_: Submit raw data files (Week 10)
-16. _Group_: Submit report bullet-point plan (Week 11)
-17. _Group_: Submit analysis script (Week 11)
-
-- WEEK 12: Individual report is due (see above)
+A full list of assessments, with proformas and model answers in most cases, are available [here](eg-student.md)
 
 ## Resources
 
