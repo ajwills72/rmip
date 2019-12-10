@@ -11,7 +11,7 @@
 | 090 | TA led discussion of presentation planning (see Note) |
 | 110 | Finish                                                |
 
-Note:
+Note 1:
 
 TA and group reprise what they did, what they have found, and discuss any
 problems/limitations of what they have done. TA then leads discussion of
@@ -25,6 +25,10 @@ be something like: (A) Big picture overview, (B) Introducing the specific
 question, (C) Metholodgy, (D) Results, (E) Interpretation, (F) problems and
 next steps, (G) writing an abstract. Agree an allocation of time and number of
 slides each.
+
+Note 2:
+
+Students should be expected to produce graphs that have proper labels that are of a readable size. Some of the things they need to know about this are covered in the Absolute Beginners' Guide, but the best source is the [Better Graphs](https://ajwills72.github.io/bettergraphs.html) page.
 
 ### Low-intensity session, and homework
 

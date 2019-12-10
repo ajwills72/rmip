@@ -15,6 +15,8 @@ Here are some [slides](report-writing.odp) on report writing I put together for 
 | 090 | Teacher presentation report writing                               |
 | 110 | Finish                                                            |
 
+One 'gotcha' here might be the combination of the two datsets into one in order to be able to do the factorial ANOVA. Basically, all you need to do is use the same sorts of commands you did in the preprocessing worksheet to add a column that contains the Experiment ID, and then combine the two data frames as before. Note that you may need to set the appropriate columns as factors again after doing this.
+
 ### Low-intensity session
 
 - Finish and submit analysis script.
