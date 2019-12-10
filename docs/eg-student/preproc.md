@@ -33,3 +33,5 @@ group_by
 summarise
 
 select
+
+When throwing an error, give an error message (e.g. "no group_by") 

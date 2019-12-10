@@ -8,7 +8,7 @@ For a model answer, see the [source code](https://github.com/ajwills72/rminr/blo
 
 ----
 
-_AUTO MARK_: Code must be more than 10 lines, and less than 30 lines. Code must contain the following words:
+_AUTO MARK_: Code must be more than 10 lines, and less than 30 lines. Code must contain the following words (below). When throwing an error, give an error message (e.g. "no group_by") 
 
 library
 tidyverse

@@ -1,4 +1,11 @@
-## Note: These are not OpenSesame files, but the preprocessing is the same
+## Notes:
+
+## 1. These are not OpenSesame files, but the preprocessing is the same.
+
+## 2. Files were adapted from Seabrooke et al. (2019) Experiment 1. This has
+## had the side effect that the 30 words presented are sampled from a larger
+## pool of 45 words. This is not mentioned in the model answers based on these
+## analyses.
 
 ## Load packages
 library(tidyverse)
@@ -30,9 +37,15 @@ testsum.wide <- testsum %>% pivot_wider(names_from = Condition, values_from = ac
 testsum.wide <- testsum.wide %>% mutate(diff = Meaning - Study)
 
 ## Difference density plot
-testsum.wide %>% ggplot(aes(diff)) +
+source("themeapa.R")
+p <- testsum.wide %>% ggplot(aes(diff)) +
     geom_density(aes(y=..scaled..)) +
-    geom_vline(xintercept = 0, colour = 'red')
+    geom_vline(xintercept = 0, colour = 'red') +
+    xlab("Accuracy difference P(meaning) - P(study)") +
+    ylab("Density (scaled)") +
+    theme_APA
+
+ggsave(filename = "fig1.png", plot = p, width = 15, height = 10, units = "cm")
 
 ## Identify factors
 testsum$subj <- factor(testsum$subj)
