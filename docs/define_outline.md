@@ -20,11 +20,11 @@ Here are some [slides](expt-design.odp) on experimental design written about a d
 
 **It might be a good idea, for this one week, to staff the low-intensity session more heavily, perhaps 20:1**. This is because the preprocessing exercise is not easy, and probably isn't completable within the high-intensity session.
 
+- Complete data preprocessing worksheet (allow around 40 minutes for this).
+
 - Complete and submit one-page broad design summary.
 
-- Complete data preprocessing worksheet.
 
-- Complete data preprocessing pass/fail competency assessment.
 
 
 
