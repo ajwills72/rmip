@@ -4,7 +4,7 @@
 
 ### High intensity session
 
-The whole session is dedicated to learning about one-factor ANOVA.
+The whole session is dedicated to learning about one-factor ANOVA. We anticipate that the worksheet will take around 70 minutes for the most capable students, so there may be some spare time here to catch up with other things if the schedule is running a bit behind.
 
 ### Low-intensity session
 
