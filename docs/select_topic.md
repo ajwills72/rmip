@@ -31,7 +31,7 @@
 
 - Complete the worksheets.
 
-
+- Do the first part of the [preprocessing](https://ajwills72.github.io/rminr/preproc.html) worksheet, up to and including running the facial prototypes experiment on yourself.
 
 
 
