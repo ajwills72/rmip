@@ -12,7 +12,7 @@ This imaginary student selected a sub-topic on test-potentiated learning ([Potts
 
 - [Conference submission](eg-student/conference-abstract.odt) with [model answer](eg-student/conference-abstract-eg.pdf). Student uploads to PsycEL.
 
-- [Presentation feedback](eg-student/pres-feedback.html) with [example feedback](eg-student/pres-feedback-eg.html) and [model slides](eg-student/presentation-eg.odp). **Student uploads to DLE**. 
+- [Presentation feedback](eg-student/pres-feedback.html) with [example feedback](eg-student/pres-feedback-eg.html) and [model slides](eg-student/presentation-eg.pdf). **Student uploads to DLE**. 
 
 - [Revised protocol](eg-student/revised-protocol.odt) with [model answer](eg-student/revised-protocol-example.pdf). Student uploads to PsycEL.
 
