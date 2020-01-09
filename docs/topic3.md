@@ -1,6 +1,7 @@
 # Face Processing
 
 ## Overview
+
 These [slides](topic3.odp) introduce the topic.
 
 ## Sub-topic 1: Holistic processing of faces and the composite face effect

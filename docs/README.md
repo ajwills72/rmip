@@ -8,6 +8,8 @@ Students on this module get a guided introduction to doing research as a team. A
 
 The module focusses on learning relatively few key techniques, and giving students lots of practice in those techniques -- learning by doing. It teaches students how to do good, open, reproducible science.
 
+**A student-facing page of resources is available [here](rmip2.html)**
+
 ### Week 0: Pre-class preparation
 
 - [Teachers' notes](pre_prep.html)
@@ -46,7 +48,9 @@ The module focusses on learning relatively few key techniques, and giving studen
 
 - [Teachers' notes](collect_anova.html).
 
-- [One-factor ANOVA](https://ajwills72.github.io/rminr/anova1.html). 
+- [Within-subject differences](https://ajwills72.github.io/rminr/anova1.html). 
+
+- [Understanding interactions](https://ajwills72.github.io/rminr/anova2.html).
 
 ### Week 6: Analyze data and prepare presentation
 
@@ -70,7 +74,7 @@ The module focusses on learning relatively few key techniques, and giving studen
 
 - [Teachers' notes](collect_anova_2.html).
 
-- [Two-factor ANOVA](https://ajwills72.github.io/rminr/anova2.html). 
+- [Factorial differences](https://ajwills72.github.io/rminr/anova2.html). 
 
 ### Week 11: Analyze data and start report plan
 

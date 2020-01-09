@@ -1,10 +1,4 @@
-# Resarch Methods in Practice (Part 2)
-
 # Long-Term Memory
-
-## Overview
-
-**TO DO**: Provide slides and notes sufficient for another member of academic staff to deliver a 5-minute oral introduction to your topic. Aim to engage and enthuse the students about this topic. 
 
 ## Production Effect
 
@@ -26,7 +20,6 @@ Forrin, N. D., Jonker, T. R., & MacLeod, C. M. (2014). Production improves memor
 
 Objects relevant to survival are better remembered. Is this evidence that memory is optimised for information that increases evolutionary fitness?
 
-
 ### Reading
 
 Nairne, J. & Pandeirada, J. (2016). Adaptive Memory: The Evolutionary Significance of Survival Processing. Perspectives on Psychological Science, 11, 496–511. [DOI: 10.1177/1745691616635613](http://evo.psych.purdue.edu/downloads/2016_Nairne_Pandeirada.pdf).
@@ -34,7 +27,6 @@ Nairne, J. & Pandeirada, J. (2016). Adaptive Memory: The Evolutionary Significan
 Nairne, J., Pandeirada, J., & R Thompson, S. (2008). Adaptive Memory The Comparative Value of Survival Processing. Psychological science. 19, 176-80. [DOI: 10.1111/j.1467-9280.2008.02064](http://evo.psych.purdue.edu/downloads/2008_Nairne_Pandeirada_Comparative_Value_of_Survival_Processing.pdf)
 
 Nairne, J.S., Thompson S.R., Pandeirada, J.N.S. (2007). Adaptive memory: survival processing enhances retention. Journal of Experimental Psychology: Learning, Memory, and Cognition, 33(2), 263–273. [DOI: 10.1037/0278-7393.33.2.263](http://evo.psych.purdue.edu/downloads/2007_Nairne_etal_Survival_Processing_Enhances_Retention.pdf)
-
 
 ## Metamemory: Judgements of Learning and Font Size
 
