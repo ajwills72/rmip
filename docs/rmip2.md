@@ -40,11 +40,11 @@ One week before this course begins, you must:
 
 - [Revised protocol](eg-student/revised-protocol.odt) form with [example answer](eg-student/revised-protocol-example.pdf).
 
-- _Bullet point plan_: There is no form for this, but there is a [example answer](eg-student/eg-bullet.html).
-
 - [Understanding interactions](https://ajwills72.github.io/rminr/anova2.html) worksheet. 
 
 - [Factorial differences](https://ajwills72.github.io/rminr/anova3.html) worksheet. 
+
+- _Bullet point plan_: There is no form for this, but there is a [example answer](eg-student/eg-bullet.html).
 
 - [Main report](eg-student/report-proforma.odt) template with [example answer](eg-student/report-eg.pdf) and [mark scheme](eg-student/report-mark-scheme.html).
 
