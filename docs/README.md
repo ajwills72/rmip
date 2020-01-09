@@ -8,7 +8,7 @@ Students on this module get a guided introduction to doing research as a team. A
 
 The module focusses on learning relatively few key techniques, and giving students lots of practice in those techniques -- learning by doing. It teaches students how to do good, open, reproducible science.
 
-**A student-facing page of resources is available [here](rmip2.html)**
+**A student-facing course outline is available [here](https://ajwills72.github.io/rmip/psyc520moduleoutline.html), and a student-facing page of resources is available [here](rmip2.html)**.
 
 ### Week 0: Pre-class preparation
 
