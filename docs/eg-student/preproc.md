@@ -20,8 +20,6 @@ list.files
 
 read_csv
 
-substr
-
 bind_rows
 
 colnames
