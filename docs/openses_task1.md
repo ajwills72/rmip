@@ -15,7 +15,7 @@ OpenSesame can be downloaded via the following links:
 
 ### Windows Machines
 
-Once downloaded you will need to double-click on the installer icon to install the program. You will likely find the installer in your downloads folder. Leave all options on their defaults and keep clicking *next* in the installer. It will take a while to install (there are lots of files) so give it some time. After installation OpenSesame should be available in the programs menu. You will likely see to programs available to you - opensesame and opensesame run. Througout PSYC520/720, *always* use opensesame (and not opensesame run). Click on the program to start. Note that it may take some time to load the first time you run OpenSesame.
+Once downloaded you will need to double-click on the installer icon to install the program. You will likely find the installer in your downloads folder. Leave all options on their defaults and keep clicking *next* in the installer. It will take a while to install (there are lots of files) so give it some time. After installation OpenSesame should be available in the programs menu. You will likely see to programs available to you - opensesame and opensesame run. Throughout PSYC520/720, *always* use opensesame (and not opensesame run). Click on the program to start. Note that it may take some time to load the first time you run OpenSesame.
 
 ### Apple Macs
 
