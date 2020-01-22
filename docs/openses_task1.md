@@ -39,7 +39,7 @@ The good news is once you have done this the setting sticks so you will not have
 
 The purpose of this exercise is to get used to running an OpenSesame experiment, so the precise details of the experiment itself are of less importance. To give a brief background however the experiment you will be running is one you may well remember for PSYC412. In PSYC412 there was a PsycEL task in which you saw some faces which had were asked to remember. You then completed a few games of *Play your cards right* before being shown some more faces to which you needed to indicate whether you recognise the face or not. The OpenSesame version for PSYC520/720 is the same except for the filler task. Instead of playing a game you will be asked to count backwards, in threes, from 30 to 0. 
 
-To begin, download the experiment from [here]()
+To begin, download the experiment from [here](openseslib/psycel_week_1_task.osexp)
 
 The experiment has probably been downloaded to your Downloads folder. To make life simple, move the file to your Desktop. Now go back to OpenSesame (or reopen it if you closed it earlier) and click on the **Open...** button in the toolbar. Now find your way to the Desktop and select the experiment file (called psyc520720_psychel_week1_task.osexp) then click Open. Once loaded it should look like this:
 
