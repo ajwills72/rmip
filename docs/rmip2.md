@@ -22,6 +22,8 @@ One week before this course begins, you must:
 
 - [Topic 3: Face processing](topic3.html).
 
+- [Running an OpenSesame Experiment](openses_task1.html) worksheet
+
 - [Statistical power](https://ajwills72.github.io/rminr/power.html) worksheet.
 
 - [Data preprocessing](https://ajwills72.github.io/rminr/preproc.html) worksheet. 
