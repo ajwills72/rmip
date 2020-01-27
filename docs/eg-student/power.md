@@ -9,7 +9,7 @@ Copy and paste the R command for estimating required sample size for a between-s
 ----
 
 ```
-pwr.t.test(power = .8, d = .5, type = "two.sample", alternative = "two.sided", sig.level = .05)
+pwr.t.test(power = .8, d = .5, type = "two.sample", alternative = "two.sided")
 ```
 
 ----
@@ -21,7 +21,7 @@ Copy and paste the R command for estimating statistical power for a between-subj
 ----
 
 ```
-pwr.t.test(n = 20, d = .5, type = "two.sample", alternative = "two.sided", sig.level = .05)
+pwr.t.test(n = 20, d = .5, type = "two.sample", alternative = "two.sided")
 ```
 
 ----
@@ -33,7 +33,7 @@ Copy and paste the R command for estimating required sample size for a within-su
 ----
 
 ```
-pwr.t.test(power = .8, d = .5, type = "paired", alternative = "two.sided", sig.level = .05)
+pwr.t.test(power = .8, d = .5, type = "paired", alternative = "two.sided")
 ```
 
 ----
@@ -45,7 +45,7 @@ Copy and paste the R command for estimating required effect size for a within-su
 ----
 
 ```
-pwr.t.test(power = .8, n = 25, type = "paired",  alternative = "two.sided", sig.level = .05)
+pwr.t.test(power = .8, n = 25, type = "paired",  alternative = "two.sided")
 ```
 
 ----
