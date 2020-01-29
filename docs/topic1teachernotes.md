@@ -16,7 +16,7 @@ Experiment 2 is key; effect size is: partial-eta-squared = .27. Students would n
 
 ### Teasdale et al. (1995) 
 
-Turning to its contents, there are reasonable effect sizes in both Experiment 1 (partial eta-squared = .64) and Experiment 2 (partial eta-squared = .62), although you should make students ware that these are based on a very small sample size (12 participants) and so may not be good estimates. It would be desirable to computerize the thought probes and responses, as per papers above. You'll also need to drop the articulatory suppresion condition, due to overall noise issues with group-based testing. In the digit load task, digits should be entered via the keyboard rather than spoken, for the same reason. Overall, Experiment 2's motor-spatial procedure may be an easier choice here!
+Turning to its contents, there are reasonable effect sizes in both Experiment 1 (partial eta-squared = .64) and Experiment 2 (partial eta-squared = .62), although you should make students aware that these are based on a very small sample size (12 participants) and so may not be good estimates. It would be desirable to computerize the thought probes and responses, as per papers above. You'll also need to drop the articulatory suppresion condition, due to overall noise issues with group-based testing. In the digit load task, digits should be entered via the keyboard rather than spoken, for the same reason. Overall, Experiment 2's motor-spatial procedure may be an easier choice here!
 
 ## 2. Where does our mind wander?
 
