@@ -14,14 +14,15 @@
 
 | min | Contents                                                                                                 |
 |-----|----------------------------------------------------------------------------------------------------------|
-| 000 | Teacher gives a short introduction to each of the three topics.                                          |
-| 020 | Students select topic (by standing at a particular point in the room).                                   |
-| 025 | Students self-organize into groups. TA allocated to groups. Any given TA does one topic.                 |
-| 030 | TAs introduce the sub-topics in their topic to their groups, and assign reading tasks for low-intensity workshop |
-| 050 | Break                                                                                                    |
-| 060 | Students do the [Statistical power](https://ajwills72.github.io/rminr/power.html) worksheet, with support  |
-| 090 | Students do the [Introduction to OpenSesame](openses_intro.html)  worksheet, with support                                    |
-| 110 | Finish                                                                                                   |
+| 005 | Teacher gets students to start installing Open Sesame |
+| 010 | Teacher gives general introduction to PSYC520 |
+| 015 | Teacher gives a short introduction to each of the three topics and sub-topics. |
+| 030 | Students select topic and organize into groups. TA allocated to groups. Any given TA does one / two topics. |
+| 055 | Break      |
+| 065 | Students do the [Introduction to OpenSesame](openses_intro.html)  worksheet, with support |
+| 085 | Teacher does introduction to Statistical Power |
+| 090 | Students do the [Statistical power](https://ajwills72.github.io/rminr/power.html) worksheet, with support  |
+| 115 | Finish                                                                                                   |
 
 ### Low-intensity session, and homework
 
