@@ -23,7 +23,7 @@ to publish. It introduces a time-of-testing confound. Between-subject
 conditions should be finely intermixed. 
 
 Students then revise their protocol, and re-program their experiment in
-PsychoPy.
+OpenSesame.
 
 ### Low intensity session, and homework
 
