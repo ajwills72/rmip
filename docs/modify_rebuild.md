@@ -15,7 +15,7 @@ effects).
 
 (B) Add a between-subjects condition to their existing study that widens the
 investigation to add another factor. Run that second condition in their second
-data colleciton phase. 
+data collection phase. 
 
 If choosing B, the TA needs to clarify that adding a condition that this
 is OK for teaching purposes but should  be avoided in research you're going
