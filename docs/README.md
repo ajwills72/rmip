@@ -50,8 +50,6 @@ The module focusses on learning relatively few key techniques, and giving studen
 
 - [Within-subject differences](https://ajwills72.github.io/rminr/anova1.html). 
 
-- [Understanding interactions](https://ajwills72.github.io/rminr/anova2.html).
-
 ### Week 6: Analyze data and prepare presentation
 
 - [Teachers' notes](analyze_prep.html).
@@ -74,7 +72,9 @@ The module focusses on learning relatively few key techniques, and giving studen
 
 - [Teachers' notes](collect_anova_2.html).
 
-- [Factorial differences](https://ajwills72.github.io/rminr/anova2.html). 
+- [Understanding interactions](https://ajwills72.github.io/rminr/anova2.html).
+
+- [Factorial differences](https://ajwills72.github.io/rminr/anova3.html). 
 
 ### Week 11: Analyze data and start report plan
 
