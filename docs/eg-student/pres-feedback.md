@@ -1,10 +1,7 @@
 # Group presentation: Feedback and marking sheet
 
-Your group's presentation was marked independently by two markers, who then agreed the following marks and feedback. The overall mark for each group was calculated by taking the mean across the nine scores below. The module leader took the set of overall marks, moderated them, and converted them to letter-grade score you see below. This was done with reference to the generic marking criteria you can find in your Stage handbook.
+Your group's presentation was marked independently by two markers, who then agreed the following scores and feedback. The overall mark for each group was calculated by taking the mean across the nine scores below. The module leader took the set of overall marks, moderated them, and converted them to the grade you see below. This was done with reference to the generic marking criteria you can find in your Stage handbook.
 **The mark awarded is for your group. Every member of the group who attended their group's presentation gets this mark. Failure to attend results in a mark of zero.**
-
-
-_OVERALL MARK: A + / A / A- / B+ / B / B- / C+ / C / C- / D+ / D / D- / F+ / F / F- / N_
 
 ## Feedback for presentation
 
@@ -67,3 +64,16 @@ FEEDBACK:
 Nothing in this final section affected your mark. It's frank feedback on your experiment and analysis, designed to help you plan for the next component of this module:
 
 FEEDBACK:
+
+
+_OVERALL MARK:_ You will receive one of the following marks:
+
+_1st class marks: 100% (A+), 88% (A), 77% (A-)_
+
+_Upper-second (2i) marks: 68% (B+), 65% (B), 62% (B-)_
+
+_Lower-second (2ii) marks: 58% (C+), 55% (C), 52% (C-)_
+
+_3rd class marks: 48% (D+), 45% (D), 42% (D-)_
+
+_Failing marks: 38% (F+), 25% (F), 15% (F-), N (0%)_
