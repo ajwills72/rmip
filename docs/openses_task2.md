@@ -4,13 +4,13 @@ _Chris Longmore_
 
 ## Introduction
 
-In the workshops during Week 3 of the module you will be building an experiment in OpenSesame from scratch. The experiment is rather simple and is described below. It is meant not so much for you to base your own experiments upon the experiment we produce, but rather to introduce you to the concepts used by OpenSesame. We begin by looking at something from the [data preprocessing](https://ajwills72.github.io/rminr/preproc.html) worksheet.
+In the workshops during Week 3 of the module you will be building an experiment in OpenSesame from scratch. The experiment is rather simple and is described below. It is meant not so much for you to base your own experiments upon the experiment we produce, but rather to introduce you to the concepts used by OpenSesame. We begin by looking at something covered in the [data preprocessing](https://ajwills72.github.io/rminr/preproc.html) worksheet - variables.
 
 ## Variables
 
-Variables are an important concept not just in programming, but also in OpenSesame. Whilst you do not do any coding in OpenSesame, but you will still need to use variables. Thus, to begin this worksheet, we will look at them again.
+Variables are an important concept not just in programming, but also in OpenSesame. Whilst you do not need to do any coding in OpenSesame for a simple experiment, you will still need to use variables. Thus, to begin this worksheet, we will look at them again.
 
-In the data preprocessing worksheet you saw how to combine multiple files together using what is known as a **for loop**. The code that did this is this:
+In the data preprocessing worksheet you saw how to combine multiple files together using what is known as a **for loop**. A for loop run a set of instructions a set number of times. The code that did this in the worksheet was this:
 
 	for(fnam in fnamlist) {
   		dat <- read_csv(fnam)
