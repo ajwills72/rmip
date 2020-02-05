@@ -22,13 +22,15 @@ One week before this course begins, you must:
 
 - [Topic 3: Face processing](topic3.html).
 
-- [Running an OpenSesame Experiment](openses_task1.html) worksheet
+- [Running an OpenSesame Experiment](openses_task1.html) worksheet.
 
 - [Statistical power](https://ajwills72.github.io/rminr/power.html) worksheet.
 
 - [Data preprocessing](https://ajwills72.github.io/rminr/preproc.html) worksheet. 
 
 - [One-page summary](eg-student/onepagesummary.odt) form, with [example](eg-student/onepagesummary-example.pdf).
+
+- [Building an OpenSesame Experiment](openses_task2.html) worksheet.
 
 - [Full protocol](eg-student/protocol.odt) form, with [example](eg-student/protocol-example.pdf).
 
