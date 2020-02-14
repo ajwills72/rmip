@@ -25,8 +25,8 @@ between members of the group include:
 ### Low-intensity session 
 
 Data collection works by 5/6 of each student group participating in six
-experiments. For 30min studies, this takes 3 hours plus shifting time, so
-easily fills both this session and the session next week.
+experiments. For 20 min studies, this takes 2 hours plus shifting time, so
+leaves a bit of useful slack in next week's low-intesnity session, if needed.
 
 
 
