@@ -38,5 +38,5 @@ Also, make sure that OpenSesame is running correctly on your laptop.
 In workshop 3 we went through creating an OpenSesame experiment from scratch. The video below goes back over those steps in case you need a reminder when creating your own experiment.
 
 <video width="712" height="400" controls>
-<source src = "http://www.chrislongmore.co.uk/screencasts/videos/creating_an_experiment_in_opensesame.mp4" type = "video/mp4">
+<source src = "http://www.psy.plymouth.ac.uk/LabPlus/PSYC520/creating_an_experiment_in_opensesame.mp4" type = "video/mp4">
 </video>
