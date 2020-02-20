@@ -40,11 +40,11 @@ The module focusses on learning relatively few key techniques, and giving studen
 
 - [Building an experiment in OpenSesame](openses_build.html).
 
-### Week 4: Build experiment and start data collection
+### Week 4: Build experiment
 
 - [Teachers' notes](build_collect.html).
 
-### Week 5: Learn skills and finish data collection
+### Week 5: Learn skills and collect data
 
 - [Teachers' notes](collect_anova.html).
 
