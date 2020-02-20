@@ -1,6 +1,6 @@
 # Research Methods in Practice (Part 2) - Teachers' notes
 
-## Week 5: Learn skills and finish data collection
+## Week 5: Learn skills and collect data
 
 ### High intensity session
 
