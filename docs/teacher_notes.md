@@ -306,7 +306,7 @@ Remember that this module involves two data collection phases, weeks apart, so y
 |-----|-------------------------------------------------------|
 | 000 | With TA support, analyse and interpet data            |
 | 080 | BREAK                                                 |
-| 090 | TA led discussion of presentation planning (see Note) |
+| 090 | TA led discussion of presentation planning (see Notes) |
 | 110 | Finish                                                |
 
 Note 1:
@@ -326,6 +326,10 @@ slides each.
 
 Note 2:
 
+Each group must be allocated a presentation day for week 7. Half the groups for a workshop present in the first week 7 session; half present in the second week 7 session. Sort which groups go when during this week 7 high-intensity session, and post the allocations to the DLE before the low-intensity session. Use the flexibility of having two sessions to accommodate groups who have serious reasons for not being able to make one of the sessions (e.g. funeral of a close relative). If we can't accommodate this, then absent members have to present on their own in week 9, and they only get the opportunity to do that with a formal extenuating circumstances approval. 
+
+Note 3:
+
 Students should be expected to produce graphs that have proper labels that are of a readable size. Some of the things they need to know about this are covered in the Absolute Beginners' Guide, but the best source is the [Better Graphs](https://ajwills72.github.io/bettergraphs.html) page.
 
 ### Low-intensity session, and homework
@@ -335,8 +339,7 @@ Students should be expected to produce graphs that have proper labels that are o
 - Practice on other groups, TAs, and reflect.
 
 - Submit presentation title, author names, and abstract by **end of the
-  low-intensity session**.  Failure to submit results in group being randomly
-  allocated to a session. Order within session pulled out of a hat on the day.
+  low-intensity session**. 
 
 - Submit analysis script.
 
