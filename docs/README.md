@@ -12,11 +12,11 @@ The module focusses on learning relatively few key techniques, and giving studen
 
 ### Week 0: Pre-class preparation
 
-- [Teachers' notes](pre_prep.html)
+- [Teachers' notes](teacher_notes.html#0)
 
 ### Week 1: Select topic and learn skills
 
-- [Teachers' notes](select_topic.html).
+- [Teachers' notes](teacher_notes.html#1)
 
 - [Statistical power](https://ajwills72.github.io/rminr/power.html) 
 
@@ -30,47 +30,47 @@ The module focusses on learning relatively few key techniques, and giving studen
 
 ### Week 2: Define question, outline design and learn skills
 
-- [Teachers' notes](define_outline.html).
+- [Teachers' notes](teacher_notes.html#2)
 
 - [Data preprocessing](https://ajwills72.github.io/rminr/preproc.html). 
 
 ### Week 3: Finalize design and learn skills
 
-- [Teachers' notes](design_build.html).
+- [Teachers' notes](teacher_notes.html#3)
 
 - [Building an experiment in OpenSesame](openses_build.html).
 
 ### Week 4: Build experiment
 
-- [Teachers' notes](build_collect.html).
+- [Teachers' notes](teacher_notes.html#4)
 
 ### Week 5: Learn skills and collect data
 
-- [Teachers' notes](collect_anova.html).
+- [Teachers' notes](teacher_notes.html#5)
 
 - [Within-subject differences](https://ajwills72.github.io/rminr/anova1.html). 
 
 ### Week 6: Analyze data and prepare presentation
 
-- [Teachers' notes](analyze_prep.html).
+- [Teachers' notes](teacher_notes.html#6)
 
 ### Week 7: Give group presentation
 
-- [Teachers' notes](pres.html).
+- [Teachers' notes](teacher_notes.html#7)
 
 ### Week 8: Modify, and start to rebuild, experiment
 
-- [Teachers' notes](modify_rebuild.html).
+- [Teachers' notes](teacher_notes.html#8)
   
 ### Week 9: Finish experiment rebuild and start to collect data
 
-- [Teachers' notes](rebuild_collect.html).
+- [Teachers' notes](teacher_notes.html#9)
   
 **EASTER BREAK**
 
 ### Week 10: Learn skills and finish data collection
 
-- [Teachers' notes](collect_anova_2.html).
+- [Teachers' notes](teacher_notes.html#10)
 
 - [Understanding interactions](https://ajwills72.github.io/rminr/anova2.html).
 
@@ -78,10 +78,10 @@ The module focusses on learning relatively few key techniques, and giving studen
 
 ### Week 11: Analyze data and start report plan
 
-- [Teachers' notes](analyze_plan.html).
+- [Teachers' notes](teacher_notes.html#11)
 
 ### Week 12: Critique and finish report plan
 
-- [Teachers' notes](critique_plan.html).
+- [Teachers' notes](teacher_notes.html#12)
 
 
