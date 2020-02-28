@@ -1,0 +1,66 @@
+- The eventual week 5 plan was:
+
+HI: Testing
+LO: Testing -> ANOVA worksheet
+
+
+- Should say to students prior to week 5:
+
+-- Experiments should take no longer than 15 minutes to run
+
+-- Experiments should not involve participants speaking loudly - 'under your breath' utterances are OK. 
+
+-- Stress importance of attendance. Low attendance means low N per round, which causes problems for everyone.
+
+-- Ensure laptops fully charged
+
+-- Bring headphones / make sure we've sourced enough headphones
+
+-- Before testing, ensure program runs from beginning to end, and runs as exepcted. 
+
+-- The program must be on EVERY laptop and checked that it runs correctly BEFORE the week 5 session.
+
+-- Using loaned laptops for testing:
+
+--- If at all possible, don't! It will make your life and everyone else's more complex. Bring your own laptop unless you do not own one and cannot afford to buy one (good refurbished Thinkpads are easily found online)
+
+--- If you have to, then: get the program installed on specific loaned machine,  and note the machine's number so you can pick up the same one next week.
+
+-- Note that if using OpenSesame on our laptops for the first time, you will have to log in, log out and log in again before OpenSesame will work. 
+
+-- Also note that, on our laptops, you cannot open an OpenSesame script directly from your email. You must download it from your email, then open the OpenSesame program, then use that to open the downloaded file.
+
+
+- Notes for week 5:
+
+- Run an additional drop-in session, Friday 12-2 for catch-up testing of people from other groups.
+
+- This is based on what Michael did, and his workshop got the most done, so it seems like a good plan:
+
+1. Create a chart showing where each table will go for the 11 data collection sessions (6 this week, 5 testing in week **) 
+
+2. Make sure there are 6 machines set up at each table 
+
+3. check battery life is enough for all sessions today 
+
+4. every group sets up their experiment, ready to run 
+
+5. have each group raise their hands, announce which group is going to their table 
+
+6. do not start until supervisors have gone to each table to check correct group is at that table 
+
+7. remind people - no talking unless they need to be talking. important to have quiet during data collection 
+
+8. have supervisors monitor when groups finish.
+
+9. when everybody is finished, have everyone return to their original tables.
+
+10. go back to step 4 for next session
+
+- Also:
+
+-- You never test the same person more than once in the same experiment.
+
+-- You must only test people enrolled on the module (ethical clearance reasons)
+
+
