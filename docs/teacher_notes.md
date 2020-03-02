@@ -40,7 +40,7 @@ Students work in groups of 6 within workshop classes of 80, so each class is thr
 
 Each week, students attend a two-hour _high intensity_ workshop, and a two-hour _low intensity_ workshop. The high-intensity workshops have a student:staff ratio of 16:1. One of those staff must be a member of academic staff (Lecturer / AP / Prof), who is expected to be present throughout the session. High-intensity sessions are where new topics are introduced, and where students can expect prompt high-quality support from topic experts, including their supervisor. 
 
-The low-intensity workshops are staffed at 40:1 ratio, by teaching assistants. No academic staff member is present. The low-intensity sessions are where students continue to work on material introduced in the high-intensity workshops, with support that is mainly technical or procedural in nature.
+The low-intensity workshops are staffed (normally at a 40:1 ratio), by teaching assistants. No academic staff member is present. The low-intensity sessions are where students continue to work on material introduced in the high-intensity workshops, with support that is mainly technical or procedural in nature. In some weeks (specifically weeks 2 and 5) more teaching assistants are required as the activities generate more queries.
 
 ### Assessment
 
@@ -253,7 +253,7 @@ These notes refer specifically to the laptop loan system operating in Link 301, 
 ### High intensity session
 
 - Collect data.
-                                                            |
+                                                            
 ### Low-intensity session
 
 | min | Contents                                                               |
@@ -261,6 +261,14 @@ These notes refer specifically to the laptop loan system operating in Link 301, 
 | 000 | Finish collecting data |
 | 050 | Complete [within-subjects differences](https://ajwills72.github.io/rminr/anova1.html) ANOVA worksheet |
 | 110 | Finish |
+
+**Note:** This session should probably be staffed at 30:1, as there's a fair need for support on the ANOVA worksheet.
+
+#### Advice: "Last working version" debugging
+
+If a student's command in R is not working but is individually correct, then they have likely made an error at a previous step. This might have involved ignoring an earlier error message, or it might have involved doing something that was wrong but didn't immediately generate an error (like mis-naming a new variable). 
+
+In these circumstances, you do 'last working version' debugging. In other words, go back through their previous commands until you find the error - the worksheets generally tell you what is expected as output at each step. 
 
 ### Optional third session
 
