@@ -22,8 +22,6 @@ for
 
 read_csv
 
-add_column
-
 bind_rows
 
 select
