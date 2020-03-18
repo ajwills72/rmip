@@ -20,7 +20,9 @@ In brief, students plan but do not run their second experiment. Multi-factor ANO
 
 High- and low-intensity workshops run at the same time, with the same staffing. However, they are virtual workshops, held on Zoom. Specifically, they are scheduled meetings.
 
-Workshop group leaders (Clare, Michael, Chris) are responsible for scheduling Zoom meetings for their workshop group. Decide whether you want to have one meeting per workshop session (~80 students), or one meeting per TA, and send the appropriate links to the appropriate students (or ensure the TAs do so).
+Workshop group leaders (Clare, Michael, Chris) are responsible for scheduling Zoom meetings for their workshop group. Decide whether you want to have one meeting per workshop session (~80 students), or one meeting per TA, and send the appropriate links to the appropriate students (or ensure the TAs do so). 
+
+_Please record these workshops using the facilities on zoom_. I'm not sure how well this will work, but it's at least a back up for students experiencing technical or other problems. 
 
 Staff/TAs working from the university should conduct Zoom meetings via an Ethernet (i.e. wired) rather than a WiFi (e.g. eduroam) connection where possible, as the University's WiFi is not really that great. If working from home, check you can use Zoom reliably from there well in advance of meetings.
 

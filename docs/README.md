@@ -11,7 +11,7 @@ The module focusses on learning relatively few key techniques, and giving studen
 
 - [Student-facing course outline](https://ajwills72.github.io/rmip/psyc520moduleoutline.html) 
 
-- [Student-facing page of resources](rmip2.html) with [COVID-19 update](teacher_notes_covid.html)
+- [Student-facing page of resources](rmip2.html) with [COVID-19 update](rmip2-covid.html)
 
 - [Topic 1: Mind wandering](topic1.html), with [teachers' notes](topic1teachernotes.html)
 
