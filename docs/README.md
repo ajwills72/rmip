@@ -7,11 +7,11 @@ Students on this module get a guided introduction to doing research as a team. A
 
 The module focusses on learning relatively few key techniques, and giving students lots of practice in those techniques -- learning by doing. It teaches students how to do good, open, reproducible science.
 
-- [Teachers' notes](teacher_notes.html#over)
+- [Teachers' notes](teacher_notes.html) with [COVID-19 update](teacher_notes_covid.html)
 
-- [Student-facing course outline](https://ajwills72.github.io/rmip/psyc520moduleoutline.html)
+- [Student-facing course outline](https://ajwills72.github.io/rmip/psyc520moduleoutline.html) 
 
-- [Student-facing page of resources](rmip2.html).
+- [Student-facing page of resources](rmip2.html) with [COVID-19 update](teacher_notes_covid.html)
 
 - [Topic 1: Mind wandering](topic1.html), with [teachers' notes](topic1teachernotes.html)
 
