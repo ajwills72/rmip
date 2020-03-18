@@ -207,8 +207,9 @@ Students may find this [library](openses_lib.md) of OpenSesame scripts useful.
 ### High- and low-intensity sessions
 
 Both sessions are dedicated to achieving the following goal: Have a working,
-bug-checked OpenSesame script ready to go. The tasks, which they need to divide
-between members of the group include: 
+bug-checked OpenSesame script ready to go. 
+
+Begin with an interactive session on programming experiments in Open Sesame; this will likely take much of the high-intensity session. Following this, the tasks, which students need to divide between members of the group include: 
 
 - Writing the instructions
 
@@ -220,7 +221,7 @@ between members of the group include:
 
 - Checking the output is usable.
 
-Each project must hit all the items on this checklist by the first session next week:
+Each project should meet all the items on this checklist by the first session next week:
 
 - Experiments takes no longer than 15 minutes to run. Check with a stopwatch.
 
@@ -450,7 +451,11 @@ Data collection, as in week 4.
 
 ## Week 10: Learn skills and finish data collection
 
-Whole session dedicated to two-factor ANOVA. There are two worksheets, _Understanding Interactions_ (60 minutes) and _Factorial Differences_ (40 min), so perhaps encourage students to take a break after the first worksheet.
+Whole session dedicated to two-factor ANOVA. There are two worksheets,
+[Understanding interactions](https://ajwills72.github.io/rminr/anova2.html) (60
+minutes) and [Factorial
+differences](https://ajwills72.github.io/rminr/anova3.html) (40 min), so
+perhaps encourage students to take a break after the first worksheet.
 
 ### Low intensity session
 
