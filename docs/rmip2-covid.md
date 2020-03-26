@@ -12,6 +12,8 @@ One week before this course begins, you must:
 
 2. Complete the R [revision worksheet](https://ajwills72.github.io/rminr/revision.html), as this course assumes this particular information will be fresh in your mind. It should take approximately 30-45 minutes to complete.
 
+If you ever want to look back at earlier materials on R, you can find them all on the main [RMINR](https://ajwills72.github.io/rminr) site. On that site, Part 1 and 2 are the Stage 1 materials, Part 3 is a a briefer version of Stage 1 for revision purposes, and Parts 4 and 5 are the Stage 2 materials.
+
 ## Resources 
 
 - [Topic 1: Mind wandering](topic1.html).
