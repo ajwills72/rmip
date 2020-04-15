@@ -1,6 +1,6 @@
 # Basic issues of grammar and style students get wrong
 
-Just compiling a list at the moment; will later provide material or links on how to do this stuff properly.
+This is a list of issues of grammar and style our students consistently get wrong. It should be useful in compiling support materials on these issues.
 
 - Arbitrary changing of tense
 

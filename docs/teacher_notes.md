@@ -207,8 +207,9 @@ Students may find this [library](openses_lib.md) of OpenSesame scripts useful.
 ### High- and low-intensity sessions
 
 Both sessions are dedicated to achieving the following goal: Have a working,
-bug-checked OpenSesame script ready to go. The tasks, which they need to divide
-between members of the group include: 
+bug-checked OpenSesame script ready to go. 
+
+Begin with an interactive session on programming experiments in Open Sesame; this will likely take much of the high-intensity session. Following this, the tasks, which students need to divide between members of the group include: 
 
 - Writing the instructions
 
@@ -220,7 +221,7 @@ between members of the group include:
 
 - Checking the output is usable.
 
-Each project must hit all the items on this checklist by the first session next week:
+Each project should meet all the items on this checklist by the first session next week:
 
 - Experiments takes no longer than 15 minutes to run. Check with a stopwatch.
 
@@ -380,17 +381,17 @@ During the session itself, focus on giving frank feedback that will help them wi
 
 Immediately after the end of each session, the Teacher and TA agree component scores and feedback for each group. The Teacher then immediately emails the agreed [scores/feedback CSV file](mark-process/feedback.csv), and the [groups/attendance CSV file](mark-process/groups.csv) to the module leader. Note that you do not assign an overall grade, this is done during moderation, although if you have a suggested grade for the groups, feel free to put those in the body of the email. It is important that correctly formatted CSV files are used because much of the subsequent process is automated. The links give examples of the format needed. In particular:
 
-Group_ID: Use their self-assigned group name, but it must be unique for each group and consistent within a group. If they didn't give themselves a name, assign a bland one (e.g. Workshop3Group4). 
+Group_ID: Use their self-assigned group name, but it must be unique for each group and consistent within a group. If they didn't give themselves a name, assign a bland one (e.g. Workshop3Group4). **It is absolutely VITAL that you use the SAME Group_ID in the two CSV files (feedback.csv and groups.csv)**. For example do not use, "W3G2" in one file, but "3.02" in the other file.
 
 PU_email: Give their full Plymouth University email address. Do not give their name (names can be non-unique, and emails make it easy to email feedback). You can find the email address for any student enrolled on the module by downloading a grading sheet from the DLE and searching it.
 
 present: 1 = present, 0 = absent. It's important to explicitly record the absent, as well as the present, students in each group. 
 
-Component: Use these exact words to describe the mark components.
+Component: Use these exact words to describe the mark components. **It's really important that you do not mis-spell the Components, e.g. "Clairty of speech", because the script will treat this as a different component.**
 
-Score: Use 1, 2, 3, 4, or 5.  1 = Poor, 2 = Patchy, 3 = OK, 4 = Good, 5 = Excellent.
+Score: Use 1, 2, 3, 4, or 5.  1 = Poor, 2 = Patchy, 3 = OK, 4 = Good, 5 = Excellent. **Zero is not a valid score**.
 
-Feedback: Write what and as much as you like, but don't use formatting (bold etc) and don't use carriage returns - just keep typing on a single line. 
+Feedback: Write what and as much as you like, but don't use formatting (bold etc) and don't use carriage returns - just keep typing on a single line. Apologies for the following basically advice, but it's all based on errors from the first time we ran this: (1) Start all your sentences with a capital letter, (2) avoid spelling and grammatical errors, (3) avoid abbreviations, (4) avoid note form, (5) if it's a question, use a question mark -- these comments are passed directly to students without editing!
 
 Once the Module Leader receives files from all sessions, they moderate, and return overall grades and feedback to the students via email. The ML also uploads overall grade to the DLE. These processes are largely automated by R scripts.
 
@@ -450,7 +451,11 @@ Data collection, as in week 4.
 
 ## Week 10: Learn skills and finish data collection
 
-Whole session dedicated to two-factor ANOVA. There are two worksheets, _Understanding Interactions_ (60 minutes) and _Factorial Differences_ (40 min), so perhaps encourage students to take a break after the first worksheet.
+Whole session dedicated to two-factor ANOVA. There are two worksheets,
+[Understanding interactions](https://ajwills72.github.io/rminr/anova2.html) (60
+minutes) and [Factorial
+differences](https://ajwills72.github.io/rminr/anova3.html) (40 min), so
+perhaps encourage students to take a break after the first worksheet.
 
 ### Low intensity session
 
