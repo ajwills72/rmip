@@ -98,6 +98,8 @@ Support for any unfinished activities.
 
 Here are some [slides](report-writing.odp) on report writing I put together for a similar course at Exeter about a decade ago. They might be helpful in developing materials here. These resources may also be helpful in putting presentation and support materials together.
 
+- Editable [Report template](eg-student/report-proforma-covid.odt) with guidance for students on each section.
+
 - [APA referencing guide](https://plymouth.libguides.com/APA)
 
 - [Common issues of grammar and style](grammar.html)
