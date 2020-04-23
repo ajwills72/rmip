@@ -72,7 +72,7 @@ Submit revised protocol.
 
 <a name="10"></a>
 
-## Week 10: Learn skills and finish data collection
+## Week 10: Learn skills 
 
 ### High-intensity session
 
