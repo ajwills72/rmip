@@ -50,7 +50,7 @@ If you ever want to look back at earlier materials on R, you can find them all o
 
 - _Bullet point plan_: There is no form for this, but there is a [example answer](eg-student/eg-bullet-covid.html).
 
-- [Main report](eg-student/report-proforma-covid.odt) template with [example answer](eg-student/report-eg-covid.pdf) and [mark scheme](eg-student/report-mark-scheme-covid.html).
+- Main report: [example answer](eg-student/report-eg-covid.pdf) and [mark scheme](eg-student/report-mark-scheme-covid.html).
 
 ___
 
