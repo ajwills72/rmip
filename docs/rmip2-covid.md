@@ -52,7 +52,7 @@ If you ever want to look back at earlier materials on R, you can find them all o
 
 - Main report: [example answer](eg-student/report-eg-covid.pdf) and [mark scheme](eg-student/report-mark-scheme-covid.html). 
 
-- There is also an example of a [very poor answer](eg-student/bad-report-eg-covid.pdf]. It reports the same work as the example answer, but verybadly. There is at least one error in most sentences, and at various different levels. 
+- There is also an example of a [very poor answer](eg-student/bad-report-eg-covid.pdf). It reports the same work as the example answer, but verybadly. There is at least one error in most sentences, and at various different levels. 
 
 ___
 
