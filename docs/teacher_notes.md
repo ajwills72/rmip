@@ -227,7 +227,7 @@ Each project should meet all the items on this checklist by the first session ne
 
 - If headphones are required for a project, students must source at least six pairs of headphones themselves, or ask us by the end of the low-intensity session to provide them.
 
--- The open sesame script is on  EVERY laptop in the gorup and checked that it runs correctly on every laptop BEFORE the week 5 first session.
+- The open sesame script is on  EVERY laptop in the gorup and checked that it runs correctly on every laptop BEFORE the week 5 first session.
 
 ### Homework
 
