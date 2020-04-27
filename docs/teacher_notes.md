@@ -434,7 +434,7 @@ OpenSesame.
 
 ### High intensity session
 
-As in week 4, the whole session is dedicated to achieving the following goal:
+The whole session is dedicated to achieving the following goal:
 Have a working, bug-checked OpenSesame script ready to go.
 
 ### Homework
@@ -443,7 +443,7 @@ Have a working, bug-checked OpenSesame script ready to go.
 
 ### Low-intensity session
 
-Data collection, as in week 4.
+Data collection.
 
 <a name="10"></a>
 
