@@ -48,7 +48,7 @@ Students work in groups of 6 within workshop classes of 80, so each class is thr
 
 Each week, students attend a two-hour _high intensity_ workshop, and a two-hour _low intensity_ workshop. The high-intensity workshops have a student:staff ratio of 16:1. One of those staff must be a member of academic staff (Lecturer / AP / Prof), who is expected to be present throughout the session. High-intensity sessions are where new topics are introduced, and where students can expect prompt high-quality support from topic experts, including their supervisor. 
 
-The low-intensity workshops are staffed (normally at a 40:1 ratio), by teaching assistants. No academic staff member is present. The low-intensity sessions are where students continue to work on material introduced in the high-intensity workshops, with support that is mainly technical or procedural in nature. In some weeks (specifically weeks 2, 4 and 5) more teaching assistants are required as the activities generate more queries.
+The low-intensity workshops are staffed (normally at a 40:1 ratio), by teaching assistants. No academic staff member is present. The low-intensity sessions are where students continue to work on material introduced in the high-intensity workshops, with support that is mainly technical or procedural in nature. In some weeks (specifically weeks 2, 4, 5 and 6) more teaching assistants are required as the activities generate more queries.
 
 ### Assessment
 
@@ -347,14 +347,16 @@ Students should be expected to produce graphs that have proper labels that are o
 
 ### Low-intensity session, and homework
 
+**Staff this session at a 25:1 ratio** - some groups need the whole high-intensity session for data analysis, and some of this low-intensity session, too. So one needs the full set of TAs in the low-intensity session to ensure continuity of advice.
+
+- Finish data analysis if not already done so, and submit analysis script.
+
 - Write presentation
 
 - Practice on other groups, TAs, and reflect.
 
 - Submit presentation title, author names, and abstract by **end of the
   low-intensity session**. 
-
-- Submit analysis script.
 
 <a name="7"></a>
 
