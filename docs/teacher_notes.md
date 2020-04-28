@@ -48,7 +48,14 @@ Students work in groups of 6 within workshop classes of 80, so each class is thr
 
 Each week, students attend a two-hour _high intensity_ workshop, and a two-hour _low intensity_ workshop. The high-intensity workshops have a student:staff ratio of 16:1. One of those staff must be a member of academic staff (Lecturer / AP / Prof), who is expected to be present throughout the session. High-intensity sessions are where new topics are introduced, and where students can expect prompt high-quality support from topic experts, including their supervisor. 
 
-The low-intensity workshops are staffed (normally at a 40:1 ratio), by teaching assistants. No academic staff member is present. The low-intensity sessions are where students continue to work on material introduced in the high-intensity workshops, with support that is mainly technical or procedural in nature. In some weeks (specifically weeks 2, 4, 5 and 6) more teaching assistants are required as the activities generate more queries.
+The low-intensity workshops are staffed (normally at a 40:1 ratio), by teaching assistants. No academic staff member is present. The low-intensity sessions are where students continue to work on material introduced in the high-intensity workshops, with support that is mainly technical or procedural in nature. In some weeks (specifically weeks 2, 4, 5 and 6) more teaching assistants are required as the activities generate more queries. Staff these at around 25:1.
+
+The following additional sessions are also run:
+
+- Weeks 3 to 6 (inclusive): A single, one-hour drop-in session, after high-intensity, but before low-intensity. The session is staffed by one person, and is dedicated to resolving OpenSesame issues. This is one session per week, not one session per workshop group per week.
+
+- Week 5: A single, two-hour, 'overflow' data collection session, after the low-intensity session. This allows groups who have not quite finished data collection to test people from other workshop groups to make up the numbers. This is one session, not one session per workshop group.
+
 
 ### Assessment
 
