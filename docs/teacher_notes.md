@@ -134,6 +134,8 @@ One week before the first class, students must be emailed and requested to:
 | 090 | Students do the [Statistical power](https://ajwills72.github.io/rminr/power.html) worksheet, with support  |
 | 115 | Finish                                                                                                   |
 
+_Note_: This is probably Plymouth-specific, but note that there is one restriction to the principle that students can pick their own groups -- group members must all be from the same exit-level of qualification (i.e. all B.Sc., or all M.Sc.). This is because M.Sc. work is marked to a higher standard, and the presentation is group marked.
+
 ### Low-intensity session, and homework
 
 - Agree in your group which sub-topic you're going to investigate.
