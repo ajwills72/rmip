@@ -209,42 +209,23 @@ DLE. **Do not** download any reports before this date, they could still change.
 3. As you mark, fill in the [scores CSV
   file](mark-process/report-feedback-covid.csv):
   
-  a. This contains an example student, obviously remove this before returning the
-  CSV file to the Module Leader. More generally, this file is automatically read, so it's
-  really important you get the format exactly right. So:
+    3.1. This contains an example student, obviously remove this before returning the CSV file to the Module Leader. More generally, this file is automatically read, so it's really important you get the format exactly right. So:
 
-  b. Use a single file for all your marking within the module (not one file per student).
+     3.2. Use a single file for all your marking within the module (not one file per student).
 
-  c. **It is vital** that the _Identifier_ column contains the student identifier
-  _exactly_ as it appears in the zip file you downloaded from the DLE. You will
-  probably find that this is the name of the directory (folder) that contains
-  the report, with one directory for each report. So, if it says "Participant
-  10735888", put that, not e.g. "10735888". Do NOT put the Student Reference
-  Number in the _Identifier_ column.
+    3.3. **It is vital** that the _Identifier_ column contains the student identifier _exactly_ as it appears in the zip file you downloaded from the DLE. You will probably find that this is the name of the directory (folder) that contains the report, with one directory for each report. So, if it says "Participant 10735888", put that, not e.g. "10735888". Do NOT put the Student Reference Number in the _Identifier_ column.
   
-  d. Always fill in the _SRN_ column. This is the unique Student Reference
-  Number, which the student has written at the top of every page of their
-  report. If they've forgotten to include it, write "NA" (not N.A. or n/a,
-  etc.). The SRN provides a useful backup way of linking these anonymous reports
-  back to the student should something go wrong with the DLE.
+    3.4. Always fill in the _SRN_ column. This is the unique Student Reference Number, which the student has written at the top of every page of their report. If they've forgotten to include it, write "NA" (not N.A. or n/a, etc.). The SRN provides a useful backup way of linking these anonymous reports back to the student should something go wrong with the DLE.
   
-  e. In the _Score_ column, put a number from 1 to 5. Only use these numbers. Do
-  not use fractional numbers. Do not use zero. Do not use NA. The numbers have
-  the following meanings:
+     3.5. In the _Score_ column, put a number from 1 to 5. Only use these numbers. Do not use fractional numbers. Do not use zero. Do not use NA. The numbers have the following meanings:
   
-  1 = Poor, 2 = Patchy, 3 = OK, 4 = Good, 5 = Excellent
+1 = Poor, 2 = Patchy, 3 = OK, 4 = Good, 5 = Excellent
 
-  f. In the _Component_ and _Description_ columns, use the descriptions
-  **exactly** as they appear in the example. Use copy-and-paste to ensure you
-  do not make mistakes.
+     3.6. In the _Component_ and _Description_ columns, use the descriptions **exactly** as they appear in the example. Use copy-and-paste to ensure you do not make mistakes.
 
-  g. Do not leave any blank cells. So, for example, the SRN should appear on
-  every line for that student. Use _copy down_ in your spreadsheet application
-  to ensure you don't make errors. Exactly how this works depends on your
-  application, but for LibreOffice Calc and Microsoft Excel, highlight the
-  cells you want to fill with the contents of the first row and press Ctrl+D.
+      3.7. Do not leave any blank cells. So, for example, the SRN should appear on every line for that student. Use _copy down_ in your spreadsheet application to ensure you don't make errors. Exactly how this works depends on your application, but for LibreOffice Calc and Microsoft Excel, highlight the cells you want to fill with the contents of the first row and press Ctrl+D.
   
-  h. Do not leave any blank lines.
+    3.8. Do not leave any blank lines.
 
 4. When you have finished reading and commenting on the report, fill in the
   'overall comments' section on the cover sheet. You should aim to say three
@@ -255,13 +236,7 @@ DLE. **Do not** download any reports before this date, they could still change.
   into the same folder, and overwriting the original file (i.e. same file
   name). 
   
-  a. If you don't know how to produce a flattened PDF within your preferred PDF
-  annotation tool, then use the Print to PDF functionality that is present on
-  all major OS (Windows, Mac, Linux). PDF flattening is important, because not
-  all devices can read PDFs properly unless they're flattened, and your
-  document may give the appearance of having no comments on it. This is
-  particularly a problem for Android / iOS smartphones and tablets, which quite
-  a few students use as their primary device.
+    5.1. If you don't know how to produce a flattened PDF within your preferred PDF annotation tool, then use the Print to PDF functionality that is present on all major OS (Windows, Mac, Linux). PDF flattening is important, because not all devices can read PDFs properly unless they're flattened, and your document may give the appearance of having no comments on it. This is particularly a problem for Android / iOS smartphones and tablets, which quite a few students use as their primary device.
 
 6. Note that you do not assign an overall grade, this is done during
   moderation, although if you have suggested grades, feel free to tell me what
@@ -282,23 +257,14 @@ the marking of the main report is done entirely separately, with different
 marking criteria. Given you do not award a grade, much of this process is handled 
 during moderation. However, there are still some important differences:
 
-1. Mark PSYC520 first, so you have a clear picture of the average standard of B.Sc. work.
+9. Mark PSYC520 first, so you have a clear picture of the average standard of B.Sc. work.
 
-2. Now mark PSYC720. Relative to your B.Sc. marking you should:
+10. Now mark PSYC720. Relative to your B.Sc. marking you should:
 
-  a. Give less 'benefit of the doubt': So, in an UG report you might find
-something unclear but be able to work it out eventually (perhaps because you
-are familiar with the project). In these cases we tend to give some 'benefit of the doubt' in
-that we assume the student meant the right thing and just didn't express it
-that well. For an M.Sc. student, don't try so hard to work out what they are
-saying. If it's unclear, treat it as if it is wrong.
+    10.1. Give less 'benefit of the doubt': So, in an UG report you might find something unclear but be able to work it out eventually (perhaps because you are familiar with the project). In these cases we tend to give some 'benefit of the doubt' in
+that we assume the student meant the right thing and just didn't express it that well. For an M.Sc. student, don't try so hard to work out what they are saying. If it's unclear, treat it as if it is wrong.
 
-  b. We expect a higher standard of written (and graphical) expression at
-M.Sc. level. At B.Sc. level, in some weaker cases the quality of English is not
-that great. And, at B.Sc. level, we would try quite hard to see beyond that to
-the substantive content. For an M.Sc. piece of work, we expect consistently
-good-quality writing that shouldn't need to be 'decoded' into a clear
-expression by the reader.
+    10.2. We expect a higher standard of written (and graphical) expression at M.Sc. level. At B.Sc. level, in some weaker cases the quality of English is not that great. And, at B.Sc. level, we would try quite hard to see beyond that to the substantive content. For an M.Sc. piece of work, we expect consistently good-quality writing that shouldn't need to be 'decoded' into a clear expression by the reader.
 
 
 
