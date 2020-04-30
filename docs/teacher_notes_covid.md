@@ -189,7 +189,7 @@ begins.
 
 The marking process is as follows:
 
-1. After the EC deadline has passed, download your set of reports from the
+- After the EC deadline has passed, download your set of reports from the
 DLE. **Do not** download any reports before this date, they could still change.
 
 -- The DLE is set up so that you can select your name and hence just the reports
@@ -206,7 +206,7 @@ vitally important that you keep your files for PSYC720 students entirely
 seperate from those of PSYC520 students, and that you mark PSYC720 after you
 mark PSYC520 (see below for the reason).
 
-2. Mark the report in the usual way:
+- Mark the report in the usual way:
 
 -- Use a PDF annotation tool to add helpful, specific, supportive comments as
   you go.
@@ -218,7 +218,7 @@ mark PSYC520 (see below for the reason).
 -- The [mark scheme](eg-student/report-mark-scheme-covid.html) indicates the
   sorts of things you should be giving feedback on.
  
-3. As you mark, fill in the [scores CSV
+- As you mark, fill in the [scores CSV
   file](mark-process/report-feedback-covid.csv):
   
 -- This contains an example student, obviously remove this before returning the
@@ -258,12 +258,12 @@ mark PSYC520 (see below for the reason).
   
 -- Do not leave any blank lines.
 
-4. When you have finished reading and commenting on the report, fill in the
+- When you have finished reading and commenting on the report, fill in the
   'overall comments' section on the cover sheet. You should aim to say three
   ways in which the report was good, and three ways in which it could have been
   improved. Your scores CSV file should help you decide what to write here.
   
-5. When you've finished annotating the PDF, ensure you've saved it, _flattened_,
+- When you've finished annotating the PDF, ensure you've saved it, _flattened_,
   into the same folder, and overwriting the original file (i.e. same file
   name). 
   
@@ -275,11 +275,11 @@ mark PSYC520 (see below for the reason).
   particularly a problem for Android / iOS smartphones and tablets, which quite
   a few students use as their primary device.
   
-5. Note that you do not assign an overall grade, this is done during
+- Note that you do not assign an overall grade, this is done during
   moderation, although if you have suggested grades, feel free to tell me what
   they are (in an email, not on this sheet).
    
-6. When you have marked your first report, send the marked version (and your
+- When you have marked your first report, send the marked version (and your
   mark sheet) to Andy Wills, and wait to hear back before marking any further
   reports. You can expect a response within 24 hours. 
 
