@@ -192,31 +192,19 @@ The marking process is as follows:
 1. After the EC deadline has passed, download your set of reports from the
 DLE. **Do not** download any reports before this date, they could still change.
 
-  a. The DLE is set up so that you can select your name and hence just the reports
-you are marking. 
+    1.1. The DLE is set up so that you can select your name and hence just the reports you are marking. 
 
-  b. Use the 'download as zip' functionality, which enables you to download all
-reports as a single zip archive. Then extract everything from the zip archive 
-and work on the extracted version. 
+    1.2. Use the 'download as zip' functionality, which enables you to download all reports as a single zip archive. Then extract everything from the zip archive and work on the extracted version. 
   
-  c. If you worked in Workshop 3 (Clare Walsh), some of your students were
-registered for PSYC720 (M.Sc. Psychology), not PSYC520 (B.Sc. Psychology). So,
-you'll have to download from both the PSYC520 and PSYC720 DLE pages. It's
-vitally important that you keep your files for PSYC720 students entirely
-seperate from those of PSYC520 students, and that you mark PSYC720 after you
-mark PSYC520 (see below for the reason).
+    1.3. If you worked in Workshop 3 (Clare Walsh), some of your students were registered for PSYC720 (M.Sc. Psychology), not PSYC520 (B.Sc. Psychology). So, you'll have to download from both the PSYC520 and PSYC720 DLE pages. It's vitally important that you keep your files for PSYC720 students entirely seperate from those of PSYC520 students, and that you mark PSYC720 after you mark PSYC520 (see below for the reason).
 
 2. Mark the report in the usual way:
 
-  a. Use a PDF annotation tool to add helpful, specific, supportive comments as
-  you go.
-  
-  b. Do not use sarcasm. Do not belittle. Don't write anything you wouldn't want
-  to receive on your work. If something is wrong, say so, but also say what is
-  right.
-  
-  c. The [mark scheme](eg-student/report-mark-scheme-covid.html) indicates the
-  sorts of things you should be giving feedback on.
+    2.1. Use a PDF annotation tool to add helpful, specific, supportive comments as you go.
+
+    2.2. Do not use sarcasm. Do not belittle. Don't write anything you wouldn't want to receive on your work. If something is wrong, say so, but also say what is right.
+ 
+    2.3. The [mark scheme](eg-student/report-mark-scheme-covid.html) indicates the sorts of things you should be giving feedback on.
 
 3. As you mark, fill in the [scores CSV
   file](mark-process/report-feedback-covid.csv):
