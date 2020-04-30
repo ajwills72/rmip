@@ -217,9 +217,7 @@ DLE. **Do not** download any reports before this date, they could still change.
   
     3.4. Always fill in the _SRN_ column. This is the unique Student Reference Number, which the student has written at the top of every page of their report. If they've forgotten to include it, write "NA" (not N.A. or n/a, etc.). The SRN provides a useful backup way of linking these anonymous reports back to the student should something go wrong with the DLE.
   
-     3.5. In the _Score_ column, put a number from 1 to 5. Only use these numbers. Do not use fractional numbers. Do not use zero. Do not use NA. The numbers have the following meanings:
-  
-1 = Poor, 2 = Patchy, 3 = OK, 4 = Good, 5 = Excellent
+     3.5. In the _Score_ column, put a number from 1 to 5. Only use these numbers. Do not use fractional numbers. Do not use zero. Do not use NA. The numbers have the following meanings: 1 = Poor, 2 = Patchy, 3 = OK, 4 = Good, 5 = Excellent
 
      3.6. In the _Component_ and _Description_ columns, use the descriptions **exactly** as they appear in the example. Use copy-and-paste to ensure you do not make mistakes.
 
