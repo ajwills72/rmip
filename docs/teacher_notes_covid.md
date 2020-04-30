@@ -189,101 +189,101 @@ begins.
 
 The marking process is as follows:
 
-- After the EC deadline has passed, download your set of reports from the
+1. After the EC deadline has passed, download your set of reports from the
 DLE. **Do not** download any reports before this date, they could still change.
 
--- The DLE is set up so that you can select your name and hence just the reports
+  a. The DLE is set up so that you can select your name and hence just the reports
 you are marking. 
 
--- Use the 'download as zip' functionality, which enables you to download all
+  b. Use the 'download as zip' functionality, which enables you to download all
 reports as a single zip archive. Then extract everything from the zip archive 
 and work on the extracted version. 
   
--- If you worked in Workshop 3 (Clare Walsh), some of your students were
+  c. If you worked in Workshop 3 (Clare Walsh), some of your students were
 registered for PSYC720 (M.Sc. Psychology), not PSYC520 (B.Sc. Psychology). So,
 you'll have to download from both the PSYC520 and PSYC720 DLE pages. It's
 vitally important that you keep your files for PSYC720 students entirely
 seperate from those of PSYC520 students, and that you mark PSYC720 after you
 mark PSYC520 (see below for the reason).
 
-- Mark the report in the usual way:
+2. Mark the report in the usual way:
 
--- Use a PDF annotation tool to add helpful, specific, supportive comments as
+  a. Use a PDF annotation tool to add helpful, specific, supportive comments as
   you go.
   
--- Do not use sarcasm. Do not belittle. Don't write anything you wouldn't want
+  b. Do not use sarcasm. Do not belittle. Don't write anything you wouldn't want
   to receive on your work. If something is wrong, say so, but also say what is
   right.
-
--- The [mark scheme](eg-student/report-mark-scheme-covid.html) indicates the
+  
+  c. The [mark scheme](eg-student/report-mark-scheme-covid.html) indicates the
   sorts of things you should be giving feedback on.
- 
-- As you mark, fill in the [scores CSV
+
+3. As you mark, fill in the [scores CSV
   file](mark-process/report-feedback-covid.csv):
   
--- This contains an example student, obviously remove this before returning the
+  a. This contains an example student, obviously remove this before returning the
   CSV file to the Module Leader. More generally, this file is automatically read, so it's
   really important you get the format exactly right. So:
 
--- Use a single file for all your marking within the module (not one file per student).
+  b. Use a single file for all your marking within the module (not one file per student).
 
--- **It is vital** that the _Identifier_ column contains the student identifier
+  c. **It is vital** that the _Identifier_ column contains the student identifier
   _exactly_ as it appears in the zip file you downloaded from the DLE. You will
   probably find that this is the name of the directory (folder) that contains
   the report, with one directory for each report. So, if it says "Participant
   10735888", put that, not e.g. "10735888". Do NOT put the Student Reference
   Number in the _Identifier_ column.
   
--- Always fill in the _SRN_ column. This is the unique Student Reference
+  d. Always fill in the _SRN_ column. This is the unique Student Reference
   Number, which the student has written at the top of every page of their
   report. If they've forgotten to include it, write "NA" (not N.A. or n/a,
   etc.). The SRN provides a useful backup way of linking these anonymous reports
   back to the student should something go wrong with the DLE.
   
--- In the _Score_ column, put a number from 1 to 5. Only use these numbers. Do
+  e. In the _Score_ column, put a number from 1 to 5. Only use these numbers. Do
   not use fractional numbers. Do not use zero. Do not use NA. The numbers have
   the following meanings:
   
   1 = Poor, 2 = Patchy, 3 = OK, 4 = Good, 5 = Excellent
 
--- In the _Component_ and _Description_ columns, use the descriptions
+  f. In the _Component_ and _Description_ columns, use the descriptions
   **exactly** as they appear in the example. Use copy-and-paste to ensure you
   do not make mistakes.
 
--- Do not leave any blank cells. So, for example, the SRN should appear on
+  g. Do not leave any blank cells. So, for example, the SRN should appear on
   every line for that student. Use _copy down_ in your spreadsheet application
   to ensure you don't make errors. Exactly how this works depends on your
   application, but for LibreOffice Calc and Microsoft Excel, highlight the
   cells you want to fill with the contents of the first row and press Ctrl+D.
   
--- Do not leave any blank lines.
+  h. Do not leave any blank lines.
 
-- When you have finished reading and commenting on the report, fill in the
+4. When you have finished reading and commenting on the report, fill in the
   'overall comments' section on the cover sheet. You should aim to say three
   ways in which the report was good, and three ways in which it could have been
   improved. Your scores CSV file should help you decide what to write here.
   
-- When you've finished annotating the PDF, ensure you've saved it, _flattened_,
+5. When you've finished annotating the PDF, ensure you've saved it, _flattened_,
   into the same folder, and overwriting the original file (i.e. same file
   name). 
   
-  -- If you don't know how to produce a flattened PDF within your preferred PDF
+  a. If you don't know how to produce a flattened PDF within your preferred PDF
   annotation tool, then use the Print to PDF functionality that is present on
   all major OS (Windows, Mac, Linux). PDF flattening is important, because not
   all devices can read PDFs properly unless they're flattened, and your
   document may give the appearance of having no comments on it. This is
   particularly a problem for Android / iOS smartphones and tablets, which quite
   a few students use as their primary device.
-  
-- Note that you do not assign an overall grade, this is done during
+
+6. Note that you do not assign an overall grade, this is done during
   moderation, although if you have suggested grades, feel free to tell me what
   they are (in an email, not on this sheet).
-   
-- When you have marked your first report, send the marked version (and your
+  
+7. When you have marked your first report, send the marked version (and your
   mark sheet) to Andy Wills, and wait to hear back before marking any further
   reports. You can expect a response within 24 hours. 
-
-- When you have marked ALL your reports, use the 'upload zip' functionality on
+  
+8. When you have marked ALL your reports, use the 'upload zip' functionality on
   the DLE to upload your marked reports to the DLE. At the same time, send Andy
   Wills your marks CSV file. 
   
@@ -291,20 +291,21 @@ mark PSYC520 (see below for the reason).
 
 Although PSYC520 (a B.Sc. module) and PSYC720 (a M.Sc. module) were co-taught,
 the marking of the main report is done entirely separately, with different
-marking criteria. Given you do not award a grade, much of this process is handled during moderation. However, there are still some important differences:
+marking criteria. Given you do not award a grade, much of this process is handled 
+during moderation. However, there are still some important differences:
 
-- Mark PSYC520 first, so you have a clear picture of the average standard of B.Sc. work.
+1. Mark PSYC520 first, so you have a clear picture of the average standard of B.Sc. work.
 
-- Now mark PSYC720. Relative to your B.Sc. marking you should:
+2. Now mark PSYC720. Relative to your B.Sc. marking you should:
 
--- Give less 'benefit of the doubt': So, in an UG report you might find
+  a. Give less 'benefit of the doubt': So, in an UG report you might find
 something unclear but be able to work it out eventually (perhaps because you
 are familiar with the project). In these cases we tend to give some 'benefit of the doubt' in
 that we assume the student meant the right thing and just didn't express it
 that well. For an M.Sc. student, don't try so hard to work out what they are
 saying. If it's unclear, treat it as if it is wrong.
 
--- We expect a higher standard of written (and graphical) expression at
+  b. We expect a higher standard of written (and graphical) expression at
 M.Sc. level. At B.Sc. level, in some weaker cases the quality of English is not
 that great. And, at B.Sc. level, we would try quite hard to see beyond that to
 the substantive content. For an M.Sc. piece of work, we expect consistently
