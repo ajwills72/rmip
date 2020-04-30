@@ -72,7 +72,7 @@ Submit revised protocol.
 
 <a name="10"></a>
 
-## Week 10: Learn skills and finish data collection
+## Week 10: Learn skills 
 
 ### High-intensity session
 
@@ -97,6 +97,8 @@ Support for any unfinished activities.
 ### Teachers' resources
 
 Here are some [slides](report-writing.odp) on report writing I put together for a similar course at Exeter about a decade ago. They might be helpful in developing materials here. These resources may also be helpful in putting presentation and support materials together.
+
+- Editable [Report template](eg-student/report-proforma-covid.odt) with guidance for students on each section.
 
 - [APA referencing guide](https://plymouth.libguides.com/APA)
 

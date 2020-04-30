@@ -48,7 +48,14 @@ Students work in groups of 6 within workshop classes of 80, so each class is thr
 
 Each week, students attend a two-hour _high intensity_ workshop, and a two-hour _low intensity_ workshop. The high-intensity workshops have a student:staff ratio of 16:1. One of those staff must be a member of academic staff (Lecturer / AP / Prof), who is expected to be present throughout the session. High-intensity sessions are where new topics are introduced, and where students can expect prompt high-quality support from topic experts, including their supervisor. 
 
-The low-intensity workshops are staffed (normally at a 40:1 ratio), by teaching assistants. No academic staff member is present. The low-intensity sessions are where students continue to work on material introduced in the high-intensity workshops, with support that is mainly technical or procedural in nature. In some weeks (specifically weeks 2 and 5) more teaching assistants are required as the activities generate more queries.
+The low-intensity workshops are staffed (normally at a 40:1 ratio), by teaching assistants. No academic staff member is present. The low-intensity sessions are where students continue to work on material introduced in the high-intensity workshops, with support that is mainly technical or procedural in nature. In some weeks (specifically weeks 2, 4, 5 and 6) more teaching assistants are required as the activities generate more queries. Staff these at around 25:1.
+
+The following additional sessions are also run:
+
+- Weeks 3 to 6 (inclusive): A single, one-hour drop-in session, after high-intensity, but before low-intensity. The session is staffed by one person, and is dedicated to resolving OpenSesame issues. This is one session per week, not one session per workshop group per week.
+
+- Week 5: A single, two-hour, 'overflow' data collection session, after the low-intensity session. This allows groups who have not quite finished data collection to test people from other workshop groups to make up the numbers. This is one session, not one session per workshop group.
+
 
 ### Assessment
 
@@ -127,6 +134,8 @@ One week before the first class, students must be emailed and requested to:
 | 090 | Students do the [Statistical power](https://ajwills72.github.io/rminr/power.html) worksheet, with support  |
 | 115 | Finish                                                                                                   |
 
+_Note_: This is probably Plymouth-specific, but note that there is one restriction to the principle that students can pick their own groups -- group members must all be from the same exit-level of qualification (i.e. all B.Sc., or all M.Sc.). This is because M.Sc. work is marked to a higher standard, and the presentation is group marked.
+
 ### Low-intensity session, and homework
 
 - Agree in your group which sub-topic you're going to investigate.
@@ -167,7 +176,7 @@ Allow some flexibility in timing after the break, depending on how much help the
 
 <a name="3"></a>
 
-## Week 3: Finalize design and learn skills
+## Week 3: Finalize design
 
 ### High intensity session
 
@@ -176,7 +185,7 @@ Allow some flexibility in timing after the break, depending on how much help the
 | 000 | Teacher introduces getting from broad to specific design |
 | 020 | With TA support, groups work towards a specific protocol |
 | 050 | BREAK                                                    |
-| 060 | With TA support, groups finalize and upload their protocol to Psyc:EL |
+| 060 | Work continues towards a specific protocol |
 | 110 | FINISH                                                   |
 
 **All groups need to bear in mind the limitations of the testing time and space they have**. In particular:
@@ -186,19 +195,15 @@ Allow some flexibility in timing after the break, depending on how much help the
 - Experiments should not involve participants speaking loudly - 'under your breath' utterances are OK. 
 
 
-### Low-intensity session
+### Low-intensity session and homework
 
-Teacher introduces building an experiment in Open Sesame and Students work through the exercise.
+- Complete and submit all previous Psyc:EL activities if not already done so. 
 
-### Homework
-
-- Complete and submit all Psyc:EL activities if not already done so. 
-
-- Start building experiment in OpenSesame.
+- Finish and submmit protocol to Psyc:EL.
 
 <a name="4"></a>
 
-### Week 4: Build experiment
+## Week 4: Build experiment
 
 ### Resources
 
@@ -207,7 +212,7 @@ Students may find this [library](openses_lib.md) of OpenSesame scripts useful.
 ### High- and low-intensity sessions
 
 Both sessions are dedicated to achieving the following goal: Have a working,
-bug-checked OpenSesame script ready to go. 
+bug-checked OpenSesame script ready to go. **Staff the low-intensity session more heavily than usual, at 25:1**. 
 
 Begin with an interactive session on programming experiments in Open Sesame; this will likely take much of the high-intensity session. Following this, the tasks, which students need to divide between members of the group include: 
 
@@ -231,7 +236,7 @@ Each project should meet all the items on this checklist by the first session ne
 
 - If headphones are required for a project, students must source at least six pairs of headphones themselves, or ask us by the end of the low-intensity session to provide them.
 
--- The open sesame script is on  EVERY laptop in the gorup and checked that it runs correctly on every laptop BEFORE the week 5 first session.
+- The open sesame script is on  EVERY laptop in the gorup and checked that it runs correctly on every laptop BEFORE the week 5 first session.
 
 ### Homework
 
@@ -351,14 +356,16 @@ Students should be expected to produce graphs that have proper labels that are o
 
 ### Low-intensity session, and homework
 
+**Staff this session at a 25:1 ratio** - some groups need the whole high-intensity session for data analysis, and some of this low-intensity session, too. So one needs the full set of TAs in the low-intensity session to ensure continuity of advice.
+
+- Finish data analysis if not already done so, and submit analysis script.
+
 - Write presentation
 
 - Practice on other groups, TAs, and reflect.
 
 - Submit presentation title, author names, and abstract by **end of the
   low-intensity session**. 
-
-- Submit analysis script.
 
 <a name="7"></a>
 
@@ -436,7 +443,7 @@ OpenSesame.
 
 ### High intensity session
 
-As in week 4, the whole session is dedicated to achieving the following goal:
+The whole session is dedicated to achieving the following goal:
 Have a working, bug-checked OpenSesame script ready to go.
 
 ### Homework
@@ -445,7 +452,7 @@ Have a working, bug-checked OpenSesame script ready to go.
 
 ### Low-intensity session
 
-Data collection, as in week 4.
+Data collection.
 
 <a name="10"></a>
 
