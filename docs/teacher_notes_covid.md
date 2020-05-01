@@ -181,7 +181,7 @@ more (you may have to wait one working day from when you send it).
 mark spreadsheets emailed to Module Leader (Andy Wills). Process of moderation
 begins.
 
-**Friday 19th June** - Reports and marks are returned to students.
+**Friday 19th June** - Reports and marks are returned to students via DLE. Marks uploaded to Unit-E.
 
 
 
