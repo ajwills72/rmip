@@ -196,7 +196,7 @@ The marking process is as follows:
   
     4.3. If you worked in Workshop 3 (Clare Walsh), some of your students were registered for PSYC720 (M.Sc. Psychology), not PSYC520 (B.Sc. Psychology). So, you'll have to download from both the PSYC520 and PSYC720 DLE pages. It's vitally important that you keep your files for PSYC720 students entirely seperate from those of PSYC520 students, and that you mark PSYC720 after you mark PSYC520 (see below for the reason).
     
-    4.4. If any of your reports were in the original marking sample (above) then you will have to re-mark them, as they may have changed. 
+    4.4. If any of your reports were in the original marking sample (above) then you will may to re-mark them, as they may have changed. The DLE gives the date of the last submission, so you can check.
 
 5. Mark the report in the usual way:
 
