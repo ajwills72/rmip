@@ -56,6 +56,11 @@ The following additional sessions are also run:
 
 - Week 5: A single, two-hour, 'overflow' data collection session, after the low-intensity session. This allows groups who have not quite finished data collection to test people from other workshop groups to make up the numbers. This is one session, not one session per workshop group.
 
+In addition to these sources of support, a subset of the TAs run 'hatch times' on a rota (one TA staffs the hatch at any given time). These are drop-in times, run every week day during term, until the EC deadline for the main report passes. Opening hours vary:
+
+- Hatch (Weeks 0-12 inclusive):  Mondays: 9 – 5, Tuesdays: 9 – 5, Wednesdays: 9 – 1, Thursdays: 9 – 5, Fridays: 9 - 4.30
+
+- Hatch (Weeks 13-15 inclusive): Monday-Friday, 10-2.
 
 ### Assessment
 
