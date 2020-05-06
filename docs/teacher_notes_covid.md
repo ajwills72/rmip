@@ -152,7 +152,11 @@ report.
 
 Write the report.
 
-## Week 13+: After the workshops end...
+## Week 13-15: After the workshops end...
+
+### Hatch support
+
+The TA hatch remains open every week day, until the EC deadline passes, to handle queries.
 
 ### TA guide to marking the main report
 
