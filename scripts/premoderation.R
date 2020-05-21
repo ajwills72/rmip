@@ -12,6 +12,8 @@ for (this.marker in markers) {
     marks  <- rbind(marks, tmp)
 }
 
+write_csv(marks, "mod-scores.csv")
+
 ## 4 Participants - how many unique identifiers?
 unique(marks$Identifier)
 
@@ -23,8 +25,23 @@ unique(marks$Identifier)
 unique(marks$SRN)
 
 ## Overall scores by marker
-marks %>% group_by(marker) %>% summarise(mark = mean(Score))
+overall  <- marks %>% group_by(marker) %>% summarise(mark = mean(Score))
+hist(overall$mark)
 
-marks %>% group_by(marker) %>% summarise(mark = mean(Score))
+## Overall score by SRN
+marks %>% group_by(SRN) %>% summarise(mark = mean(Score))
+
+# Grades
+grades  <- marks %>% group_by(marker, SRN) %>% summarise(mark = mean(Score))
+grades %>% pivot_wider(names_from = SRN, values_from = mark)
+
+graph  <- grades %>%
+    ggplot(aes(x=factor(SRN, levels =c(10611086, 10615235, 10614635, 10608855)),
+               y=mark, group=marker)) +
+    geom_line(aes(colour=marker)) +
+    geom_point()
+
+graph + facet_grid(marker ~ .)
+
 
 
