@@ -297,3 +297,18 @@ return520  <- return520 %>% select(-Graded)
 return520$`Feedback comments`  <- ""
 write_csv(return520, "return520.csv")
 
+## Now do summary stats for module report form
+
+rm(list=ls())
+library(tidyverse)
+return520  <- read_csv("return520.csv")
+
+return520 %>% filter(Grade != 0) %>% summarise(mean = mean(Grade), sd = sd(Grade), n = n())
+
+table(return520$Grade)
+
+return720  <- read_csv("return720.csv")
+
+return720 %>% filter(Grade != 0) %>% summarise(mean = mean(Grade), sd = sd(Grade), n = n())
+
+table(return720$Grade)
