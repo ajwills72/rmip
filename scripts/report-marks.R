@@ -117,9 +117,8 @@ full$mark[is.na(full$mark)]  <- 0
 full$mark[full$Identifier == "Participant 1"] ## 65
 full$mark[full$Identifier == "Participant 1"]  <- 62
 
-## Do not report mark if academic offence suspected
-full$mark[full$Identifier == "Participant 2"] ## 55
-full$mark[full$Identifier == "Participant 2"]  <- ""
+## Report zero mark if academic offence suspected
+full$mark[full$Identifier == "Participant 2"]  <- 0
 
 ## Copy across mark to correct column
 full$Grade  <- full$mark
