@@ -19,8 +19,7 @@ students to issues in conducting psychological research such as research project
 ## Expected Outcomes
 
 1. Develop a simple research question with a high level of guidance from a supervisor and 
-translate it into a study, then develop a more complex design to address issues arising 
-from the first study.
+translate it into a study.
 
 2. Develop a basic understanding of the importance of ethical issues in research.
 
@@ -37,45 +36,45 @@ literature that motivated the work.
 
 ## Teaching Arrangements
 
-Two two-hour workshops per week, for 12 weeks. Students work in small groups (about 6) 
-within workshops of about 80 students. Each workshop is run sufficient times to accommodate 
-the whole cohort (anticipated 3 times). Students’ personal timetables show them which workshops 
-to attend. In each week, one workshop will be high-intensity, staffed by one lead teacher and 
-four teaching assistants, and one will be low-intensity, staffed by two teaching assistants. 
-The same staff members are present every week. High-intensity sessions are used for delivery 
-of material that needs a high level of support. Staff set specific weekly goals to be achieved 
-in low-intensity workshops and homework, to support the next high-intensity workshop. 
-Low-intensity workshops are timetabled and staff to provide focus and support for the students. 
-A brief summary of the provisional schedule for each week is below; a much more detailed guide 
-may be found on the [Research Methods in Practice](https://ajwills72.github.io/rmip) website.
+Two two-hour workshops per week, for 12 weeks. Students work in small groups
+(about 7) within large workshops of about 100 students and smaller workshops of
+about 50 students. Each workshop is run sufficient times to accommodate the
+whole cohort. In each week, the first (large) workshop will be staffed by one
+lead teacher and four teaching assistants, and the second (small) workshop will
+be staffed by two teaching assistants.  The same staff members are present
+every week. A brief summary of the provisional schedule for
+each week is below; a much more detailed guide may be found on the [Research
+Methods in Practice](https://ajwills72.github.io/rmip) website.
 
-1. Select topic and learn skills (Statistical Power in R, Experiment building in Open Sesame)
 
-2. Define question, outline design and learn skills (Data preprocessing in R)
+Week 1: Select topic and learn about statistical power
 
-3. Finalize design and learn skills (Experiment building in Open Sesame)
+Week 2: Define question, outline design and learn about data preprocessing
 
-4. Build experiment and start data collection
+Week 3: Finalise experimental design
 
-5. Learn skills (one-factor ANOVA) and finish data collection
+Week 4: Build experiment
 
-6. Analyze data and prepare presentation
+Week 5: Upload experiment and begin to learn about ANOVA
 
-7. Give group presentation
+Week 6: Collect data and finish learning about ANOVA
 
-8. Modify, and start to rebuild, experiment
+Week 7: Finish data collection
 
-9. Finish experiment rebuild and start to collect data
+Week 8: Analyse data
 
-10. Learn skills (two-factor ANOVA) and finish data collection
+Week 9: Write a presentation
 
-11. Analyze data and start report plan
+Week 10: Give presentation
 
-12. Critique and finish report plan
+Week 11: Planning a report
+
+Week 12: Critique and support
+
 
 ## Indicative Reading List
 
-The materials are being developed in-house and released under a Creative Commons licence, see  
+The reading materials have been developed in-house and released under a Creative Commons licence, see 
 [Research Methods in Practice](https://ajwills72.github.io/rmip) and [Research Methods in R](https://ajwills72.github.io/rminr/). Primary sources (journal articles) will also form a major part of the reading, but will likely be different for each group. Only open-access journal articles will be used.
 
 ## Assessment
