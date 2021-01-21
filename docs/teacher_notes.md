@@ -34,6 +34,8 @@ _2021 edition_. All sections changed from 2020 version.
 
 - [Week 12: Critique and support](#12) 
 
+- [Weeks 13-15: After the workshops end...](#13)
+
 
 <a name="over"></a>
 
@@ -462,4 +464,120 @@ report. In there is time, or a lack of queries, support them in the following:
 [APA referencing](https://plymouth.libguides.com/APA)
 
 [Common issues of grammar and style](grammar.html)
+
+
+<a name="13"></a>
+
+## Week 13-15: After the workshops end...
+
+### Hatch support
+
+The TA hatch remains open every week day, until the EC deadline passes, to handle queries.
+
+### TA guide to marking the main report
+
+TAs mark the reports of the groups they led (normally around 20 reports). The
+total time this takes should not exceed one hour per report (excluding breaks,
+which you should take regularly). It's likely you will get faster with
+practice, but if your average over the first five reports is substantially more
+than an hour, speed up (e.g. write briefer comments).
+
+In addition, allow two hours for the initial markers' meeting and the preparation required for it.
+
+#### Timetable
+
+**Thursday 20th May 2021, noon** - Submission deadline passes. Module leader sends marking sample to markers. Markers must not mark any further reports until after the EC deadline, below.
+
+**Thursday 27th May 2021, noon** - Markers return marking sample with scores, but without feedback, to module leader.
+
+**Friday 28th May 2021, 1pm** - Initial markers' meeting between all markers and module leader.
+
+**Friday 4th June 2021, noon** - Extenuating Circumstances deadline passes. Reports available for marking.
+
+**Monday 14th June 2021, noon** (TBC)  - All reports marked and uploaded to DLE. All mark spreadsheets emailed to Module Leader. Process of moderation begins.
+
+**Friday 18th June 2021** - Reports and marks are returned to students via DLE. Marks uploaded to Unit-E.
+
+#### Marking process
+
+The marking process is as follows:
+
+1. On the day of the main deadline (20th May 2021), every marker receives the same four reports to mark. Unlike all subsequent marking, you do not write feedback on these reports. You just read the report and allocate the 25 scores using the score spreadsheet (for details, see below). This should not take you more than about 20 minutes per report. 
+
+2. Within one week, email your marks for these four reports to the module leader.
+
+3. You'll then have a single, 30-minute, Zoom meeting with all markers and the module leader to discuss how we all have marked these four reports. The module leader will have also marked the reports. The purpose of this meeting is to ensure you are all marking to the same standard.
+
+4. After the EC deadline has passed, download your set of reports from the DLE. **Do not** download any reports before this date, they could still change. 
+
+    4.1. The DLE is set up so that you can select your name and hence just the reports you are marking. 
+
+    4.2. Use the 'download as zip' functionality, which enables you to download all reports as a single zip archive. Then extract everything from the zip archive and work on the extracted version. 
+  
+    4.3. If you worked in Clare Walsh's workshop, some of your students were registered for PSYC720 (M.Sc. Psychology), not PSYC520 (B.Sc. Psychology). So, you'll have to download from both the PSYC520 and PSYC720 DLE pages. It's vitally important that you keep your files for PSYC720 students entirely seperate from those of PSYC520 students, and that you mark PSYC720 after you mark PSYC520 (see below for the reason).
+    
+    4.4. If any of your reports were in the original marking sample (above) then you will may to re-mark them, as they may have changed. The DLE gives the date of the last submission, so you can check.
+
+5. Mark the report in the usual way:
+
+    5.1. Use a PDF annotation tool to add helpful, specific, supportive comments as you go.
+
+    5.2. Do not use sarcasm. Do not belittle. Don't write anything you wouldn't want to receive on your work. If something is wrong, say so, but also say what is right.
+ 
+    5.3. The [mark scheme](eg-student/report-mark-scheme.html) indicates the sorts of things you should be giving feedback on.
+
+6. As you mark, fill in the [scores CSV file](mark-process/report-feedback.csv):
+  
+    6.1. This contains an example student, obviously remove this before returning the CSV file to the Module Leader. More generally, this file is automatically read, so it's really important you get the format exactly right. So:
+
+     6.2. Use a single file for all your marking within the module (not one file per student).
+
+    6.3. **It is vital** that the _Identifier_ column contains the student identifier _exactly_ as it appears in the zip file you downloaded from the DLE. You will probably find that this is the name of the directory (folder) that contains the report, with one directory for each report. So, if it says "Participant 10735888", put that, not e.g. "10735888" or "Participant_10735888". Do NOT put the Student Reference Number in the _Identifier_ column. Do NOT type in these numbers by hand, ALWAYS copy and paste. Typing in by hand leads, across 200+ reports, to various copy errors, which are devilish to fix, particuarly if your error is actually also a valid Identifier. 
+  
+    6.4. Always fill in the _SRN_ column. This is the unique Student Reference Number, which the student has written at the top of every page of their report. If they've forgotten to include it, write "NA" (not N.A. or n/a, etc.). The SRN provides a useful backup way of linking these anonymous reports back to the student should something go wrong with the DLE.
+  
+     6.5. In the _Score_ column, put a number from 1 to 5. Only use these numbers. Do not use fractional numbers. Do not use zero. Do not use NA. The numbers have the following meanings: 1 = Poor, 2 = Patchy, 3 = OK, 4 = Good, 5 = Excellent
+
+     6.6. In the _Component_ and _Description_ columns, use the descriptions **exactly** as they appear in the example. Use copy-and-paste to ensure you do not make mistakes.
+
+      6.7. Do not leave any blank cells. So, for example, the SRN should appear on every line for that student. Use _copy down_ in your spreadsheet application to ensure you don't make errors. Exactly how this works depends on your application, but for LibreOffice Calc and Microsoft Excel, highlight the cells you want to fill with the contents of the first row and press Ctrl+D.
+  
+    6.8. Do not leave any blank lines.
+
+7. When you have finished reading and commenting on the report, fill in the
+  'overall comments' section on the cover sheet. You should aim to say three
+  ways in which the report was good, and three ways in which it could have been
+  improved. Your scores CSV file should help you decide what to write here.
+  
+8. When you've finished annotating the PDF, ensure you've saved it, _flattened_,
+  into the same folder, and overwriting the original file (i.e. same file
+  name). 
+  
+    8.1. If you don't know how to produce a flattened PDF within your preferred PDF annotation tool, then use the Print to PDF functionality that is present on all major OS (Windows, Mac, Linux). PDF flattening is important, because not all devices can read PDFs properly unless they're flattened, and your document may give the appearance of having no comments on it. This is particularly a problem for Android / iOS smartphones and tablets, which quite a few students use as their primary device.
+
+9. Note that you do not assign an overall grade, this is done during
+  moderation, although if you have suggested grades, feel free to tell me what
+  they are (in an email, not on this sheet).
+    
+10. When you have marked ALL your reports, use the 'upload zip' functionality on
+  the DLE to upload your marked reports to the DLE. At the same time, send Andy
+  Wills your marks CSV file. 
+  
+#### Marking PSYC720
+
+Although PSYC520 (a B.Sc. module) and PSYC720 (a M.Sc. module) were co-taught,
+the marking of the main report is done entirely separately, with different
+marking criteria. Given you do not award a grade, much of this process is handled 
+during moderation. However, there are still some important differences:
+
+11. Mark PSYC520 first, so you have a clear picture of the average standard of B.Sc. work.
+
+12. Now mark PSYC720. Relative to your B.Sc. marking you should:
+
+    12.1. Give less 'benefit of the doubt': So, in an UG report you might find something unclear but be able to work it out eventually (perhaps because you are familiar with the project). In these cases we tend to give some 'benefit of the doubt' in
+that we assume the student meant the right thing and just didn't express it that well. For an M.Sc. student, don't try so hard to work out what they are saying. If it's unclear, treat it as if it is wrong.
+
+    12.2. We expect a higher standard of written (and graphical) expression at M.Sc. level. At B.Sc. level, in some weaker cases the quality of English is not that great. And, at B.Sc. level, we would try quite hard to see beyond that to the substantive content. For an M.Sc. piece of work, we expect consistently good-quality writing that shouldn't need to be 'decoded' into a clear expression by the reader.
+
+
 

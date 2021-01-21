@@ -5,7 +5,7 @@ Upload your group's one-page summary _as a PDF_ below. It must use the proforma 
 ____
 
 
-An example model answer can be found [here](onepagesummary-example.pdf)
+An example model answer can be found [here](onepagesummary-example.odt)
 
 ___
 

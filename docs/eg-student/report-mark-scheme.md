@@ -21,33 +21,31 @@ Participant sections are clear, accurate, and contain correct information
 
 Sample sizes are justified through a power calculation
 
-Apparatus and materials sections are clear, accurate, and contain correct information
+Apparatus and materials section is clear, accurate, and contain correct information
 
-Procedure sections are clear, accurate, and contain correct information.
+Procedure section is clear, accurate, and contain correct information.
 
-Results sections are overall clear, accurate, and contain correct information
+Results section is overall clear, accurate, and contain correct information
 
 Figures are clear and appropriate, lack clutter, and have meaningful axis labels and good font sizes
 
 Figures have an appropriate figure legend that is referred to in the main text.
 
-Results sections include appropriate and accurate summary statistics (e.g. means, density plots)
+Results section includes appropriate and accurate summary statistics (e.g. means, density plots)
 
-Results sections include appropriate and accurate inferential statistics (Bayesian ANOVA)
+Results section includes appropriate and accurate inferential statistics (Bayesian ANOVA)
 
-Interim discussion sections are concise, clear, and appropriate
+Discussion correctly and clearly summarises findings
 
-General Discussion correctly and clearly summarises findings
+Discussion correctly interprets findings
 
-General Discussion correctly interprets findings
+Discussion makes appropriate links to previous literature
 
-General Discussion makes appropriate links to previous literature
+Discussion provides good considerations of the limitations of the current studies
 
-General Discussion provides good considerations of the limitations of the current studies
+Discussion makes good, sensible suggestsion for future work
 
-General Discussion makes good, sensible suggestsion for future work
-
-General Discussion concludes appropriately.
+Discussion concludes appropriately.
 
 Overall clarity of writing
 

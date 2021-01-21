@@ -4,7 +4,7 @@ Upload your group's full data set. This must be as a single ZIP archive file.
 
 ----
 
-No model data available as yet.
+No model data.
 
 ----
 

@@ -30,25 +30,23 @@ If you ever want to look back at earlier materials on R, you can find them all o
 
 - [Data preprocessing](https://ajwills72.github.io/rminr/preproc.html) worksheet. 
 
-- [One-page summary](eg-student/onepagesummary.odt) form, with [example](eg-student/onepagesummary-example.pdf).
+- [One-page summary](eg-student/onepagesummary.odt) form, with [example](eg-student/onepagesummary-example.odt).
 
 - [Building an OpenSesame Experiment](openses_task2.html) worksheet.
 
-- [Full protocol](eg-student/protocol.odt) form, with [example](eg-student/protocol-example.pdf).
+- [Full protocol](eg-student/protocol.odt) form, with [example](eg-student/protocol-example.odt).
 
 - [Within-subject differences](https://ajwills72.github.io/rminr/anova1.html) worksheet. 
-
-- [Group presentation ('conference') submission](eg-student/conference-abstract.odt) form, with [example](eg-student/conference-abstract-eg.pdf).
-
-- [Example presentation slides](eg-student/presentation-eg.pdf).
-
-- [Presentation feedback](eg-student/pres-feedback.html) form with [example feedback](eg-student/pres-feedback-eg.html).
-
-- [Revised protocol](eg-student/revised-protocol.odt) form with [example answer](eg-student/revised-protocol-example.pdf).
 
 - [Understanding interactions](https://ajwills72.github.io/rminr/anova2.html) worksheet. 
 
 - [Factorial differences](https://ajwills72.github.io/rminr/anova3.html) worksheet. 
+
+- [Group presentation ('conference') submission](eg-student/conference-abstract.odt) form, with [example](eg-student/conference-abstract-eg.odt).
+
+- [Example presentation slides](eg-student/presentation-eg.odt).
+
+- [Presentation feedback](eg-student/pres-feedback.html) form with [example feedback](eg-student/pres-feedback-eg.html).
 
 - _Bullet point plan_: There is no form for this, but there is a [example answer](eg-student/eg-bullet.html).
 
