@@ -21,7 +21,7 @@
 	- Results as per presentation
 	
 		
-- General Discussion
+- Discussion
 
 	- Summary of findings
 	
