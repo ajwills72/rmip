@@ -2,9 +2,7 @@
 
 _Andy Wills, Clare Walsh, Chris Longmore, Michael Verde_
 
-In this course, you'll get a guided introduction to doing research as a team. Across twenty-three two-hour workshops and 12 weeks, you'll go through the whole _research cycle_ twice. You'll pick a topic (from a list), plan a study, build an experiment, collect data, analyze that data, and give a group presentation on your initial findings. You'll then modify your design in response to feedback, collect and analyze more data, and write up the whole thing in journal article format. The focus is on learning a few techniques well, and getting lots of practice in those techniques. You'll learn how to do good, open, reproducible science, and you'll be well prepared for the research methods components of your final year. 
-
-**Bring your own laptop to every session if you have one, ensuring it is fully charged and that you have several gigabytes of space left on your hard drive.** A limited number of laptops are available for loan to those who do not have one.
+In this course, you'll get a guided introduction to doing research as a team. Across weekly two-hour workshops, you'll go through the whole _research cycle_. You'll pick a topic (from a list), plan a study, build an experiment, collect data, analyze that data, and give a group presentation on your findings. You'll then write up the whole thing in journal article format. The focus is on learning a few techniques well, and getting lots of practice in those techniques. You'll learn how to do good, open, reproducible science, and you'll be well prepared for the research methods components of your final year. 
 
 ## Before the course begins
 
