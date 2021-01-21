@@ -48,7 +48,7 @@ If you ever want to look back at earlier materials on R, you can find them all o
 
 - _Bullet point plan_: There is no form for this, but there is a [example answer](eg-student/eg-bullet.html).
 
-- [Main report](eg-student/report-proforma.odt) template with [example answer](eg-student/report-eg.pdf) and [mark scheme](eg-student/report-mark-scheme.html). Also, see this [really bad answer](bad-report-eg.odt) for comparison.
+- [Main report](eg-student/report-proforma.odt) template with [example answer](eg-student/report-eg.pdf) and [mark scheme](eg-student/report-mark-scheme.html). Also, see this [really bad answer](eg-student/bad-report-eg.odt) for comparison.
 
 ___
 
