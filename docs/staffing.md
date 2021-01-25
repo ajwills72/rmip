@@ -1,29 +1,39 @@
-# Staffing in 2019/20
+# Staffing in 2020/21
 
-## Extra support
+## Group U 
+_Times_: Mondays 9-11 and Thursdays 9-11 
+_Lead_: Michael Verde
+_TAs_: Despina Djama & Anna Caunt
 
-On 6th Feb 2020, Stuart and Rory will support Thur 9-4, for data preprocessing worksheet.
+## Group V 
+_Times_: Mondays 9-11 and Thursdays 11-1 
+_Lead_: Michael Verde
+_TAs_: Katie Brindle & a Rory
 
-## Group 1 (Mon 9-11, Thur 9-11)
+## Group W 
+_Times_: Tuesdays 9-11 and Fridays 9-11 
+_Lead_: Clare Walsh
+_TAs_: Shaun Dordoy & Karol Nedza
 
-Lead high-intensity sessions: Michael
+## Group PSYC720 
+_Times_: Tuesdays 9-11 and Thursdays 2-4
+_Lead_: Clare Walsh
+_TAs_: Hannah Windmill & the other Rory
 
-Support high-intensity sessions: Leonie, Karol, Katie, Stuart
+## Group X
+_Times_: Mondays 11-1 and Fridays 11-1 
+_Lead_: Chris Longmore
+_TAs_: Stephanie Hartgen & Ryan Statton
 
-Low-intensity session staffing:  Two of Leonie, Karol, Katie
+## Group Y
+_Times_: Mondays 11-1 and Fridays 2-4 
+_Lead_: Chris Longmore
+_TAs_: Tigan Schofield & Christopher Jones
 
-## Group 2 (Mon 11-1, Thur 11-1)
 
-Lead high-intensity sessions: Chris L
 
-Support high-intensity sessions: Chris, Ryan, Despina, Paul
 
-Low-intensity session staffing: Two of Chris, Ryan, Despina
 
-## Group 3 (Tue 9-11, Thur 2-4)
 
-Lead high-intensity sessions: Clare Walsh
 
-Support high-intensity sessions: Steff, Julie, Sarah, Rory
 
-Low-intensity session staffing: Steff, Julie
