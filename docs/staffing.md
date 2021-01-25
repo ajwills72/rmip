@@ -15,7 +15,7 @@ _Times_: Mondays 9-11 and Thursdays 11-1
 
 _Lead_: Michael Verde
 
-_TAs_: Katie Brindle & a Rory
+_TAs_: Katie Brindle & Rory Baxter
 
 ## Group W 
 
@@ -32,7 +32,7 @@ _Times_: Tuesdays 9-11 and Thursdays 2-4
 
 _Lead_: Clare Walsh
 
-_TAs_: Hannah Windmill & the other Rory
+_TAs_: Hannah Windmill & Rory Spanton
 
 
 ## Group X
