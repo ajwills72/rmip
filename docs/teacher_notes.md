@@ -494,9 +494,9 @@ In addition, allow two hours for the initial markers' meeting and the preparatio
 
 **Friday 4th June 2021, noon** - Extenuating Circumstances deadline passes. Reports available for marking.
 
-**Monday 14th June 2021, noon** (TBC)  - All reports marked and uploaded to DLE. All mark spreadsheets emailed to Module Leader. Process of moderation begins.
+**Monday 14th June 2021, noon** (HARD DEADLINE!)  - All reports marked and uploaded to DLE. All mark spreadsheets emailed to Module Leader. Process of moderation begins.
 
-**Friday 18th June 2021** - Reports and marks are returned to students via DLE. Marks uploaded to Unit-E.
+**Wed 16th June 2021** - Reports and marks are returned to students via DLE. Marks uploaded to Unit-E.
 
 #### Marking process
 
