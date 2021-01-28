@@ -17,11 +17,23 @@ OpenSesame can be downloaded via the following links:
 
 Once downloaded, you will need to double-click on the installer icon to install the program. You will likely find the installer in your downloads folder. Leave all options on their defaults and keep clicking *next* in the installer. It will take a while to install (there are lots of files) so give it some time. After installation, OpenSesame should be available in the programs menu. You will see two programs available to you - OpenSesame and OpenSesame (runtime). Throughout PSYC520/720, *always* use OpenSesame. Click on the program to start. Note that it may take some time to load the first time you run OpenSesame.
 
+A full video showing the process:
+
+<video width="960" height="540" controls>
+<source src = "http://www.chrislongmore.co.uk/tmp/installing_on_windows.mp4" type = "video/mp4">
+</video>
+
 ### Apple Macs
 
 The downloaded file is a Disk Image file. Once the file has downloaded (you will probably find it in the Downloads folder) and you have opened the file, you will see the OpenSesame icon and an alias to your Applications folder. Drag the OpenSesame icon over to the Applications folder. It will then install. You will then be able to find OpenSesame in your Applications folder. Note: do not run OpenSesame from the disk image.
 
 Depending upon your version of macOS, and the security settings you have enabled, there might be a couple of extra steps. Try to run OpenSesame. If your computer says it cannot as it is from an unidentified developer, instead of double-clicking on the OpenSesame icon, right click once and select **Open**. The warning will now give you the chance to open the application so click **Open** to run the program. There are other possibile access rights messages that pop up. If you see one of these, there will be two optoins; to open system preferences and deny. Click on open system preferences and grant any instance of OpenSesame access.
+
+A full video showing the process:
+
+<video width="960" height="540" controls>
+<source src = "http://www.chrislongmore.co.uk/tmp/installing_on_macos.mp4" type = "video/mp4">
+</video>
 
 ## The Interface
 
