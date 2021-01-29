@@ -20,7 +20,7 @@ Once downloaded, you will need to double-click on the installer icon to install 
 A full video showing the process:
 
 <video width="960" height="540" controls>
-<source src = "http://www.chrislongmore.co.uk/tmp/installing_on_windows.mp4" type = "video/mp4">
+<source src = "https://www.psy.plymouth.ac.uk/LabPlus/PSYC520/installing_on_windows.mp4" type = "video/mp4">
 </video>
 
 ### Apple Macs
@@ -32,7 +32,7 @@ Depending upon your version of macOS, and the security settings you have enabled
 A full video showing the process:
 
 <video width="960" height="540" controls>
-<source src = "http://www.chrislongmore.co.uk/tmp/installing_on_macos.mp4" type = "video/mp4">
+<source src = "https://www.psy.plymouth.ac.uk/LabPlus/PSYC520/Installing_on_macos.mp4" type = "video/mp4">
 </video>
 
 ## The Interface
