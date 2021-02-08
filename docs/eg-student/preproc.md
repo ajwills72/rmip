@@ -29,15 +29,15 @@ lexdat.tidy %>%
   group_by(subj, type) %>% 
   summarise(mean(rt))
 
-- [x] do (NEW)
+- [x] do 
 
 - [x] list.files
 
 - [x] read_csv
 
-- [ ] bind_rows (removed)
+- [ ] bind_rows 
 
-- [ ] colnames (removed)
+- [ ] colnames
 
 - [x] filter
 
