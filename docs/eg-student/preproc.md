@@ -16,20 +16,35 @@ _AUTO MARKING_: Accept any entry that meets all of the following conditions:
 
 (c) Contains ALL of the following strings: 
 
-list.files
 
-read_csv
+lexdat <- tibble(filename=list.files("lexdec", pattern = "csv", full.names=TRUE)) %>% 
+  group_by(filename) %>% 
+  do(read_csv(.$filename)) 
+lexdat.tidy <- lexdat %>% 
+  select(subject_nr, practice, live_row, category, correct, response_time) %>% 
+  set_names( c("filenamme", "subj", "practice", "trial", "type", "acc", "rt"))
+lexdat.tidy %>% 
+  filter(practice == "no") %>% 
+  filter(acc == 1)  %>% 
+  group_by(subj, type) %>% 
+  summarise(mean(rt))
 
-bind_rows
+- [x] do (NEW)
 
-colnames
+- [x] list.files
 
-filter
+- [x] read_csv
 
-group_by
+- [ ] bind_rows (removed)
 
-summarise
+- [ ] colnames (removed)
 
-select
+- [x] filter
+
+- [x] group_by
+
+- [x] summarise
+
+- [x] select
 
 When throwing an error, give an error message (e.g. "no group_by") 
