@@ -17,18 +17,6 @@ _AUTO MARKING_: Accept any entry that meets all of the following conditions:
 (c) Contains ALL of the following strings: 
 
 
-lexdat <- tibble(filename=list.files("lexdec", pattern = "csv", full.names=TRUE)) %>% 
-  group_by(filename) %>% 
-  do(read_csv(.$filename)) 
-lexdat.tidy <- lexdat %>% 
-  select(subject_nr, practice, live_row, category, correct, response_time) %>% 
-  set_names( c("filenamme", "subj", "practice", "trial", "type", "acc", "rt"))
-lexdat.tidy %>% 
-  filter(practice == "no") %>% 
-  filter(acc == 1)  %>% 
-  group_by(subj, type) %>% 
-  summarise(mean(rt))
-
 - [x] do 
 
 - [x] list.files
