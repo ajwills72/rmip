@@ -10,7 +10,7 @@ You can find a model answer in the worksheet [source code](https://github.com/aj
 
 _AUTO MARKING_: Accept any entry that meets all of the following conditions:
 
-(a) More than 10 lines 
+(a) More than 2 lines 
 
 (b) Less than 30 lines
 
