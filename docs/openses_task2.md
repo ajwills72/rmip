@@ -1,4 +1,4 @@
-variation# Building An Experiment In OpenSesame
+# Building An Experiment In OpenSesame
 
 _Chris Longmore_
 
