@@ -400,6 +400,19 @@ Once the Module Leader receives files from all sessions, they moderate, and retu
 
 Students are not required to upload their presentations to the DLE.
 
+#### Marking PSYC720
+
+Although PSYC520 (a B.Sc. module) and PSYC720 (a M.Sc. module) were co-taught,
+the marking of the presentation is done entirely separately, with different
+marking criteria. Given you do not award a grade, much of this process is handled 
+during moderation. However, there are still some important differences:
+
+- Give less 'benefit of the doubt': So, in an UG presentation you might find something unclear but be able to work it out eventually (perhaps because you are familiar with the project). In these cases we tend to give some 'benefit of the doubt' in
+that we assume the student meant the right thing and just didn't express it that well. For an M.Sc. student, don't try so hard to work out what they are saying. If it's unclear, treat it as if it is wrong.
+
+- We expect a higher standard of spoken (and visual) expression at M.Sc. level. At B.Sc. level, in some weaker cases the quality of speech or slides is not that great. And, at B.Sc. level, we would try quite hard to see beyond that to the substantive content. For an M.Sc. piece of work, we expect consistently good-quality speaking and supporting visuals that shouldn't need to be 'decoded' into a clear presentation by the listener.
+
+
 
 <a name="11"></a>
 
