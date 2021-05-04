@@ -186,10 +186,20 @@ full <- left_join(dle, grps, by="Email address")
 nrow(full)
 full$`Full name`[is.na(full$`PU_email`)]
 
+## Differs by one student, who took an extended referral
+## and is now in Stage 4. So, this is an admin error on the university
+## systems, we should not return a mark for her. 
+
 ## Who was absent?
 absent <- grps %>% filter(present != 1)
 
 ## OK, contact those students
+
+## Check email system working
+cmd  <- 'mutt -s \"Absence from assessed presentation\" -- andy.wills@plymouth.ac.uk < ec-email.txt'
+system(cmd)
+
+## Email all absentees
 for(student in absent$PU_email) {
     subj <- '"Absence from assessed presentation"'
     cmd <- paste0(
@@ -212,7 +222,7 @@ for(student in present$PU_email) {
 ##    student <- "sally.earee@students.plymouth.ac.uk"    
     subj <- '"PSYC520/720: Group presentation mark and feedback"'
     groupid <- present$Group_ID[present$PU_email == student]
-##    student <- "andy.wills@plymouth.ac.uk"        
+##  student <- "andy.wills@plymouth.ac.uk"        
     cmd <- paste0(
         "mutt -s ",
         subj,
@@ -223,7 +233,7 @@ for(student in present$PU_email) {
         ".txt"
     )
     print(cmd)
-##    system(cmd)  
+    system(cmd)  
 }
 ##sink()
 
