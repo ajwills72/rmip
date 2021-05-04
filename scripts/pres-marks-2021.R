@@ -16,35 +16,6 @@ write_csv(grps, "pres-marks/Presentation_attendance.csv")
 
 ## Outside of this script, manually tidy files
 
-## attendance : spurious empty rows at end removed
-
-## feedback: Score:  NA not N/A, and not 0 !
-
-## feedback: No empty rows!
-
-## feedback: Feedback: "NA" is not an appropriate. comment. I have inserted "No
-## feedback recorded - query with group leader"
-
-## Also, groups X6, W6, W7, Z1, Z3, Z4, Z7 had the wrong number of entries -
-## missing "Advice on next steps" row!
-
-## For two groups, over-long presentation was commented on in "advice on next
-## steps". This is not the intent of this section, which is to advise them on
-## what to do next in this module --- obviously they won't be giving another
-## presentation for us. I've moved these comments to 'clarity of speech'.
-
-## Grammar!
-
-## structured cleared - > structured more clearly
-
-## However, not it would have been good -> remove not
-
-## You could also some time linkng your findings  -> add "spend"
-
-## feedback: Feedback: Sentences begin with a captial letter!
-
-## feedback: Feedback: "Clairty of speech", "Advice on next Steps" !!
-
 ## Load feedback and marks, manuall corrected, back in
 fback  <- read_csv("pres-marks/Presentation_feedback.csv")
 grps  <- read_csv("pres-marks/Presentation_attendance.csv")
