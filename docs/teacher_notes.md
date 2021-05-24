@@ -1,6 +1,6 @@
 # Research Methods in Practice (Part 2) - Teachers' notes
 
-_2021 edition_. All sections changed from 2020 version.
+_2022 edition_. UNDER CONSTRUCTION - some mix of 2021 and 2022 currently.
 
 ## Contents
 
@@ -47,11 +47,11 @@ Students work in groups of 7 within workshop classes of 50, so there are six wor
 
 Each week, students attend a two-hour _early-week_ workshop, and a two-hour _late-week_ workshop. For the early-week workshop, two workshop groups combine for a class size of 100 students. The early-week workshops have a 20:1 student:staff ratio. One of those staff in the early-week session must be a member of academic staff (Lecturer / AP / Prof), who is expected to be present throughout the session. The late-week workshops are staffed solely by teaching assistants, at a 25:1 ratio. 
 
-In addition to these sources of support, a subset of the TAs run 'hatch times' on a rota (one TA staffs the hatch at any given time). These are drop-in times, run every week day during term, until the extenuating-circumstances deadline for the main report passes. The hatch is not open during vacation breaks, nor during public holidays. Opening hours vary:
+In addition to these sources of support, a subset of the TAs run 'hatch times' on a rota (one TA staffs the hatch at any given time). These are drop-in times, run every week day during term, until the workshops are over. The hatch is not open during vacation breaks, nor during public holidays. Opening hours vary:
 
 - Hatch (Weeks 0-12 inclusive):  Mondays: 10 – 4, Tuesdays: 10 – 4, Wednesdays: 10 – 1, Thursdays: 10 – 4, Fridays: 10 - 4
 
-- Hatch (Weeks 13-15 inclusive): Monday-Friday, 10-2.
+After the main report deadline, support for students with Extenuating Circumstances is, until the EC deadline, via the office hours of the TA who worked with them throughout the semester. For TAs paid by the hour, these support hours are claimable. 
 
 ### Assessment
 
@@ -61,7 +61,7 @@ _References to 'week X' mean the Xth teaching week of the semester_. For the 202
 
 20% - Group mark for a 10-min group oral presentation. The mark is weighted mainly on the quality of the research presented, rather than audio-visual slickness. There is a detailed quantitative mark scheme. **Occurs during class in Week 10**
 
-80% - Individual mark for an individually-written 4000-word journal article. The mark is derived from a  detailed quantitative mark scheme. **Due Thursday of Week 13**. Return to students Friday of Week 16 (if returning earlier, do not return during the exam period).
+80% - Individual mark for an individually-written report. The mark is derived from a detailed quantitative mark scheme. **Due Monday of Week 13**, noon. Return to students Friday of Week 16 (if returning earlier, do not return during the exam period).
 
 Pass/fail - There are a set of pass/fail competency components, which also act as a **lab book**. In order to keep on track students should complete them in the week indicated (see below). However, they can revise their entries at any point up until the end of week 12. Some of these are group components. In these cases, every member of the group still has to submit it individually, but they can all submit the same thing without penalty.
 
@@ -457,6 +457,8 @@ Students write and submit a bullet-point plan for their report, with support.
 
 ## Week 12: Critique and support
 
+The end of the late-week session in Week 12 is the **last** opportunity for students to receive support on this module (unless they have Extenuating Circumstances, in which case support continues through the office hours of their TA). It's important to make clear to students that this means all forms of support, including email, are over by the end of the second session. Between then and the Monday Week 13 deadline, they are on their own. 
+
 ### Early-week session
 
 | min | Content                                              |
@@ -498,7 +500,8 @@ TAs mark the reports of the groups they led (normally around 20 reports). The
 total time this takes should not exceed one hour per report (excluding breaks,
 which you should take regularly). It's likely you will get faster with
 practice, but if your average over the first five reports is substantially more
-than an hour, speed up (e.g. write briefer comments).
+than an hour, speed up (e.g. write briefer comments). For TAs on an hourly rate,
+report marking is paid at one report per hour.
 
 In addition, allow two hours for the initial markers' meeting and the preparation required for it.
 
