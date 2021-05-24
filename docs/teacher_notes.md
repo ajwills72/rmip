@@ -573,9 +573,12 @@ The marking process is as follows:
   
     8.1. If you don't know how to produce a flattened PDF within your preferred PDF annotation tool, then use the Print to PDF functionality that is present on all major OS (Windows, Mac, Linux). PDF flattening is important, because not all devices can read PDFs properly unless they're flattened, and your document may give the appearance of having no comments on it. This is particularly a problem for Android / iOS smartphones and tablets, which quite a few students use as their primary device.
 
-9. Note that you do not assign an overall grade, this is done during
+9. Note that **you do not assign an overall grade**, this is done during
   moderation, although if you have suggested grades, feel free to tell me what
-  they are (in an email, not on this sheet).
+  they are (in an email, not on this sheet). If you are curious about the
+  process of moderation, including how number marks are mapped to letter
+  grades, the R script is available in the github repository for this site -
+  see `scripts/report-marks.R`.
     
 10. When you have marked ALL your reports, use the 'upload zip' functionality on
   the DLE to upload your marked reports to the DLE. At the same time, send Andy
