@@ -161,6 +161,10 @@ full$`Full name`[is.na(full$`PU_email`)]
 ## and is now in Stage 4. So, this is an admin error on the university
 ## systems, we should not return a mark for her. 
 
+## Also differs by another student who is actually studying abroad.
+## So this is another admin error on the university systems, and
+## we should not return a mark
+
 ## Who was absent?
 absent <- grps %>% filter(present != 1)
 
@@ -204,21 +208,17 @@ for(student in present$PU_email) {
         ".txt"
     )
     print(cmd)
-    system(cmd)  
+   ## system(cmd)  
 }
 ##sink()
 
-## OK, so now the EC deadline has passed, load in mark sheet from that
-## and merge with the original absent list
-ec.marks  <- read_csv("ec_pres.csv")
-ec.comb  <- left_join(absent, ec.marks, by="PU_email") %>%
-    select(Group_ID, PU_email, present, EC_presented, EC_approved)
+## OK, so now the EC deadline has passed...
 
-## Any NA in this table must be due to people who were absent originally,
-## absent for EC presentation, and did not get EC approved. They can
-## therefore be set NA -> 0
-ec.comb$EC_presented[is.na(ec.comb$EC_presented)] <- 0
-ec.comb$EC_approved[is.na(ec.comb$EC_approved)] <- 0
+## load in mark sheet from that
+## and merge with the original absent list
+ec.marks  <- read_csv("ec_pres_2021.csv")
+ec.comb  <- left_join(absent, ec.marks, by="PU_email") %>%
+    select(Group_ID, PU_email, present, EC_presented, EC_type)
 
 ## Remake feedback files with EC preamble
 make.ec.feedback <- function(oneg, mrk) {
@@ -229,7 +229,7 @@ make.ec.feedback <- function(oneg, mrk) {
     "",
     "These marks are provisional, and will remain so until confirmed by the Board of Examiners.",
     "",
-    "DO NOT REPLY TO THIS AUTO-GENERATED EMAIL, as replies will not be received. If you have questions about this mark, ask your workshop group leader (Chris Longmore, Michael Verde, or Clare Walsh) in your next session.", ""
+    "DO NOT REPLY TO THIS AUTO-GENERATED EMAIL, as replies will not be received. If you have questions about this mark, ask your workshop group leader (Chris Longmore, Michael Verde, or Clare Walsh) during their office hours.", ""
 )
     gid <- oneg$Group_ID[1]
     fnam <- paste0("ec_feedback/",gid,".txt")
@@ -251,14 +251,14 @@ for(gid in unique(fback$Group_ID)) {
 }
 
 ## Contact those who were present for the EC assessment, and had ECs approved
-ec.success  <- ec.comb %>% filter(EC_presented == 1 & EC_approved == 1)
+ec.success  <- ec.comb %>% filter(EC_presented == 1 & EC_type == "extension")
 
 ##sink("dump.txt")
 for(student in ec.success$PU_email) {    
-##    student <- "alicia.bruce@students.plymouth.ac.uk"    
+    ##student <- "shannon.smith-37@students.plymouth.ac.uk"    
     subj <- '"PSYC520/720: Extenuating Circumstances presentation mark"'
     groupid <- ec.success$Group_ID[ec.success$PU_email == student]
-##    student <- "andy.wills@plymouth.ac.uk"        
+    ##student <- "andy.wills@plymouth.ac.uk"        
     cmd <- paste0(
         "mutt -s ",
         subj,
@@ -269,7 +269,7 @@ for(student in ec.success$PU_email) {
         ".txt"
     )
     print(cmd)
-    ##system(cmd)    
+    system(cmd)    
 }
 ##sink()
 
@@ -303,6 +303,11 @@ return520  <- dle520 %>% left_join(all.marks, by = "Email address")
 return520$Grade  <- return520$Graded
 return520  <- return520 %>% select(-Graded)
 return520$`Feedback comments`  <- ""
+
+## 8. Remove students who are Uni system admin errors by hand
+## (Scripting would put the names into repo, which is not good)
+
+
 write_csv(return520, "return520.csv")
 
 ## Now do summary stats for module report form
