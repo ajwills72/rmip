@@ -541,7 +541,9 @@ The marking process is as follows:
 
 5. Mark the report in the usual way:
 
-    5.1. Use a PDF annotation tool to add helpful, specific, supportive comments as you go.
+    5.1. Use a PDF annotation tool to add helpful, specific, supportive comments as you go. Your comments must appear as directly visible elements on the page
+    : not, for example, 'pin' elements which the reader has to hover their mouse over to reveal your comment. Such interactive elements do not work on all 
+    devices, leading to complaints from students that they have not received feedback.
 
     5.2. Do not use sarcasm. Do not belittle. Don't write anything you wouldn't want to receive on your work. If something is wrong, say so, but also say what is right.
  
