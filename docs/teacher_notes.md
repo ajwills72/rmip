@@ -589,7 +589,13 @@ The marking process is as follows:
 10. When you have marked ALL your reports, use the 'upload zip' functionality on
   the DLE to upload your marked reports to the DLE. At the same time, send Andy
   Wills your marks CSV file. 
-  
+
+11. If any matter arises that is not covered by the marksheet - for example evidence
+of plagiarism, collusion, or violation of formatting or page length rules - let
+Andy know via email of your concerns, then mark as if you had not noticed these issues.
+As module leader, Andy will consider each of these exceptional cases and take
+appropriate action.
+
 #### Marking PSYC720
 
 Although PSYC520 (a B.Sc. module) and PSYC720 (a M.Sc. module) were co-taught,
