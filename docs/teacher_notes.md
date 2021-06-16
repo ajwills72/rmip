@@ -615,4 +615,3 @@ that we assume the student meant the right thing and just didn't express it that
 ### After marking
 
 After the marking is complete, the ML runs a statistical moderation process (for details, see the `script` folder in the github repository for these pages), and then uploads the marks to Moodle (the DLE). The final step for the module team is to release the marks to the students (again done by the ML). This done via Moodle, folllowing [these instructions](moodle-mark-release.md). From this point, the marks are imported into the university's record system ("Unit-E") by Faculty administrative staff, for preparation of exam board materials. 
-
