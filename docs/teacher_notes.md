@@ -517,7 +517,7 @@ In addition, allow two hours for the initial markers' meeting and the preparatio
 
 **Monday 14th June 2021, noon** (HARD DEADLINE!)  - All reports marked and uploaded to DLE. All mark spreadsheets emailed to Module Leader. Process of moderation begins.
 
-**Wed 16th June 2021** - Reports and marks are returned to students via DLE. Marks uploaded to Unit-E.
+**Wed 16th June 2021** - Reports and marks are returned to students via DLE. 
 
 #### Marking process
 
@@ -612,5 +612,7 @@ that we assume the student meant the right thing and just didn't express it that
 
     12.2. We expect a higher standard of written (and graphical) expression at M.Sc. level. At B.Sc. level, in some weaker cases the quality of English is not that great. And, at B.Sc. level, we would try quite hard to see beyond that to the substantive content. For an M.Sc. piece of work, we expect consistently good-quality writing that shouldn't need to be 'decoded' into a clear expression by the reader.
 
+### After marking
 
+After the marking is complete, the ML runs a statistical moderation process (for details, see the `script` folder in the github repository for these pages), and then uploads the marks to Moodle (the DLE). The final step for the module team is to release the marks to the students (again done by the ML). This done via Moodle, folllowing [these instructions](moodle-mark-release.md). From this point, the marks are imported into the university's record system ("Unit-E") by Faculty administrative staff, for preparation of exam board materials. 
 
