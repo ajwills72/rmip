@@ -63,7 +63,7 @@ _References to 'week X' mean the Xth teaching week of the semester_. For the 202
 
 80% - Individual mark for an individually-written report. The mark is derived from a detailed quantitative mark scheme. **Due Monday of Week 13**, noon. Return to students Friday of Week 16 (if returning earlier, do not return during the exam period).
 
-Pass/fail - There are a set of pass/fail competency components, which also act as a **lab book**. In order to keep on track students should complete them in the week indicated (see below). However, they can revise their entries at any point up until the end of week 12. Some of these are group components. In these cases, every member of the group still has to submit it individually, but they can all submit the same thing without penalty.
+Pass/fail - There are a set of pass/fail competency components, which also act as a **lab book**. In order to keep on track students should complete them in the week indicated (see below). **Each activity closes on the Friday of the week following its introduction in class**. In order to complete it after that time, students must request their personal tutor to re-open it. Some of these are group components. In these cases, every member of the group still has to submit it individually, but they can all submit the same thing without penalty.
 
 They have to pass 80% of them to pass the module. 
 
