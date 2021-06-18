@@ -129,7 +129,11 @@ One week before the first class, students must be emailed and requested to:
 | 065 | Students do the [Introduction to OpenSesame](openses_intro.html)  worksheet, with support |
 | 115 | Finish                                                                                                   |
 
-_Note_: This is probably Plymouth-specific, but note that there is one restriction to the principle that students can pick their own groups -- group members must all be from the same exit-level of qualification (i.e. all B.Sc., or all M.Sc.). This is because M.Sc. work is marked to a higher standard, and the presentation is group marked.
+_Note 1_: When introducing the topic, teachers should lay the groundwork for students to understand the concept of an interaction.
+
+_Note 2_: This is probably Plymouth-specific, but note that there is one restriction to the principle that students can pick their own groups -- group members must all be from the same exit-level of qualification (i.e. all B.Sc., or all M.Sc.). This is because M.Sc. work is marked to a higher standard, and the presentation is group marked.
+
+
 
 ### Late-week session
 
@@ -158,10 +162,12 @@ Here are some [slides](expt-design.odp) on experimental design written about a d
 | min | Contents                                                               |
 |-----|------------------------------------------------------------------------|
 | 000 | Teacher introduces getting from sub-topic to broad experimental design |
-| 020 | With TA support, groups define question and plan broad design          |
+| 030 | With TA support, groups define question and plan broad design          |
 | 050 | BREAK                          |
 | 060 |  Start [Data preprocessing](https://ajwills72.github.io/rminr/preproc.html) worksheet. If they have not already tried out the facial prototypes experiment in OpenSesame, they should skip this part, otherwise they will run out of time                         |
 | 110 | Finish                                                                 |
+
+_Note_: In the Teacher's presentation, there should be some focus of understanding the concept of an interaction.
 
 ### Late-week session, and homework
 
