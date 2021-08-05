@@ -513,23 +513,23 @@ In addition, allow two hours for the initial markers' meeting and the preparatio
 
 #### Timetable
 
-**Thursday 20th May 2021, noon** - Submission deadline passes. Module leader sends marking sample to markers. Markers must not mark any further reports until after the EC deadline, below.
+**Monday 16th May 2022, noon** - Submission deadline passes. Module leader sends marking sample to markers. Markers must not mark any further reports until after the EC deadline, below.
 
-**Thursday 27th May 2021, noon** - Markers return marking sample with scores, but without feedback, to module leader.
+**Monday 23rd May 2022, noon** - Markers return marking sample with scores, but without feedback, to module leader.
 
-**Friday 28th May 2021, 1pm** - Initial markers' meeting between all markers and module leader.
+**Tuesday 24th May 2022, 1pm** - Initial markers' meeting between all markers and module leader.
 
-**Friday 4th June 2021, noon** - Extenuating Circumstances deadline passes. Reports available for marking.
+**Monday 30th May 2022, noon** - Extenuating Circumstances deadline passes. Reports available for marking.
 
-**Monday 14th June 2021, noon** (HARD DEADLINE!)  - All reports marked and uploaded to DLE. All mark spreadsheets emailed to Module Leader. Process of moderation begins.
+**Thursday 9th June 2022, noon** (HARD DEADLINE!)  - All reports marked and uploaded to DLE. All mark spreadsheets emailed to Module Leader. Process of moderation begins.
 
-**Wed 16th June 2021** - Reports and marks are returned to students via DLE. 
+**Monday 13th June 2022** - Reports and marks are returned to students via DLE. 
 
 #### Marking process
 
 The marking process is as follows:
 
-1. On the day of the main deadline (20th May 2021), every marker receives the same four reports to mark. Unlike all subsequent marking, you do not write feedback on these reports. You just read the report and allocate the 25 scores using the score spreadsheet (for details, see below). This should not take you more than about 20 minutes per report. 
+1. On the day of the main deadline (16th May 2022), every marker receives the same four reports to mark. Unlike all subsequent marking, you do not write feedback on these reports. You just read the report and allocate the 25 scores using the score spreadsheet (for details, see below). This should not take you more than about 20 minutes per report. 
 
 2. Within one week, email your marks for these four reports to the module leader.
 
