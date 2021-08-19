@@ -513,17 +513,17 @@ In addition, allow two hours for the initial markers' meeting and the preparatio
 
 #### Timetable
 
-**Monday 16th May 2022, noon** - Submission deadline passes. Module leader sends marking sample to markers. Markers must not mark any further reports until after the EC deadline, below.
+**Monday 16th May 2022, noon** - Submission deadline passes. Module leader sends marking sample to markers. Markers must not mark any further reports until after initial markers' meeting (below)
 
 **Monday 23rd May 2022, noon** - Markers return marking sample with scores, but without feedback, to module leader.
 
-**Tuesday 24th May 2022, 1pm** - Initial markers' meeting between all markers and module leader.
+**Tuesday 24th May 2022, 1pm** - Initial markers' meeting between all markers and module leader. Immediately after the meeting, start marking.
 
-**Monday 30th May 2022, noon** - Extenuating Circumstances deadline passes. Reports available for marking.
+**Monday 30th May 2022, noon** - Extenuating Circumstances deadline passes. Check for additional reports submitted, and also for any submitted reports that have been updated.
 
-**Thursday 9th June 2022, noon** (HARD DEADLINE!)  - All reports marked and uploaded to DLE. All mark spreadsheets emailed to Module Leader. Process of moderation begins.
+**Monday 6th June 2022, noon** (HARD DEADLINE!)  - All reports marked and uploaded to DLE. All mark spreadsheets emailed to Module Leader. Process of moderation begins.
 
-**Monday 13th June 2022** - Reports and marks are returned to students via DLE. 
+**Wed 8th June 2022** - Reports and marks are returned to students via DLE. (Note: student-facing materials may say 15th June. This is because of some uncertainty over the timing of the exam board. If we end up with more time to mark than the above timetable indicates, I'll revised it).
 
 #### Marking process
 
