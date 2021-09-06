@@ -61,9 +61,9 @@ _References to 'week X' mean the Xth teaching week of the semester_. For the 202
 
 20% - Group mark for a 10-min group oral presentation. The mark is weighted mainly on the quality of the research presented, rather than audio-visual slickness. There is a detailed quantitative mark scheme. **Occurs during class in Week 10**
 
-80% - Individual mark for an individually-written report. The mark is derived from a detailed quantitative mark scheme. **Due Monday of Week 13**, noon. Return to students Friday of Week 16 (if returning earlier, do not return during the exam period).
+80% - Individual mark for an individually-written report. The mark is derived from a detailed quantitative mark scheme. **Due Monday of Week 13**, noon. Return to students Monday of Week 16 (if returning earlier, do not return during the exam period).
 
-Pass/fail - There are a set of pass/fail competency components, which also act as a **lab book**. In order to keep on track students should complete them in the week indicated (see below). However, they can revise their entries at any point up until the end of week 12. Some of these are group components. In these cases, every member of the group still has to submit it individually, but they can all submit the same thing without penalty.
+Pass/fail - There are a set of pass/fail competency components, which also act as a **lab book**. In order to keep on track students should complete them in the week indicated (see below). **Each activity closes on the Friday of the week following its introduction in class**. In order to complete it after that time, students must request their personal tutor to re-open it. Some of these are group components. In these cases, every member of the group still has to submit it individually, but they can all submit the same thing without penalty.
 
 They have to pass 80% of them to pass the module. 
 
@@ -129,7 +129,11 @@ One week before the first class, students must be emailed and requested to:
 | 065 | Students do the [Introduction to OpenSesame](openses_intro.html)  worksheet, with support |
 | 115 | Finish                                                                                                   |
 
-_Note_: This is probably Plymouth-specific, but note that there is one restriction to the principle that students can pick their own groups -- group members must all be from the same exit-level of qualification (i.e. all B.Sc., or all M.Sc.). This is because M.Sc. work is marked to a higher standard, and the presentation is group marked.
+_Note 1_: When introducing the topic, teachers should lay the groundwork for students to understand the concept of an interaction.
+
+_Note 2_: This is probably Plymouth-specific, but note that there is one restriction to the principle that students can pick their own groups -- group members must all be from the same exit-level of qualification (i.e. all B.Sc., or all M.Sc.). This is because M.Sc. work is marked to a higher standard, and the presentation is group marked.
+
+
 
 ### Late-week session
 
@@ -158,10 +162,12 @@ Here are some [slides](expt-design.odp) on experimental design written about a d
 | min | Contents                                                               |
 |-----|------------------------------------------------------------------------|
 | 000 | Teacher introduces getting from sub-topic to broad experimental design |
-| 020 | With TA support, groups define question and plan broad design          |
+| 030 | With TA support, groups define question and plan broad design          |
 | 050 | BREAK                          |
 | 060 |  Start [Data preprocessing](https://ajwills72.github.io/rminr/preproc.html) worksheet. If they have not already tried out the facial prototypes experiment in OpenSesame, they should skip this part, otherwise they will run out of time                         |
 | 110 | Finish                                                                 |
+
+_Note_: In the Teacher's presentation, there should be some focus of understanding the concept of an interaction.
 
 ### Late-week session, and homework
 
@@ -507,23 +513,23 @@ In addition, allow two hours for the initial markers' meeting and the preparatio
 
 #### Timetable
 
-**Thursday 20th May 2021, noon** - Submission deadline passes. Module leader sends marking sample to markers. Markers must not mark any further reports until after the EC deadline, below.
+**Monday 16th May 2022, noon** - Submission deadline passes. Module leader sends marking sample to markers. Markers must not mark any further reports until after initial markers' meeting (below)
 
-**Thursday 27th May 2021, noon** - Markers return marking sample with scores, but without feedback, to module leader.
+**Monday 23rd May 2022, noon** - Markers return marking sample with scores, but without feedback, to module leader.
 
-**Friday 28th May 2021, 1pm** - Initial markers' meeting between all markers and module leader.
+**Tuesday 24th May 2022, 1pm** - Initial markers' meeting between all markers and module leader. Immediately after the meeting, start marking.
 
-**Friday 4th June 2021, noon** - Extenuating Circumstances deadline passes. Reports available for marking.
+**Monday 30th May 2022, noon** - Extenuating Circumstances deadline passes. Check for additional reports submitted, and also for any submitted reports that have been updated.
 
-**Monday 14th June 2021, noon** (HARD DEADLINE!)  - All reports marked and uploaded to DLE. All mark spreadsheets emailed to Module Leader. Process of moderation begins.
+**Monday 6th June 2022, noon** (HARD DEADLINE!)  - All reports marked and uploaded to DLE. All mark spreadsheets emailed to Module Leader. Process of moderation begins.
 
-**Wed 16th June 2021** - Reports and marks are returned to students via DLE. Marks uploaded to Unit-E.
+**Wed 8th June 2022** - Reports and marks are returned to students via DLE. (Note: student-facing materials may say 15th June. This is because of some uncertainty over the timing of the exam board. If we end up with more time to mark than the above timetable indicates, I'll revised it).
 
 #### Marking process
 
 The marking process is as follows:
 
-1. On the day of the main deadline (20th May 2021), every marker receives the same four reports to mark. Unlike all subsequent marking, you do not write feedback on these reports. You just read the report and allocate the 25 scores using the score spreadsheet (for details, see below). This should not take you more than about 20 minutes per report. 
+1. On the day of the main deadline (16th May 2022), every marker receives the same four reports to mark. Unlike all subsequent marking, you do not write feedback on these reports. You just read the report and allocate the 25 scores using the score spreadsheet (for details, see below). This should not take you more than about 20 minutes per report. 
 
 2. Within one week, email your marks for these four reports to the module leader.
 
@@ -541,7 +547,10 @@ The marking process is as follows:
 
 5. Mark the report in the usual way:
 
-    5.1. Use a PDF annotation tool to add helpful, specific, supportive comments as you go.
+    5.1. Use a PDF annotation tool to add helpful, specific, supportive comments as you go. Your comments must appear as directly visible elements on the page
+    : not, for example, 'pin' elements which the reader has to hover their mouse over to reveal your comment. Such interactive elements do not work on all 
+    devices, leading to complaints from students that they have not received feedback. There is a reason students are told to leave a wide right margin and
+    to double space their work (i.e. in order to leave space for your comments). Make use of the space they have made for you.
 
     5.2. Do not use sarcasm. Do not belittle. Don't write anything you wouldn't want to receive on your work. If something is wrong, say so, but also say what is right.
  
@@ -586,7 +595,13 @@ The marking process is as follows:
 10. When you have marked ALL your reports, use the 'upload zip' functionality on
   the DLE to upload your marked reports to the DLE. At the same time, send Andy
   Wills your marks CSV file. 
-  
+
+11. If any matter arises that is not covered by the marksheet - for example evidence
+of plagiarism, collusion, or violation of formatting or page length rules - let
+Andy know via email of your concerns, then mark as if you had not noticed these issues.
+As module leader, Andy will consider each of these exceptional cases and take
+appropriate action.
+
 #### Marking PSYC720
 
 Although PSYC520 (a B.Sc. module) and PSYC720 (a M.Sc. module) were co-taught,
@@ -603,5 +618,6 @@ that we assume the student meant the right thing and just didn't express it that
 
     12.2. We expect a higher standard of written (and graphical) expression at M.Sc. level. At B.Sc. level, in some weaker cases the quality of English is not that great. And, at B.Sc. level, we would try quite hard to see beyond that to the substantive content. For an M.Sc. piece of work, we expect consistently good-quality writing that shouldn't need to be 'decoded' into a clear expression by the reader.
 
+### After marking
 
-
+After the marking is complete, the ML runs a statistical moderation process (for details, see the `script` folder in the github repository for these pages), and then uploads the marks to Moodle (the DLE). The final step for the module team is to release the marks to the students (again done by the ML). This done via Moodle, folllowing [these instructions](moodle-mark-release.md). From this point, the marks are imported into the university's record system ("Unit-E") by Faculty administrative staff, for preparation of exam board materials. 
