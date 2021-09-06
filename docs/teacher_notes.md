@@ -24,9 +24,9 @@ _2022 edition_. UNDER CONSTRUCTION - some mix of 2021 and 2022 currently.
 
 - [Week 8: Analyse data](#8) 
 
-- [EASTER BREAK](#easter)
-
 - [Week 9: Write a presentation](#9) 
+
+- [EASTER BREAK](#easter)
 
 - [Week 10: Give presentation](#10) 
 
