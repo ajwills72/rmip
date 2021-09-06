@@ -56,17 +56,23 @@ scores <- fback %>% group_by(Group_ID) %>%
 ## Summary stats
 scores %>% summarise(mean = mean(score), min = min(score), max = max(score),
                      sd = sd(score))
+hist(scores$score)
+
 ## Convert to mark
 
 scores$mark <- 0
 ## Lowest mark overall, descriptively "Mainly patchy, aspects of OK", letter: D+
 scores$mark[scores$score > 2.21] <- 48
+
 ## Descriptively "Patchy / OK", letter: C-
 scores$mark[scores$score > 2.50] <- 52
+
 ## Descrptively "Mainly OK, some patchy", letter: C
 scores$mark[scores$score > 2.74] <- 55
+
 ## Descriptively "OK", letter: C+
 scores$mark[scores$score > 2.99] <- 58
+
 ## One s.d. below mean, descriptively "OK/good", letter: B-
 scores$mark[scores$score > 3.50] <- 62
 ## Mean mark, descriptively "good", letter: B
