@@ -5,16 +5,17 @@
 
 **Module Leader:** Andy Wills
 
-**Teaching Staff:**	Chris Longmore, Michael Verde, Clare Walsh.
+**Teaching Staff:**	Chris Longmore, Steve Samuel, Michael Verde, Clare Walsh.
 
 ## Aims
 
-The module aims to support students through a simple research cycle and deliver a 
-basic understanding of the research process in psychology before engaging with an 
-advanced-research cycle. Statistical analysis techniques are taught in workshops with the aim 
-of providing the student with an understanding of the analysis procedures appropriate to a 
-range of research designs for testing differences. In addition, the module aims to introduce 
-students to issues in conducting psychological research such as research project management.
+The module aims to support students through a simple research cycle and deliver
+a basic understanding of the research process in psychology before engaging
+with an advanced-research cycle. Statistical analysis techniques are taught in
+workshops with the aim of providing the student with an understanding of the
+analysis procedures appropriate to a range of research designs for testing
+differences. In addition, the module aims to introduce students to issues in
+conducting psychological research such as research project management.
 
 ## Expected Outcomes
 
@@ -47,6 +48,26 @@ each week is below; a much more detailed guide may be found on the [Research
 Methods in Practice](https://ajwills72.github.io/rmip) website.
 
 
+## Assessment
+
+| Element | Description | Weighting |
+| ------- | ----------- | --------- |
+| **C**oursework | Written report to format and length described [here](https://www.andywills.info/rmip/eg-student/report-proforma.odt) | 80% |
+| **P**ractical | Group oral presentation (10 mins) | 20% |
+| PsychEL activities | Pass a minimum of 11 PsycEL activites | Pass / Fail |
+
+For the assessment deadlines, please see the Deadlines document on the Programme page of the DLE.
+
+## Marking Criteria
+
+There are detailed mark schemes for both the [presentation](https://www.andywills.info/rmip/eg-student/pres-feedback.html) and the [report](https://www.andywills.info/rmip/eg-student/report-mark-scheme.html). The conditions for passing each PsycEL activities are specific to the activity, and are expressed within the activity itself.
+
+## Academic Dishonesty
+
+University of Plymouth regulations and policies apply to this module. See also the section on Academic Dishonesty in the Stage Handbook.
+
+## Provisional teaching schedule
+
 Week 1: Select topic and learn about statistical power
 
 Week 2: Define question, outline design and learn about data preprocessing
@@ -77,14 +98,5 @@ Week 12: Critique and support
 The reading materials have been developed in-house and released under a Creative Commons licence, see 
 [Research Methods in Practice](https://ajwills72.github.io/rmip) and [Research Methods in R](https://ajwills72.github.io/rminr/). Primary sources (journal articles) will also form a major part of the reading, but will likely be different for each group. Only open-access journal articles will be used.
 
-## Assessment
 
-Written report (80%). Group oral presentation (20%). Pass/fail Psyc:EL assessments.
 
-## Marking Criteria
-
-Marking criteria for practical reports and group presentations will be provided on the module DLE page.
-
-## Academic Dishonesty
-
-University of Plymouth regulations and policies apply to this module. See also the section on Academic Dishonesty in the Stage Handbook.
