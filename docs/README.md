@@ -1,6 +1,6 @@
 # Research Methods in Practice
 
-_2021 edition_
+_2022 edition_
 
 **Written by:** _Andy Wills, Chris Longmore, Clare Walsh and Michael Verde_
 
