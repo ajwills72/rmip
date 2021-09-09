@@ -50,7 +50,6 @@ Students work in groups of 7 within workshop classes of 50, so there are six wor
 
 Each week, students attend a two-hour _early-week_ workshop, and a two-hour _late-week_ workshop. For the early-week workshop, two workshop groups combine for a class size of 100 students. The early-week workshops have a 20:1 student:staff ratio. One of those staff in the early-week session must be a member of academic staff (Lecturer / AP / Prof), who is expected to be present throughout the session. The late-week workshops are staffed solely by teaching assistants, at a 25:1 ratio. 
 
-
 In addition to these sources of support, a subset of the TAs run 'hatch times' on a rota (one TA staffs the hatch at any given time). These are drop-in times, run every week day during term, until the last day of workshops (Friday of Week 12). The hatch is not open during vacation breaks, nor during public holidays. Opening hours vary:
 
 - Hatch (Weeks 0-12 inclusive):  Mondays: 10 – 4, Tuesdays: 10 – 4, Wednesdays: 10 – 1, Thursdays: 10 – 4, Fridays: 10 - 4
@@ -67,7 +66,7 @@ The module's mark is based on  20% Practical and 80% Coursework, with no exams, 
 
 Pass/fail - There are a set of pass/fail competency components, which also act as a **lab book**. In order to keep on track students should complete them in the week indicated (see below). **Each activity closes on the Friday of the week following its introduction in class**. In order to complete it after that time, students must request their personal tutor to re-open it. Some of these are group components. In these cases, every member of the group still has to submit it individually, but they can all submit the same thing without penalty.
 
-They have to pass 80% of them to pass the module. 
+They have to pass at least 11 of the 13 activities to pass the module. 
 
 ### List of assessments
 
@@ -314,18 +313,11 @@ In these circumstances, you do 'last working version' debugging. In other words,
 
 Both sessions are dedicated to the completion of data collection, plus any support students need for any R worksheet. 
 
-
 <a name="8"></a>
 
 ## Week 8: Analyse data
 
 Both sessions are dedicated to analysing and interpreting the collected data. Data analysis should ideally be submitted to Psyc:EL by the end of the week. 
-
-<a name="easter"></a>
-
-## EASTER BREAK
-
-There is a now a four-week hiatus for Easter Vacation. The module is paused, and no support is available; questions must be held over until the beginning of term. 
 
 <a name="9"></a>
 
@@ -376,8 +368,14 @@ This session is dedicated to ensuring all groups are ready for the week 10 prese
 
 Students should submit presentation title, author names, and abstract by **end of the late-week session**. 
 
+<a name="easter"></a>
+
+## EASTER BREAK
+
+There is a now a four-week hiatus for Easter Vacation. The module is paused, and no support is available; questions must be held over until the beginning of term. 
 
 <a name="10"></a>
+
 
 ## Week 10: Give presentation
 
@@ -424,8 +422,6 @@ during moderation. However, there are still some important differences:
 that we assume the student meant the right thing and just didn't express it that well. For an M.Sc. student, don't try so hard to work out what they are saying. If it's unclear, treat it as if it is wrong.
 
 - We expect a higher standard of spoken (and visual) expression at M.Sc. level. At B.Sc. level, in some weaker cases the quality of speech or slides is not that great. And, at B.Sc. level, we would try quite hard to see beyond that to the substantive content. For an M.Sc. piece of work, we expect consistently good-quality speaking and supporting visuals that shouldn't need to be 'decoded' into a clear presentation by the listener.
-
-
 
 <a name="11"></a>
 
