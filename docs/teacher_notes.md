@@ -1,5 +1,3 @@
-# Research Methods in Practice (Part 2) - Teachers' notes
-
 _2022 edition_.
 
 ## Contents
@@ -41,6 +39,9 @@ _2022 edition_.
 
 ## Overview
 
+_References to 'week X' mean the Xth teaching week of the semester_. For the 2021/22 Plymouth University timetable, teaching week 1 of semester 2 begins 31/01/2022. 
+
+
 ### Course organisation and staffing
 
 Students work in groups of 7 within workshop classes of 50, so there are six workshop groups in order to accommodate a cohort of 300 students. The course has 12 weeks of teaching. Throughout that time, there is a specified teaching assistant (Ph.D student or TARA) who is the supervisor of each group and is responsible for monitoring the progress of their groups. 
@@ -56,8 +57,6 @@ In addition to these sources of support, a subset of the TAs run 'hatch times' o
 ### Assessment
 
 The module's mark is based on  20% Practical and 80% Coursework, with no exams, but with pass/fail competency components.
-
-_References to 'week X' mean the Xth teaching week of the semester_. For the 2020/21 Plymouth University timetable, teaching week 1 of semester 2 begins 01/02/2021. 
 
 20% - Group mark for a 10-min group oral presentation. The mark is weighted mainly on the quality of the research presented, rather than audio-visual slickness. There is a detailed quantitative mark scheme. **Occurs during class in Week 10**
 
