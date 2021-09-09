@@ -1,6 +1,6 @@
 # Research Methods in Practice (Part 2) - Teachers' notes
 
-_2021 edition_. All sections changed from 2020 version.
+_2022 edition_.
 
 ## Contents
 
