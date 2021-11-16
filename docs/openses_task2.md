@@ -41,13 +41,10 @@ Once you have extracted the pictures (they will probably be placed in a folder c
 
 ## Building The Experiment
 
- The video below goes over how to create an experiment in OpenSesame. Note that the first part is about the design of the study and OpenSesame is not in sight. Make sure you are comfortable with what the experiment is supposed to look like before beginning the OpenSesame section. Work along with me in the video and by the end you should have a working OpenSesame experiment. If you have any difficulties, bring along your questions to the first PSYC520/720 workshop session in Week 4.
+This [youtube video](https://youtu.be/tw5W_qGcgBc) goes over how to create an experiment in OpenSesame. Note that the first part is about the design of the study and OpenSesame is not in sight. Make sure you are comfortable with what the experiment is supposed to look like before beginning the OpenSesame section. Work along with me in the video and by the end you should have a working OpenSesame experiment. If you have any difficulties, bring along your questions to the first PSYC520/720 workshop session in Week 4.
 
  **Please note: any reference in the video to Week 3 of the course should be taken to mean Week 4. Second, in the explanation of the experiment design I included a fixation point into the design, yet in the experiment creation part of the video I do not include this. As a check for your own understanding, you might want to try to insert this extra display after you have got the experiment working**.
 
-<video width="960" height="540" controls>
-<source src = "https://www.psy.plymouth.ac.uk/LabPlus/PSYC520/creating_an_opensesame_experiment.mp4" type = "video/mp4">
-</video>
 
 ## After Completing The task
 

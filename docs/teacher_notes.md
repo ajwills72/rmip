@@ -240,7 +240,8 @@ Each project should meet all the items on this checklist by the first session ne
 
 - Ensure you've met all items on the above checklist
 
-- Watch Chris Longmore's JATOS video
+- Watch Chris Longmore's JATOS video - [Uploading an OpenSesame Experiment](https://youtu.be/EMHwUMI4JOI).
+
 
 
 <a name="5"></a>
@@ -301,10 +302,9 @@ In these circumstances, you do 'last working version' debugging. In other words,
 | 050 | Data collection support |
 | 110 | Finish |
 
-## Homework
+### Homework
 
 - Complete any outstanding activities.
-
 
 
 <a name="7"></a>
@@ -312,6 +312,10 @@ In these circumstances, you do 'last working version' debugging. In other words,
 ## Week 7: Finish data collection
 
 Both sessions are dedicated to the completion of data collection, plus any support students need for any R worksheet. 
+
+### Homework 
+
+- Watch Chris Longmore's second JATOS video - [Exporting results](https://youtu.be/y3fcPB5Fj5M)
 
 <a name="8"></a>
 

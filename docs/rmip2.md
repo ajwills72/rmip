@@ -34,6 +34,8 @@ If you ever want to look back at earlier materials on R, you can find them all o
 
 - [Full protocol](eg-student/protocol.odt) form, with [example](eg-student/protocol-example.odt).
 
+- Videos about using JATOS: [Uploading an OpenSesame Experiment](https://youtu.be/EMHwUMI4JOI), and [Exporting results](https://youtu.be/y3fcPB5Fj5M)
+
 - [Within-subject differences](https://ajwills72.github.io/rminr/anova1.html) worksheet. 
 
 - [Understanding interactions](https://ajwills72.github.io/rminr/anova2.html) worksheet. 
