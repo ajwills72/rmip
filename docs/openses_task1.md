@@ -10,8 +10,11 @@ OpenSesame is a computer software package for running psychology experiments. It
 
 OpenSesame can be downloaded via the following links:
 
-- If you have a Windows machine, click [here](https://github.com/open-cogsci/OpenSesame/releases/download/release%2F3.3.6/opensesame_3.3.6-py37-win64-2.exe)
-- If you have an Apple Mac, click [here](https://github.com/open-cogsci/OpenSesame/releases/download/release%2F3.3.6/opensesame_3.3.6-py37-macos-3.dmg)
+- If you have a Windows machine, click [here](https://github.com/open-cogsci/OpenSesame/releases/download/release%2F3.3.10/opensesame_3.3.10-py37-win64-1.exe)
+- If you have an Apple Mac with an Intel processor, click [here](https://github.com/open-cogsci/OpenSesame/releases/download/release%2F3.3.10/opensesame_3.3.10-py37-macos-x64-1.dmg)
+- If you have an Apple Mac with an Apple M1 processor, click [here](https://github.com/open-cogsci/OpenSesame/releases/download/release%2F3.3.10/opensesame_3.3.10-py37-macos-arm-1.dmg)
+
+If you do not know what processor you Mac has, click on the Apple icon in the menu bar and select "About this Mac". A box will popup with information about your computer. Look for the line that says "Processor". If that line contains the word "Intel" you need the Intel version. If it contains the text "M1" you need the Apple M1 version.
 
 ### Windows Machines
 
