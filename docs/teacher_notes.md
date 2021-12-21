@@ -62,7 +62,7 @@ The module's mark is based on  20% Practical and 80% Coursework, with no exams, 
 
 20% - Group mark for a 10-min group oral presentation. The mark is weighted mainly on the quality of the research presented, rather than audio-visual slickness. There is a detailed quantitative mark scheme. **Occurs during class in Week 10**
 
-80% - Individual mark for an individually-written report. The mark is derived from a detailed quantitative mark scheme. **Due Monday of Week 13**, noon. Return to students Monday of Week 16 (if returning earlier, do not return during the exam period).
+80% - Individual mark for an individually-written report. The mark is derived from a detailed quantitative mark scheme. **Due Monday of Week 13**, noon. Return to students Wed of Week 17 (if returning earlier, do not return during the exam period).
 
 Pass/fail - There are a set of pass/fail competency components, which also act as a **lab book**. In order to keep on track students should complete them in the week indicated (see below). **Each activity closes on the Friday of the week following its introduction in class**. There's an exact timetable [here](psycel-schedule.md). In order to complete it after that time, students must request their personal tutor to re-open it. Some of these are group components. In these cases, every member of the group still has to submit it individually, but they can all submit the same thing without penalty.
 
@@ -523,9 +523,9 @@ In addition, allow two hours for the initial markers' meeting and the preparatio
 
 **Monday 30th May 2022, noon** - Extenuating Circumstances deadline passes. Check for additional reports submitted, and also for any submitted reports that have been updated.
 
-**Monday 6th June 2022, noon** (HARD DEADLINE!)  - All reports marked and uploaded to DLE. All mark spreadsheets emailed to Module Leader. Process of moderation begins.
+**Monday 13th June 2022, noon** (HARD DEADLINE!)  - All reports marked and uploaded to DLE. All mark spreadsheets emailed to Module Leader. Process of moderation begins.
 
-**Wed 8th June 2022** - Reports and marks are returned to students via DLE. (Note: student-facing materials may say 15th June. This is because of some uncertainty over the timing of the exam board. If we end up with more time to mark than the above timetable indicates, I'll revised it).
+**Wed 15th June 2022** - Reports and marks are returned to students via DLE.
 
 #### Marking process
 
