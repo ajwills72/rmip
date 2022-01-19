@@ -3,9 +3,9 @@
 
 **Credit Weighting:**	20 Credits
 
-**Module Leader:** Andy Wills
+**Module Leader:** see module DLE page
 
-**Teaching Staff:**	Chris Longmore, Michael Verde, Clare Walsh.
+**Teaching Staff:**	see module DLE page
 
 ## Aims
 
@@ -79,12 +79,12 @@ The reading materials have been developed in-house and released under a Creative
 
 ## Assessment
 
-Written report (80%). Group oral presentation (20%). Pass/fail Psyc:EL assessments.
+See module DLE page.
 
 ## Marking Criteria
 
-Marking criteria for practical reports and group presentations will be provided on the module DLE page.
+See module DLE page.
 
 ## Academic Dishonesty
 
-University of Plymouth regulations and policies apply to this module. See also the section on Academic Dishonesty in the Stage Handbook.
+See module DLE page.
