@@ -12,7 +12,7 @@ A common question we have received is why we are running this introduction to Op
 
 ## Variables And Loops
 
-Before we even begin discussing OpenSesame there is a couple of concepts that you need to be introduced to - loops and variables. The computer implementation here is not important. It is just the concept of what a variable is and what a loop is that is important.
+Before we even begin discussing OpenSesame there are a couple of concepts that you need to be introduced to - loops and variables. The computer implementation here is not important. It is just the concept of what a variable is and what a loop is that is important.
 
 ### Loops
 
