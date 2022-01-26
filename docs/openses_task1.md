@@ -37,7 +37,7 @@ Unfortunately OpenSesame cannot run on ChromeBooks. If you have a ChromeBook and
 
 ## The Interface
 
-We will be covering the interface in detail in Week 3 when we look at building an OpenSesame experiment. For now, all we want to do is change one setting to make the interface a little less cryptic. You will notice that the toolbar is a little nondescript and looks like this:
+We will be covering the interface in detail in the video on building an OpenSesame experiment. For now, all we want to do is change one setting to make the interface a little less cryptic. You will notice that the toolbar is a little nondescript and looks like this:
 
 ![opensesame toolbar](images/os_toolbar.png)
 
