@@ -2,7 +2,7 @@
 
 ## Overview
 
-These [slides](topic3.odp) introduce the topic and a video presentation can be viewed by follwoing [this link](https://liveplymouthac-my.sharepoint.com/:v:/g/personal/chris_longmore_plymouth_ac_uk/EWQ9LJ9ZBXZMvBE3JoRU16oB55zWy1cBLgi0Nn4dmZ7r4w?e=eB5B9G)
+These [slides](topic3.odp) introduce the topic and a video presentation can be viewed by following [this link](https://liveplymouthac-my.sharepoint.com/:v:/g/personal/chris_longmore_plymouth_ac_uk/EWQ9LJ9ZBXZMvBE3JoRU16oB55zWy1cBLgi0Nn4dmZ7r4w?e=eB5B9G)
 
 ## Sub-topic 1: Holistic processing of faces and the composite face effect
 
