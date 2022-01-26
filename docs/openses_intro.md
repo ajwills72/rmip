@@ -10,7 +10,7 @@
 
 ## Worksheet plan
 
-- [Download](https://osdoc.cogsci.nl/3.3/download/) and install OpenSesame.  **For the 2020/201 session, we will standardize on Open Sesame version 3.3.6** This is the current version as of 27/01/21.
+- [Download](https://osdoc.cogsci.nl/3.3/download/) and install OpenSesame.  **For the 2021/2022 session, we will standardize on Open Sesame version 3.3.10** This is the current version as of 26/01/22.
 
 - Loading an example script. 
 
