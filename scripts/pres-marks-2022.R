@@ -234,7 +234,7 @@ for(student in present$PU_email) {
 
 ## load in mark sheet from that
 ## and merge with the original absent list
-ec.marks  <- read_csv("ec_pres_2021.csv")
+ec.marks  <- read_csv("pres-marks/ec_pres_2022.csv")
 ec.comb  <- left_join(absent, ec.marks, by="PU_email") %>%
     select(Group_ID, PU_email, present, EC_presented, EC_type)
 
@@ -273,7 +273,6 @@ ec.success  <- ec.comb %>% filter(EC_presented == 1 & EC_type == "extension")
 
 ##sink("dump.txt")
 for(student in ec.success$PU_email) {    
-    ##student <- "shannon.smith-37@students.plymouth.ac.uk"    
     subj <- '"PSYC520/720: Extenuating Circumstances presentation mark"'
     groupid <- ec.success$Group_ID[ec.success$PU_email == student]
     ##student <- "andy.wills@plymouth.ac.uk"        
@@ -290,6 +289,28 @@ for(student in ec.success$PU_email) {
     system(cmd)    
 }
 ##sink()
+
+
+## Email all fails
+ec.comb$EC_presented[is.na(ec.comb$EC_presented)] <- 0
+ec.comb$EC_type[is.na(ec.comb$EC_type)] <- "none"
+
+ec.fail  <- ec.comb %>% filter(EC_presented != 1 & EC_type != "non-attendance")
+
+for(student in ec.fail$PU_email) {
+    ##student <- "andy.wills@plymouth.ac.uk"        
+    subj <- '"Failure of assessed presentation"'
+    cmd <- paste0(
+        "mutt -s ",
+        subj,
+        " -- ",
+        student,
+        " < ec-fail.txt"
+    )
+    print(cmd)
+    system(cmd)
+}
+
 
 ## Time to return marks to DLE
 
