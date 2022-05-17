@@ -515,7 +515,7 @@ In addition, allow two hours for the initial markers' meeting and the preparatio
 
 **Monday 23rd May 2022, noon** - Markers return marking sample with scores, but without feedback, to module leader.
 
-**Tuesday 24th May 2022, 1pm** - Initial markers' meeting between all markers and module leader. Immediately after the meeting, start marking.
+**Tuesday 24th May 2022, 1pm** - Initial markers' meeting between all markers and module leader. Immediately after the meeting, you may start marking.
 
 **Monday 30th May 2022, noon** - Extenuating Circumstances deadline passes. Check for additional reports submitted, and also for any submitted reports that have been updated.
 
