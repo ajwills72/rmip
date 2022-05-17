@@ -498,10 +498,6 @@ report. In there is time, or a lack of queries, support them in the following:
 
 ## Week 13-15: After the workshops end...
 
-### Hatch support
-
-The TA hatch remains open every week day, until the EC deadline passes, to handle queries.
-
 ### TA guide to marking the main report
 
 TAs mark the reports of the groups they led (normally around 20 reports). The
@@ -537,7 +533,7 @@ The marking process is as follows:
 
 3. You'll then have a single, 30-minute, Zoom meeting with all markers and the module leader to discuss how we all have marked these four reports. The module leader will have also marked the reports. The purpose of this meeting is to ensure you are all marking to the same standard.
 
-4. After the EC deadline has passed, download your set of reports from the DLE. **Do not** download any reports before this date, they could still change. 
+4. After the marking meeting, download your set of reports from the DLE. 
 
     4.1. The DLE is set up so that you can select your name and hence just the reports you are marking. 
 
@@ -545,8 +541,6 @@ The marking process is as follows:
   
     4.3. If you worked in Clare Walsh's workshop, some of your students were registered for PSYC720 (M.Sc. Psychology), not PSYC520 (B.Sc. Psychology). So, you'll have to download from both the PSYC520 and PSYC720 DLE pages. It's vitally important that you keep your files for PSYC720 students entirely seperate from those of PSYC520 students, and that you mark PSYC720 after you mark PSYC520 (see below for the reason).
     
-    4.4. If any of your reports were in the original marking sample (above) then you will may to re-mark them, as they may have changed. The DLE gives the date of the last submission, so you can check.
-
 5. Mark the report in the usual way:
 
     5.1. Use a PDF annotation tool to add helpful, specific, supportive comments as you go. Your comments must appear as directly visible elements on the page
@@ -594,11 +588,13 @@ The marking process is as follows:
   grades, the R script is available in the github repository for this site -
   see `scripts/report-marks.R`.
     
-10. When you have marked ALL your reports, use the 'upload zip' functionality on
+10. When the EC deadline passes, check to see if you have received any new reports, and mark those. Also check to see if anything you have already marked has been updated since you marked - if it has, you will have to re-mark it.
+
+11. When you have marked ALL your reports, use the 'upload zip' functionality on
   the DLE to upload your marked reports to the DLE. At the same time, send Andy
   Wills your marks CSV file. 
 
-11. If any matter arises that is not covered by the marksheet - for example evidence
+12. If any matter arises that is not covered by the marksheet - for example evidence
 of plagiarism, collusion, or violation of formatting or page length rules - let
 Andy know via email of your concerns, then mark as if you had not noticed these issues.
 As module leader, Andy will consider each of these exceptional cases and take
