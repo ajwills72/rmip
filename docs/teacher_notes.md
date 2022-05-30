@@ -411,9 +411,10 @@ Empty rows: There should be no empty rows anywhere in the completed files (e.g. 
 
 NA: The only place "NA" should appear is for the score for "advice on next steps". It is not a valid feedback comment, for example. Also note that N/A is not the same as NA. Use only the latter. 
 
-Once the Module Leader receives files from all sessions, they moderate, and return overall grades and feedback to the students via email. The ML also uploads overall grade to the DLE. These processes are largely automated by R scripts.
+Once the Module Leader receives files from all sessions, they moderate, and return overall grades and feedback to the students via email. The ML also uploads overall grade to the DLE. These processes are largely automated by R scripts. The final step for the module team is to release the marks to the students (again done by the ML). This done via Moodle, folllowing [these instructions](moodle-mark-release.md). From this point, the marks are imported into the university's record system ("Unit-E") by Faculty administrative staff, for preparation of exam board materials. 
 
 Students are not required to upload their presentations to the DLE.
+
 
 #### Marking PSYC720
 
