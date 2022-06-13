@@ -77,7 +77,7 @@ scores$mark <- 0
 scores$mark[scores$score > 1.32] <- 42
 
 ## Descrptively "Mainly patchy, aspects of poor", letter: D
-scores$mark[scores$score > 1.77] <- 42
+scores$mark[scores$score > 1.77] <- 45
 
 ## Descriptively "Mainly patchy, aspects of OK", letter: D+
 scores$mark[scores$score > 2.21] <- 48
