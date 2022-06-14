@@ -355,12 +355,14 @@ rm(list=ls())
 library(tidyverse)
 return520  <- read_csv("return520.csv")
 
-return520 %>% filter(Grade != 0) %>% summarise(mean = mean(Grade), sd = sd(Grade), n = n())
+attempt520 <- return520 %>% filter(Grade != 0)
+attempt520 %>% summarise(mean = mean(Grade), sd = sd(Grade), n = n())
 
-table(return520$Grade)
+round(table(attempt520$Grade) * 100 / nrow(attempt520),0)
 
 return720  <- read_csv("return720.csv")
 
-return720 %>% filter(Grade != 0) %>% summarise(mean = mean(Grade), sd = sd(Grade), n = n())
+attempt720 <- return720 %>% filter(Grade != 0)
+attempt720 %>% filter(Grade != 0) %>% summarise(mean = mean(Grade), sd = sd(Grade), n = n())
+round(table(attempt720$Grade) * 100 / nrow(attempt720),0)
 
-table(return720$Grade)

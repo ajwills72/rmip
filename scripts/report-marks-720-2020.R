@@ -124,3 +124,8 @@ write_csv(report, "return720-report.csv")
 
 ## I also checked the written feedback on a sample of each of the 
 ## markers. It was good, and pretty consistent across markers.
+
+## Now, module review form
+attempt <- report %>% filter(Grade != 0)
+attempt %>% summarise(mean = mean(Grade), sd = sd(Grade), n = n())
+round(table(attempt$Grade) * 100 / nrow(attempt))

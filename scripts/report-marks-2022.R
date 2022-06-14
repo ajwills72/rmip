@@ -169,5 +169,6 @@ write_csv(report, "return520-report.csv")
 ## markers. It was good, and pretty consistent across markers.
 
 ## Now, module review form
-report %>% filter(Grade != 0) %>% summarise(mean = mean(Grade), sd = sd(Grade), n = n())
-table(report$Grade)
+attempt <- report %>% filter(Grade != 0)
+attempt %>% summarise(mean = mean(Grade), sd = sd(Grade), n = n())
+round(table(attempt$Grade) * 100 / nrow(attempt))
