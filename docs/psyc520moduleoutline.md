@@ -5,7 +5,7 @@
 
 **Module Leader:** Andy Wills
 
-**Teaching Staff:**	Chris Longmore, Steve Samuel, Michael Verde, Clare Walsh.
+**Teaching Staff:**	Chris Longmore, Julien Besle, Michael Verde, Clare Walsh.
 
 ## Aims
 
