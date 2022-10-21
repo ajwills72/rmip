@@ -3,8 +3,7 @@
 
 **Credit Weighting:**	20 Credits
 
-**Module Leader:** Andy Wills
-
+**Module Leader:** Clare Walsh
 **Teaching Staff:**	Chris Longmore, Julien Besle, Michael Verde, Clare Walsh.
 
 ## Aims
