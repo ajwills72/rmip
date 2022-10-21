@@ -3,9 +3,9 @@
 
 **Credit Weighting:**	20 Credits
 
-**Module Leader:** see module DLE page
+**Module Leader:** Clare Walsh
 
-**Teaching Staff:**	see module DLE page
+**Teaching Staff:**	Michael Verde, Julien Besle, Clare Walsh, Chris Longmore
 
 ## Aims
 
