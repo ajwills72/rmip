@@ -127,7 +127,7 @@ One week before the first class, students must be emailed and requested to:
 | 015 | Teacher gives a short introduction to each of the three topics and sub-topics. |
 | 030 | Students select topic and organise into groups. TA allocated to groups. Any given TA does one / two topics. |
 | 055 | Break      |
-| 065 | Students do the [Introduction to OpenSesame](openses_task1.html)  worksheet, with support |
+| 065 | Students do the [Introduction to OpenSesame](https://ajwills72.github.io/rmip/openses_task1.html)  worksheet, with support |
 | 115 | Finish                                                                                                   |
 
 _Note 1_: When introducing the topic, teachers should lay the groundwork for students to understand the concept of an interaction.
