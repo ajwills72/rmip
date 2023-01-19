@@ -100,7 +100,7 @@ One week before the first class, students must be emailed and requested to:
 
 1. Check they can log in to RStudio Server, and request login details from the Tech Office if they cannot.
 
-2. If they did not complete our Stage 1 for any reason, they must complete the [Very Brief Guide to R](https://https://ajwills72.github.io/rminr/#vbgtr), unless they have done so already.
+2. If they did not complete our Stage 1 for any reason, they must complete the [Very Brief Guide to R](https://ajwills72.github.io/rminr/#vbgtr), unless they have done so already.
 
 2. Complete the R [revision worksheet](https://ajwills72.github.io/rminr/revision.html), as the module assumes this information will be fresh in their mind. It should take approximately 30 minutes to complete for most students. MSc/direct entry students will need a bit more time (perhaps 15 more minutes) as they'll need to read some additional material on effect size, which was not covered in the materials they have received to date.
 
@@ -112,7 +112,7 @@ One week before the first class, students must be emailed and requested to:
 
 ### Resources for teachers
 
-- If you're new to R, work through the [Absolute Beginners' Guide to R, part 1](https://ajwills72.github.io/rminr). It should take about four hours.
+- If you're new to R, work through the [Absolute Beginners' Guide to R, part 1](https://ajwills72.github.io/rminr/#beginners). It should take about four hours.
 
 - If you're new to OpenSesame, watch the video in this
   [tutorial](https://osdoc.cogsci.nl/3.2/tutorials/beginner/), and follow along
@@ -127,7 +127,7 @@ One week before the first class, students must be emailed and requested to:
 | 015 | Teacher gives a short introduction to each of the three topics and sub-topics. |
 | 030 | Students select topic and organise into groups. TA allocated to groups. Any given TA does one / two topics. |
 | 055 | Break      |
-| 065 | Students do the [Introduction to OpenSesame](openses_intro.html)  worksheet, with support |
+| 065 | Students do the [Introduction to OpenSesame](https://ajwills72.github.io/rmip/openses_task1.html)  worksheet, with support |
 | 115 | Finish                                                                                                   |
 
 _Note 1_: When introducing the topic, teachers should lay the groundwork for students to understand the concept of an interaction.
