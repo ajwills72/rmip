@@ -22,12 +22,13 @@ This example demonstrates the composite face effect can influence the recognitio
 
 ### Resources
 
-Hole, G.J. (1994). Configurational factors in the perception of unfamiliar faces. *Perception*, *23*, 65 - 74, [DOI:10.1068/p230065](http://sro.sussex.ac.uk/id/eprint/14457/1/p230065.pdf)  
+Hole, G.J. (1994). Configurational factors in the perception of unfamiliar faces. *Perception*, *23*, 65 - 74, DOI:10.1068/p230065.  
+_This article is not accessible through the university library. Here is a [link](http://sro.sussex.ac.uk/id/eprint/14457/1/p230065.pdf) to an open-access version._   
 **This paper uses the term 'chimeric' instead of composite to refer to the effect. Here the two terms mean the same thing. Experiment 1 is the most similar to many composite face experiments**
 
-Hugenberg, K. & Corneille, O. (2009). Holistic processing is tuned for in-group faces. *Cognitive Science*, *33*, 1173 - 1181 [DOI:10.1111/j.1551-6709.2009.01048.x](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1551-6709.2009.01048.x)
+Hugenberg, K. & Corneille, O. (2009). Holistic processing is tuned for in-group faces. *Cognitive Science*, *33*, 1173 - 1181 DOI:10.1111/j.1551-6709.2009.01048.x
 
-Zhao, M. & Hayward, W.G. (2010). Holistic processing underlies gender judgements of faces. *Attention, Perception and Psychophysics*, *72*, 591 - 596 [DOI:10.3758/APP.72.3.591](https://link.springer.com/content/pdf/10.3758%2FAPP.72.3.591.pdf)  
+Zhao, M. & Hayward, W.G. (2010). Holistic processing underlies gender judgements of faces. *Attention, Perception and Psychophysics*, *72*, 591 - 596 DOI:10.3758/APP.72.3.591  
 **It is experiment 3 here that is of major interest as this one looks at the composite face effect**
 
 ## Sub-topic 2: Image-dependency of unfamiliar face recognition and matching
@@ -38,11 +39,11 @@ As you may have learned in a previous module, unfamiliar face recognition is lar
 
 ### Resources
 
-Balas, B., Gable, J. & Pearson, H. (2019). The effects of blur and inversion on the recognition of ambient face images. *Perception*, *48*, 58 - 71 [DOI:10.1177/0301006618812581](https://psyarxiv.com/dqjsy/)  
+Balas, B., Gable, J. & Pearson, H. (2019). The effects of blur and inversion on the recognition of ambient face images. *Perception*, *48*, 58 - 71, DOI:10.1177/0301006618812581  
 **Experiment 1 is the important one here. Note that this study used physical card sorting which will not be possible in OpenSesame. The key point is the effect that blurring has on a participant's ability to detect identity. Think about how such an effect might be looked at using a different paradigm that can be implemented in OpenSesame.**
 
-Bindemann, M., Attard, J., Leach, A. & Johnston, R.A. (2013). The effect of image pixelation on unfamiliar face matching. *Applied Cognitive Psychology*, *27*, 707 - 717 [DOI:10.1002/acp.2970](https://kar.kent.ac.uk/36097/1/Bindemann_ACP_2013b.pdf)  
+Bindemann, M., Attard, J., Leach, A. & Johnston, R.A. (2013). The effect of image pixelation on unfamiliar face matching. *Applied Cognitive Psychology*, *27*, 707 - 717, DOI:10.1002/acp.2970  
 **Experiment 1 is the important one although aspects of Experiment 2 speak to the topic.**
 
-Estudillo, A.J. & Bindemann, M. (2014). Generalization across view in face memory and face matching. *i-Perception*, *5*, 589 - 601. [DOI:10.1068/i0669](https://kar.kent.ac.uk/45624/1/Bindemann_iPerception_2014.pdf)  
+Estudillo, A.J. & Bindemann, M. (2014). Generalization across view in face memory and face matching. *i-Perception*, *5*, 589 - 601, DOI:10.1068/i0669  
 **This paper looks at the effect of showing people different viewpoints of unfamiliar faces. It is interesting because it reports the results of both a matching experiment, and a recognition memory experiment (make sure you can identify the primary effect of interest in both cases!). You should only use one of these paradigms for your own experiment.**
