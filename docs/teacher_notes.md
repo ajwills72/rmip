@@ -1,6 +1,6 @@
 # Research Methods in Practice (Part 2) - Teachers' notes
 
-_2022 edition_.
+_2024 edition_.
 
 ## Contents
 
@@ -497,7 +497,7 @@ report. In there is time, or a lack of queries, support them in the following:
 
 <a name="13"></a>
 
-## Week 13-15: After the workshops end...
+## Week 13-17: After the workshops end...
 
 ### TA guide to marking the main report
 
@@ -512,17 +512,19 @@ In addition, allow two hours for the initial markers' meeting and the preparatio
 
 #### Timetable
 
-**Monday 16th May 2022, noon** - Submission deadline passes. Module leader sends marking sample to markers. Markers must not mark any further reports until after initial markers' meeting (below)
+(These dates suggested to Sonja/Peter on 16th Aug 2022, awaiting confirmation). 
 
-**Monday 23rd May 2022, noon** - Markers return marking sample with scores, but without feedback, to module leader.
+**Tuesday 7th May 2022, noon** (Week 13) - Submission deadline passes. Module leader sends marking sample to markers. Markers must not mark any further reports until after initial markers' meeting (below)
 
-**Tuesday 24th May 2022, 1pm** - Initial markers' meeting between all markers and module leader. Immediately after the meeting, you may start marking.
+**Tuesday 15th May 2024, noon** (Week 14) - Markers return marking sample with scores, but without feedback, to module leader.
 
-**Monday 30th May 2022, noon** - Extenuating Circumstances deadline passes. Check for additional reports submitted, and also for any submitted reports that have been updated.
+**Wednesday 15th May 2024, 1pm** (Week 14) - Initial markers' meeting between all markers and module leader. Immediately after the meeting, you may start marking.
 
-**Monday 13th June 2022, noon** (HARD DEADLINE!)  - All reports marked and uploaded to DLE. All mark spreadsheets emailed to Module Leader. Process of moderation begins.
+**Tuesday 21st May 2024, noon** (Week 15) - Extenuating Circumstances deadline passes. Check for additional reports submitted, and also for any submitted reports that have been updated.
 
-**Wed 15th June 2022** - Reports and marks are returned to students via DLE.
+**Monday 3rd June 2024, noon** (Week 17) (HARD DEADLINE!)  - All reports marked and uploaded to DLE. All mark spreadsheets emailed to Module Leader. Process of moderation begins.
+
+**Tuesday 4th June 2024** (Week 17) - Reports and marks are returned to students via DLE.
 
 #### Marking process
 
