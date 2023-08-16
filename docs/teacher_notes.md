@@ -41,7 +41,7 @@ _2024 edition_.
 
 ## Overview
 
-_References to 'week X' mean the Xth teaching week of the semester_. For the 2021/22 Plymouth University timetable, teaching week 1 of semester 2 begins 31/01/2022. 
+_References to 'week X' mean the Xth teaching week of the semester_. For the 2023/24 Plymouth University timetable, teaching week 1 of semester 2 begins 22/01/2024. 
 
 
 ### Course organisation and staffing
@@ -62,7 +62,7 @@ The module's mark is based on  20% Practical and 80% Coursework, with no exams, 
 
 20% - Group mark for a 10-min group oral presentation. The mark is weighted mainly on the quality of the research presented, rather than audio-visual slickness. There is a detailed quantitative mark scheme. **Occurs during class in Week 10**
 
-80% - Individual mark for an individually-written report. The mark is derived from a detailed quantitative mark scheme. **Due Monday of Week 13**, noon. Return to students Wed of Week 17 (if returning earlier, do not return during the exam period).
+80% - Individual mark for an individually-written report. The mark is derived from a detailed quantitative mark scheme. **Due Monday of Week 13**, noon. Return to students Monday of Week 17.
 
 Pass/fail - There are a set of pass/fail competency components, which also act as a **lab book**. In order to keep on track students should complete them in the week indicated (see below). **Each activity closes on the Friday of the week following its introduction in class**. There's an exact timetable [here](psycel-schedule.md). In order to complete it after that time, students must request their personal tutor to re-open it. Some of these are group components. In these cases, every member of the group still has to submit it individually, but they can all submit the same thing without penalty.
 
