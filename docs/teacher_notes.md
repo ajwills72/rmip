@@ -62,7 +62,7 @@ The module's mark is based on  20% Practical and 80% Coursework, with no exams, 
 
 20% - Group mark for a 10-min group oral presentation. The mark is weighted mainly on the quality of the research presented, rather than audio-visual slickness. There is a detailed quantitative mark scheme. **Occurs during class in Week 10**
 
-80% - Individual mark for an individually-written report. The mark is derived from a detailed quantitative mark scheme. **Due Monday of Week 13**, noon. Return to students Monday of Week 17.
+80% - Individual mark for an individually-written report. The mark is derived from a detailed quantitative mark scheme. **Due Thursday of Week 12**, noon. Return to students Monday of Week 17.
 
 Pass/fail - There are a set of pass/fail competency components, which also act as a **lab book**. In order to keep on track students should complete them in the week indicated (see below). **Each activity closes on the Friday of the week following its introduction in class**. There's an exact timetable [here](psycel-schedule.md). In order to complete it after that time, students must request their personal tutor to re-open it. Some of these are group components. In these cases, every member of the group still has to submit it individually, but they can all submit the same thing without penalty.
 
@@ -74,7 +74,7 @@ A full list of assessments, with proformas and model answers in most cases, are 
 
 ### Resources
 
-We currently anticipate fully-online delivery of this module in 2021, due to COVID-19. Each student will need a _proper computer_ (PC, Mac, or Linux - not a phone, not a chromebook) in all sessions. 
+Each student will need a _proper computer_ (PC, Mac, or Linux - not a phone, not a chromebook) in all sessions. 
 
 For activities based around R, students will continue to use the RStudio server account they were allocated at Stage 1. They should be prompted a week before the module starts to request login details if they do not have them.
 
@@ -512,19 +512,19 @@ In addition, allow two hours for the initial markers' meeting and the preparatio
 
 #### Timetable
 
-(These dates suggested to Sonja/Peter on 16th Aug 2022, awaiting confirmation). 
+(AW note: Email chain 16th and 17th August 2023 refers). 
 
-**Tuesday 7th May 2022, noon** (Week 13) - Submission deadline passes. Module leader sends marking sample to markers. Markers must not mark any further reports until after initial markers' meeting (below)
+**Thursday 2nd May 2024, mid-day** (Week 12) - Submission deadline passes. Module leader sends marking sample to markers. Markers must not mark any further reports until after initial markers' meeting (below)
 
-**Tuesday 15th May 2024, noon** (Week 14) - Markers return marking sample with scores, but without feedback, to module leader.
+**Thursday 9th May 2024, mid-day** (Week 13) - Markers return marking sample with scores, but without feedback, to module leader.
 
-**Wednesday 15th May 2024, 1pm** (Week 14) - Initial markers' meeting between all markers and module leader. Immediately after the meeting, you may start marking.
+**Friday 10th May 2024, 1pm** (Week 13) - Initial markers' meeting between all markers and module leader. Immediately after the meeting, you may start marking.
 
-**Tuesday 21st May 2024, noon** (Week 15) - Extenuating Circumstances deadline passes. Check for additional reports submitted, and also for any submitted reports that have been updated.
+**Friday 17th May 2024, mid-day** (Week 14) - Extenuating Circumstances deadline passes. Check for additional reports submitted, and also for any submitted reports that have been updated.
 
-**Monday 3rd June 2024, noon** (Week 17) (HARD DEADLINE!)  - All reports marked and uploaded to DLE. All mark spreadsheets emailed to Module Leader. Process of moderation begins.
+**Monday 31st May 2024, mid-day** (Week 17) (HARD DEADLINE!)  - All reports marked and uploaded to DLE. All mark spreadsheets emailed to Module Leader. Process of moderation begins.
 
-**Tuesday 4th June 2024** (Week 17) - Reports and marks are returned to students via DLE.
+**Monday 3rd June 2024** (Week 17) - Reports and marks are returned to students via DLE.
 
 #### Marking process
 
