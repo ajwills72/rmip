@@ -466,15 +466,15 @@ Students write and submit a bullet-point plan for their report, with support.
 
 ## Week 12: Critique and support
 
-The end of the late-week session in Week 12 is the **last** opportunity for students to receive support on this module (unless they have Extenuating Circumstances, in which case support continues through the office hours of their TA). It's important to make clear to students that this means all forms of support, including email, are over by the end of the second session. Between then and the Monday Week 13 deadline, they are on their own. 
+**There is no late-week session in week 12.**. The end of the early-week session in Week 12 is the **last** opportunity for students to receive support on this module (unless they have Extenuating Circumstances, in which case support continues through the office hours of their TA). It's important to make clear to students that this means all forms of support, including email, are over by the end of this session. Between then and the Thursday Week 12 deadline, they are on their own. 
 
 ### Early-week session
 
 | min | Content                                              |
 |-----|------------------------------------------------------|
 | 000 | TA-led good-and-bad reports activity (see Note 1)    |
-| 050 | BREAK                                                |
-| 060 | TA-led discussion of bullet point plans (see Note 2) |
+| 025 | TA-led discussion of bullet point plans (see Note 2) |
+| 050 | Open Q & A, and support (see Note 3)                 |
 | 110 | Finish                                               |
 
 Note 1: Groups are given one example 1st class and one example 2ii report. Can
@@ -485,15 +485,13 @@ Note 2: All groups working with a TA get together.  Each group, with an
 audience of that TA's other groups, talks through their bullet point
 plan. TA and other groups provide feedback on what they found clear / unclear.
 
-## Late-week session
-
-An open Q&A, and support session, so students are best prepared to write their
-report. In there is time, or a lack of queries, support them in the following: 
+Note 3: The second half of the session is an open Q&A, and support session, so students 
+are best prepared to write their report. In there is time, or a lack of queries, support 
+them in the following: 
 
 [APA referencing](https://plymouth.libguides.com/APA)
 
 [Common issues of grammar and style](grammar.html)
-
 
 <a name="13"></a>
 
