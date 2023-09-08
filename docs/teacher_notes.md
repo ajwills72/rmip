@@ -60,9 +60,9 @@ After the main report deadline, support for students with Extenuating Circumstan
 
 The module's mark is based on  20% Practical and 80% Coursework, with no exams, but with pass/fail competency components.
 
-20% - Group mark for a 10-min group oral presentation. The mark is weighted mainly on the quality of the research presented, rather than audio-visual slickness. There is a detailed quantitative mark scheme. **Occurs during class in Week 10**
+20% - Group mark for a 10-min group oral presentation. The mark is weighted mainly on the quality of the research presented, rather than audio-visual slickness. There is a detailed quantitative mark scheme. **Occurs during class in Week 10** (19-26 April 2024)
 
-80% - Individual mark for an individually-written report. The mark is derived from a detailed quantitative mark scheme. **Due Thursday of Week 12**, noon. Return to students Monday of Week 17.
+80% - Individual mark for an individually-written report. The mark is derived from a detailed quantitative mark scheme. **Due Friday of Week 12**, noon (26th April 2024). Return to students Tuesday of Week 17 (4th June 2024).
 
 Pass/fail - There are a set of pass/fail competency components, which also act as a **lab book**. In order to keep on track students should complete them in the week indicated (see below). **Each activity closes on the Friday of the week following its introduction in class**. There's an exact timetable [here](psycel-schedule.md). In order to complete it after that time, students must request their personal tutor to re-open it. Some of these are group components. In these cases, every member of the group still has to submit it individually, but they can all submit the same thing without penalty.
 
@@ -466,7 +466,7 @@ Students write and submit a bullet-point plan for their report, with support.
 
 ## Week 12: Critique and support
 
-**There is no late-week session in week 12.**. The end of the early-week session in Week 12 is the **last** opportunity for students to receive support on this module (unless they have Extenuating Circumstances, in which case support continues through the office hours of their TA). It's important to make clear to students that this means all forms of support, including email, are over by the end of this session. Between then and the Thursday Week 12 deadline, they are on their own. 
+The end of the late-week session in Week 12 is the **last** opportunity for students to receive support on this module (unless they have Extenuating Circumstances, in which case support continues through the office hours of their TA). It's important to make clear to students that this means all forms of support, including email, are over by the end of this session. Between then and the Friday Week 12 deadline, they are on their own. 
 
 ### Early-week session
 
@@ -493,6 +493,10 @@ them in the following:
 
 [Common issues of grammar and style](grammar.html)
 
+### Late-week session
+
+This session falls the day before the report deadline. It's an open Q&A / support session.
+
 <a name="13"></a>
 
 ## Week 13-17: After the workshops end...
@@ -512,23 +516,23 @@ In addition, allow two hours for the initial markers' meeting and the preparatio
 
 (AW note: Email chain 16th and 17th August 2023 refers). 
 
-**Thursday 2nd May 2024, mid-day** (Week 12) - Submission deadline passes. Module leader sends marking sample to markers. Markers must not mark any further reports until after initial markers' meeting (below)
+**Friday 3rd May 2024, mid-day** (Week 12) - Submission deadline passes. Module leader sends marking sample to markers. Markers must not mark any further reports until after initial markers' meeting (below)
 
 **Thursday 9th May 2024, mid-day** (Week 13) - Markers return marking sample with scores, but without feedback, to module leader.
 
-**Friday 10th May 2024, 1pm** (Week 13) - Initial markers' meeting between all markers and module leader. Immediately after the meeting, you may start marking.
+**Friday 10th May 2024, mid-day** (Week 14) - Submission grace period passes, no further submissions permitted. 
 
-**Friday 17th May 2024, mid-day** (Week 14) - Extenuating Circumstances deadline passes. Check for additional reports submitted, and also for any submitted reports that have been updated.
+**Friday 10th May 2024, 1pm** (Week 13) - Initial markers' meeting between all markers and module leader. Immediately after the meeting, you may start marking.
 
 **Monday 31st May 2024, mid-day** (Week 17) (HARD DEADLINE!)  - All reports marked and uploaded to DLE. All mark spreadsheets emailed to Module Leader. Process of moderation begins.
 
-**Monday 3rd June 2024** (Week 17) - Reports and marks are returned to students via DLE.
+**Tuesday 4th June 2024** (Week 17) - Reports and marks are returned to students via DLE.
 
 #### Marking process
 
 The marking process is as follows:
 
-1. On the day of the main deadline (16th May 2022), every marker receives the same four reports to mark. Unlike all subsequent marking, you do not write feedback on these reports. You just read the report and allocate the 25 scores using the score spreadsheet (for details, see below). This should not take you more than about 20 minutes per report. 
+1. On the day of the submission deadline, every marker receives the same four reports to mark. Unlike all subsequent marking, you do not write feedback on these reports. You just read the report and allocate the 25 scores using the score spreadsheet (for details, see below). This should not take you more than about 20 minutes per report. 
 
 2. Within one week, email your marks for these four reports to the module leader.
 
