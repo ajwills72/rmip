@@ -50,43 +50,71 @@ One week before this course begins, you must:
 
 If you ever want to look back at earlier materials on R, you can find them all on the main [RMINR](https://ajwills72.github.io/rminr) site. On that site, Part 1 and 2 are the Stage 1 materials, Part 3 is a a briefer version of Stage 1 for revision purposes, and Parts 4 and 5 are the Stage 2 materials.
 
-## Resources 
+## Week-by-week plan, with resources 
 
-- [Topic 1: Mind wandering](topic1.html).
+- Week 1: Select topic and learn about statistical power
 
-- [Topic 2: Long-term memory](topic2.html).
+    - [Topic 1: Mind wandering](topic1.html).
 
-- [Topic 3: Face processing](topic3.html).
+    - [Topic 2: Long-term memory](topic2.html).
 
-- [Running an OpenSesame Experiment](openses_task1.html) worksheet.
+    - [Topic 3: Face processing](topic3.html).
 
-- [Statistical power](https://ajwills72.github.io/rminr/power.html) worksheet.
+    - [Running an OpenSesame Experiment](openses_task1.html) worksheet.
 
-- [Data preprocessing](https://ajwills72.github.io/rminr/preproc.html) worksheet. 
+    - [Statistical power](https://ajwills72.github.io/rminr/power.html) worksheet.
 
-- [One-page summary](eg-student/onepagesummary.odt) form, with [example](eg-student/onepagesummary-example.odt).
+- Week 2: Define question, outline design and learn about data preprocessing
 
-- [Building an OpenSesame Experiment](openses_task2.html) worksheet.
+    - [Data preprocessing](https://ajwills72.github.io/rminr/preproc.html) worksheet. 
 
-- [Full protocol](eg-student/protocol.odt) form, with [example](eg-student/protocol-example.odt).
+    - [One-page summary](eg-student/onepagesummary.odt) form, with [example](eg-student/onepagesummary-example.odt).
 
-- Videos about using JATOS: [Uploading an OpenSesame Experiment](https://youtu.be/EMHwUMI4JOI), and [Exporting results](https://youtu.be/y3fcPB5Fj5M)
+- Week 3: Finalise experimental design
 
-- [Within-subject differences](https://ajwills72.github.io/rminr/anova1.html) worksheet. 
+    - [Full protocol](eg-student/protocol.odt) form, with [example](eg-student/protocol-example.odt).
 
-- [Understanding interactions](https://ajwills72.github.io/rminr/anova2.html) worksheet. 
+- Week 4: Build experiment
 
-- [Factorial differences](https://ajwills72.github.io/rminr/anova3.html) worksheet. 
+    - [Building an OpenSesame Experiment](openses_task2.html) worksheet.
 
-- [Group presentation ('conference') submission](eg-student/conference-abstract.odt) form, with [example](eg-student/conference-abstract-eg.odt).
+    - Video about using JATOS: [Uploading an OpenSesame Experiment](https://youtu.be/EMHwUMI4JOI)
 
-- [Example presentation slides](eg-student/presentation-eg.odp).
+- Week 5: Upload experiment and begin to learn about ANOVA
 
-- [Presentation feedback](eg-student/pres-feedback.html) form with [example feedback](eg-student/pres-feedback-eg.html).
+    - [Within-subject differences](https://ajwills72.github.io/rminr/anova1.html) worksheet. 
 
-- _Bullet point plan_: There is no form for this, but there is a [example answer](eg-student/eg-bullet.html).
+- Week 6: Collect data and finish learning about ANOVA
 
-- [Main report](eg-student/report-proforma.odt) template with [example answer](eg-student/report-eg.odt) and [mark scheme](eg-student/report-mark-scheme.html). Also, see this [really bad answer](eg-student/bad-report-eg.odt) for comparison.
+   - [Understanding interactions](https://ajwills72.github.io/rminr/anova2.html) worksheet. 
+
+   - [Factorial differences](https://ajwills72.github.io/rminr/anova3.html) worksheet. 
+
+- Week 7: Finish data collection
+
+    - Video about using JATOS: [Exporting results](https://youtu.be/y3fcPB5Fj5M)
+
+- Week 8: Analyse data
+
+- Week 9: Write a presentation
+
+    - [Group presentation ('conference') submission](eg-student/conference-abstract.odt) form, with [example](eg-student/conference-abstract-eg.odt).
+
+    - [Example presentation slides](eg-student/presentation-eg.odp).
+
+- EASTER BREAK
+
+- Week 10: Give presentation
+
+   - [Presentation feedback](eg-student/pres-feedback.html) form with [example feedback](eg-student/pres-feedback-eg.html).
+
+- Week 11: Planning a report
+
+   - _Bullet point plan_: There is no form for this, but there is a [example answer](eg-student/eg-bullet.html).
+    
+- Week 12: Critique and support
+
+   - [Main report](eg-student/report-proforma.odt) template with [example answer](eg-student/report-eg.odt) and [mark scheme](eg-student/report-mark-scheme.html). Also, see this [really bad answer](eg-student/bad-report-eg.odt) for comparison.
 
 ___
 
