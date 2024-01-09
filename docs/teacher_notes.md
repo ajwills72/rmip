@@ -355,7 +355,7 @@ slides each.
 
 Note 2:
 
-Each group must be allocated a one-hour presentation slot for week 10. Approximately one-third of groups will present in their early-week session, and two-thirds in their late-week session (of which, from an instructor perspective, there are two per early-week session). With table group size of 7, each early-week workshop group will have approx. 14 groups to distribute across the six available one-hour slots. Sort which groups go when during week 10, and post the allocations to the DLE before the week 9 late-week session. Use the flexibility of having two sessions (from the student's perspective) to accommodate groups who have serious reasons for not being able to make one of the sessions (e.g. funeral of a close relative). If we can't accommodate this, then absent members have to present on their own in week 12, and they only get the opportunity to do that with a formal extenuating circumstances approval. 
+Each group must be allocated a one-hour presentation slot for week 10. Half of groups will present in their early-week session, and half in their late-week session. With table group size of 7, each Workshop Group will have 16 Table Groups to distribute across the four available one-hour slots. Sort which groups go when during week 10, and post the allocations to the DLE before the week 9 late-week session. Use the flexibility of having two sessions (from the student's perspective) to accommodate groups who have serious reasons for not being able to make one of the sessions (e.g. funeral of a close relative). If we can't accommodate this, then absent members have to do the Extenuating Circumstances assessment instead.
 
 Note 3:
 
