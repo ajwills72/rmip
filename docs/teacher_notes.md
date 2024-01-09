@@ -117,6 +117,8 @@ One week before the first class, students must be emailed and requested to:
 - If you're new to OpenSesame, watch the video in this
   [tutorial](https://osdoc.cogsci.nl/3.2/tutorials/beginner/), and follow along
   as he does things. It should take less than two hours.
+
+- **Make sure you have read and understood the journal articles on which the topics are based**, before class.  
   
 ### Early-week session:
 
