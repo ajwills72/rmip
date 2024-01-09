@@ -6,11 +6,15 @@ _Andy Wills, Clare Walsh, Michael Verde, Julien Besle_
 
 In this course, you'll get a guided introduction to doing research as a team. Across weekly two-hour workshops, you'll go through the whole _research cycle_. You'll pick a topic (from a list), plan a study, build an experiment, collect data, analyze that data, and give a group presentation on your findings. You'll then write up the whole thing in journal article format. The focus is on learning a few techniques well, and getting lots of practice in those techniques. You'll learn how to do good, open, reproducible science, and you'll be well prepared for the research methods components of your final year. 
 
+## Some explanations
+
+### Why no stats lectures?
+
 There are no lectures in this module, deliberately. You will come across statistical techniques and other research methods at the time you need them to solve a problem, and you will apply that learning immediately to a task you have to complete (the project). This is how people learn and become truly competent in any complex skill. Not by listening in the abstract, but doing concrete tasks. 
 
-The statistical techniques we introduce will be demonstrated through RStudio. Other software could have been used, but RStudio is both free (so you can be sure of being able to use it after graduation if you wish), and by far the most popular choice of software for people who make a living out of analyzing data (over 80% of data scientists surveryed by the Rexler Analytics used R; SPSS came second with 29%). 
+### Why RStudio?
 
-## Some explanations
+The statistical techniques we introduce will be demonstrated through RStudio. Other software could have been used, but RStudio is both free (so you can be sure of being able to use it after graduation if you wish), and by far the most popular choice of software for people who make a living out of analyzing data (over 80% of data scientists surveryed by the Rexler Analytics used R; SPSS came second with 29%). 
 
 ### Why fixed topics?
 
