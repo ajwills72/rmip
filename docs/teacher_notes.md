@@ -1,6 +1,6 @@
 # Research Methods in Practice (Part 2) - Teachers' notes
 
-_2022 edition_.
+_2024 edition_.
 
 ## Contents
 
@@ -41,28 +41,28 @@ _2022 edition_.
 
 ## Overview
 
-_References to 'week X' mean the Xth teaching week of the semester_. For the 2021/22 Plymouth University timetable, teaching week 1 of semester 2 begins 31/01/2022. 
+_References to 'week X' mean the Xth teaching week of the semester_. For the 2023/24 Plymouth University timetable, teaching week 1 of semester 2 begins 22/01/2024. 
 
 
 ### Course organisation and staffing
 
-Students work in groups of 7 within workshop classes of 50, so there are six workshop groups in order to accommodate a cohort of 300 students. The course has 12 weeks of teaching. Throughout that time, there is a specified teaching assistant (Ph.D student or TARA) who is the supervisor of each group and is responsible for monitoring the progress of their groups. 
+Students work in groups of 7 within workshop classes of up to 112, so there are three workshop groups in order to accommodate a cohort of 326 students. The course has 12 weeks of teaching. Throughout that time, there is a specified teaching assistant (Ph.D student or TARA) who is the supervisor of each group and is responsible for monitoring the progress of their groups. 
 
-Each week, students attend a two-hour _early-week_ workshop, and a two-hour _late-week_ workshop. For the early-week workshop, two workshop groups combine for a class size of 100 students. The early-week workshops have a 20:1 student:staff ratio. One of those staff in the early-week session must be a member of academic staff (Lecturer / AP / Prof), who is expected to be present throughout the session. The late-week workshops are staffed solely by teaching assistants, at a 25:1 ratio. 
+Each week, students attend a two-hour _early-week_ workshop, and a two-hour _late-week_ workshop. The early-week workshops have a 22:1 student:staff ratio. One of those staff in the early-week session must be a member of academic staff (Lecturer / AP / Prof), who is expected to be present throughout the session. The late-week workshops are staffed solely by teaching assistants, at a 28:1 ratio. 
 
-In addition to these sources of support, a subset of the TAs run 'hatch times' on a rota (one TA staffs the hatch at any given time). These are drop-in times, run every week day during term, until the last day of workshops (Friday of Week 12). The hatch is not open during vacation breaks, nor during public holidays. Opening hours vary:
+In addition to these sources of support, a subset of the TAs run 'hatch times' on a rota (one TA staffs the hatch at any given time). These are drop-in times, run every week day from week 2 of term, until the last day of workshops (Friday of Week 12). The hatch is not open during vacation breaks, nor during public holidays. Opening hours vary:
 
-- Hatch (Weeks 0-12 inclusive):  Mondays: 10 – 4, Tuesdays: 10 – 4, Wednesdays: 10 – 1, Thursdays: 10 – 4, Fridays: 10 - 4
+- Hatch (Weeks 2 - 12 inclusive):  Mondays: 10 – 4, Tuesdays: 10 – 4, Wednesdays: 10 – 1, Thursdays: 10 – 4, Fridays: 10 - 4
 
 After the main report deadline, support for students with Extenuating Circumstances is, until the EC deadline, via the office hours of the TA who worked with them throughout the semester. For TAs paid by the hour, these support hours are claimable. 
 
 ### Assessment
 
-The module's mark is based on  20% Practical and 80% Coursework, with no exams, but with pass/fail competency components.
+The module's mark is based on 20% Practical and 80% Coursework, with no exams, but with pass/fail competency components.
 
-20% - Group mark for a 10-min group oral presentation. The mark is weighted mainly on the quality of the research presented, rather than audio-visual slickness. There is a detailed quantitative mark scheme. **Occurs during class in Week 10**
+20% - Group mark for a 10-min group oral presentation. The mark is weighted mainly on the quality of the research presented, rather than audio-visual slickness. There is a detailed quantitative mark scheme. **Occurs during class in Week 10** (19-26 April 2024)
 
-80% - Individual mark for an individually-written report. The mark is derived from a detailed quantitative mark scheme. **Due Monday of Week 13**, noon. Return to students Wed of Week 17 (if returning earlier, do not return during the exam period).
+80% - Individual mark for an individually-written report. The mark is derived from a detailed quantitative mark scheme. **Due Friday of Week 12**, noon (26th April 2024). Return to students Tuesday of Week 17 (4th June 2024).
 
 Pass/fail - There are a set of pass/fail competency components, which also act as a **lab book**. In order to keep on track students should complete them in the week indicated (see below). **Each activity closes on the Friday of the week following its introduction in class**. There's an exact timetable [here](psycel-schedule.md). In order to complete it after that time, students must request their personal tutor to re-open it. Some of these are group components. In these cases, every member of the group still has to submit it individually, but they can all submit the same thing without penalty.
 
@@ -74,7 +74,7 @@ A full list of assessments, with proformas and model answers in most cases, are 
 
 ### Resources
 
-We currently anticipate fully-online delivery of this module in 2021, due to COVID-19. Each student will need a _proper computer_ (PC, Mac, or Linux - not a phone, not a chromebook) in all sessions. 
+Each student will need a _proper computer_ (PC, Mac, or Linux - not a phone, not a chromebook) in all sessions. 
 
 For activities based around R, students will continue to use the RStudio server account they were allocated at Stage 1. They should be prompted a week before the module starts to request login details if they do not have them.
 
@@ -117,6 +117,8 @@ One week before the first class, students must be emailed and requested to:
 - If you're new to OpenSesame, watch the video in this
   [tutorial](https://osdoc.cogsci.nl/3.2/tutorials/beginner/), and follow along
   as he does things. It should take less than two hours.
+
+- **Make sure you have read and understood the journal articles on which the topics are based**, before class.  
   
 ### Early-week session:
 
@@ -353,7 +355,7 @@ slides each.
 
 Note 2:
 
-Each group must be allocated a one-hour presentation slot for week 10. Approximately one-third of groups will present in their early-week session, and two-thirds in their late-week session (of which, from an instructor perspective, there are two per early-week session). With table group size of 7, each early-week workshop group will have approx. 14 groups to distribute across the six available one-hour slots. Sort which groups go when during week 10, and post the allocations to the DLE before the week 9 late-week session. Use the flexibility of having two sessions (from the student's perspective) to accommodate groups who have serious reasons for not being able to make one of the sessions (e.g. funeral of a close relative). If we can't accommodate this, then absent members have to present on their own in week 12, and they only get the opportunity to do that with a formal extenuating circumstances approval. 
+Each group must be allocated a one-hour presentation slot for week 10. Half of groups will present in their early-week session, and half in their late-week session. With table group size of 7, each Workshop Group will have 16 Table Groups to distribute across the four available one-hour slots. Sort which groups go when during week 10, and post the allocations to the DLE before the week 9 late-week session. Use the flexibility of having two sessions (from the student's perspective) to accommodate groups who have serious reasons for not being able to make one of the sessions (e.g. funeral of a close relative). If we can't accommodate this, then absent members have to do the Extenuating Circumstances assessment instead.
 
 Note 3:
 
@@ -384,9 +386,8 @@ There is a now a four-week hiatus for Easter Vacation. The module is paused, and
 ## Week 10: Give presentation
 
 All the sessions this week are identical -- each is staffed by one TA and one
-Teacher (who double mark). In each workshop hour, 2-3 groups present. Assuming a 10 minute
-presentations, 3 min for questions and informal feedback, 2 min for switch
-over, there should be spare time for 'issues', even with 3 groups. 
+Teacher (who double mark). In each Workshop, there are 16 groups; with 220 minutes of usable time across two two-hour sessions, that is less than 14 minutes
+per presentation. The presentations are 10 minutes, plus 2 minutes for questions. This allows around 100 _seconds_ for a handover to the next group, so one **cannot** allow students to over-run their alloted time. Give them 5-minute, 1-minute, and STOP signs. Don't let them talk more than 1 minute beyond 'STOP', and reduce their question time accordingly. Anything else is unfair on those students who planned appropriately and kept to the time limit. 
 
 ### Marking process for group presentations
 
@@ -466,15 +467,15 @@ Students write and submit a bullet-point plan for their report, with support.
 
 ## Week 12: Critique and support
 
-The end of the late-week session in Week 12 is the **last** opportunity for students to receive support on this module (unless they have Extenuating Circumstances, in which case support continues through the office hours of their TA). It's important to make clear to students that this means all forms of support, including email, are over by the end of the second session. Between then and the Monday Week 13 deadline, they are on their own. 
+The end of the late-week session in Week 12 is the **last** opportunity for students to receive support on this module (unless they have Extenuating Circumstances, in which case support continues through the office hours of their TA). It's important to make clear to students that this means all forms of support, including email, are over by the end of this session. Between then and the Friday Week 12 deadline, they are on their own. 
 
 ### Early-week session
 
 | min | Content                                              |
 |-----|------------------------------------------------------|
 | 000 | TA-led good-and-bad reports activity (see Note 1)    |
-| 050 | BREAK                                                |
-| 060 | TA-led discussion of bullet point plans (see Note 2) |
+| 025 | TA-led discussion of bullet point plans (see Note 2) |
+| 050 | Open Q & A, and support (see Note 3)                 |
 | 110 | Finish                                               |
 
 Note 1: Groups are given one example 1st class and one example 2ii report. Can
@@ -485,19 +486,21 @@ Note 2: All groups working with a TA get together.  Each group, with an
 audience of that TA's other groups, talks through their bullet point
 plan. TA and other groups provide feedback on what they found clear / unclear.
 
-## Late-week session
-
-An open Q&A, and support session, so students are best prepared to write their
-report. In there is time, or a lack of queries, support them in the following: 
+Note 3: The second half of the session is an open Q&A, and support session, so students 
+are best prepared to write their report. In there is time, or a lack of queries, support 
+them in the following: 
 
 [APA referencing](https://plymouth.libguides.com/APA)
 
 [Common issues of grammar and style](grammar.html)
 
+### Late-week session
+
+This session falls the day before the report deadline. It's an open Q&A / support session.
 
 <a name="13"></a>
 
-## Week 13-15: After the workshops end...
+## Week 13-17: After the workshops end...
 
 ### TA guide to marking the main report
 
@@ -512,23 +515,25 @@ In addition, allow two hours for the initial markers' meeting and the preparatio
 
 #### Timetable
 
-**Monday 16th May 2022, noon** - Submission deadline passes. Module leader sends marking sample to markers. Markers must not mark any further reports until after initial markers' meeting (below)
+(AW note: Email chain 16th and 17th August 2023 refers). 
 
-**Monday 23rd May 2022, noon** - Markers return marking sample with scores, but without feedback, to module leader.
+**Friday 3rd May 2024, mid-day** (Week 12) - Submission deadline passes. Module leader sends marking sample to markers. Markers must not mark any further reports until after initial markers' meeting (below)
 
-**Tuesday 24th May 2022, 1pm** - Initial markers' meeting between all markers and module leader. Immediately after the meeting, you may start marking.
+**Thursday 9th May 2024, mid-day** (Week 13) - Markers return marking sample with scores, but without feedback, to module leader.
 
-**Monday 30th May 2022, noon** - Extenuating Circumstances deadline passes. Check for additional reports submitted, and also for any submitted reports that have been updated.
+**Friday 10th May 2024, mid-day** (Week 14) - Submission grace period passes, no further submissions permitted. 
 
-**Monday 13th June 2022, noon** (HARD DEADLINE!)  - All reports marked and uploaded to DLE. All mark spreadsheets emailed to Module Leader. Process of moderation begins.
+**Friday 10th May 2024, 1pm** (Week 13) - Initial markers' meeting between all markers and module leader. Immediately after the meeting, you may start marking.
 
-**Wed 15th June 2022** - Reports and marks are returned to students via DLE.
+**Monday 31st May 2024, mid-day** (Week 17) (HARD DEADLINE!)  - All reports marked and uploaded to DLE. All mark spreadsheets emailed to Module Leader. Process of moderation begins.
+
+**Tuesday 4th June 2024** (Week 17) - Reports and marks are returned to students via DLE.
 
 #### Marking process
 
 The marking process is as follows:
 
-1. On the day of the main deadline (16th May 2022), every marker receives the same four reports to mark. Unlike all subsequent marking, you do not write feedback on these reports. You just read the report and allocate the 25 scores using the score spreadsheet (for details, see below). This should not take you more than about 20 minutes per report. 
+1. On the day of the submission deadline, every marker receives the same four reports to mark. Unlike all subsequent marking, you do not write feedback on these reports. You just read the report and allocate the 25 scores using the score spreadsheet (for details, see below). This should not take you more than about 20 minutes per report. 
 
 2. Within one week, email your marks for these four reports to the module leader.
 
