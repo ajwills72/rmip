@@ -24,7 +24,7 @@ Many of the weekly Psyc:EL activities build towards writing your report - in par
 
 ### Why a presentation AND a report?
 
-Giving a presentation is an important transferrable skill (arguably more so than the main report, depending on your career choice). It also provides an opportuinity for you to get feedback on your project in a component worthy 20%, which should help you score better on your main report on that same project, which is worth 80%.  
+Giving a presentation is an important transferrable skill (arguably more so than the main report, depending on your career choice). It also provides an opportuinity for you to get feedback on your project in a component worth 20%, which should help you score better on your main report on that same project, which is worth 80%.  
 
 ## Before the course begins
 
