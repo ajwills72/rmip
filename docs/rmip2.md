@@ -1,8 +1,10 @@
 # Research Methods in Practice 2
 
-_Andy Wills, Clare Walsh, Chris Longmore, Michael Verde_
+_Andy Wills, Clare Walsh, Michael Verde, Julien Besle_
 
 In this course, you'll get a guided introduction to doing research as a team. Across weekly two-hour workshops, you'll go through the whole _research cycle_. You'll pick a topic (from a list), plan a study, build an experiment, collect data, analyze that data, and give a group presentation on your findings. You'll then write up the whole thing in journal article format. The focus is on learning a few techniques well, and getting lots of practice in those techniques. You'll learn how to do good, open, reproducible science, and you'll be well prepared for the research methods components of your final year. 
+
+The reason that we get you to pick a topic from a pre-approved list, rather than give you a free choice, is that this maximises the chance of your topic (a) working (i.e. producing clear interpretable results with the sample size available), and (b) is suitable as an illustration of the key statistical and research methods concepts covered in this module. In next year's dissertation, when you have largely completed your basic research methods training, the choice of topic will be less restricted. 
 
 ## Before the course begins
 
