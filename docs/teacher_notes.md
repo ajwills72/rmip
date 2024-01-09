@@ -386,9 +386,8 @@ There is a now a four-week hiatus for Easter Vacation. The module is paused, and
 ## Week 10: Give presentation
 
 All the sessions this week are identical -- each is staffed by one TA and one
-Teacher (who double mark). In each workshop hour, 2-3 groups present. Assuming a 10 minute
-presentations, 3 min for questions and informal feedback, 2 min for switch
-over, there should be spare time for 'issues', even with 3 groups. 
+Teacher (who double mark). In each Workshop, there are 16 groups; with 220 minutes of usable time across two two-hour sessions, that is less than 14 minutes
+per presentation. The presentations are 10 minutes, plus 2 minutes for questions. This allows around 100 _seconds_ for a handover to the next group, so one **cannot** allow students to over-run their alloted time. Give them 5-minute, 1-minute, and STOP signs. Don't let them talk more than 1 minute beyond 'STOP', and reduce their question time accordingly. Anything else is unfair on those students who planned appropriately and kept to the time limit. 
 
 ### Marking process for group presentations
 
