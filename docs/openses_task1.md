@@ -10,8 +10,8 @@ OpenSesame is a computer software package for running psychology experiments. It
 
 OpenSesame can be downloaded via the following links:
 
-- If you have a Windows machine, click [here](https://github.com/open-cogsci/OpenSesame/releases/download/release%2F3.3.14/opensesame_3.3.14-py37-win64-1.exe)
-- If you have an Apple Mac, click [here](https://github.com/open-cogsci/OpenSesame/releases/download/release%2F3.3.14/opensesame_3.3.14-py37-macos-x64-1.dmg)
+- If you have a Windows machine, click [here](https://github.com/open-cogsci/OpenSesame/releases/download/release%2F4.0.13/opensesame_4.0.13-py311-win64-1.exe)
+- If you have an Apple Mac, click [here](https://github.com/open-cogsci/OpenSesame/releases/download/release%2F4.0.1/opensesame_4.0.1-py311-macos-x64-1.dmg)
 
 The installer files are quite large, so this might take some time.
 
