@@ -38,11 +38,11 @@ Unfortunately OpenSesame cannot run on ChromeBooks. If you have a ChromeBook and
 
 We will be covering the interface in detail in the video on building an OpenSesame experiment. For now, all we want to do is change one setting to make the interface a little less cryptic. You will notice that the toolbar is a little nondescript and looks like this:
 
-![opensesame toolbar](images/os_toolbar.png)
+![opensesame toolbar](images/OS_v4_windows_toolbar.png)
 
 We can make it more readable by enabling an option that puts labels under each button so we know what each button does. On Windows, click on the Tools menu and select Preferences. For Macs, click on the OpenSesame menu and then select Preferences. For both computer types the page that comes up is the same. Look for an option near the top that says **Show text in toolbar**. Check the box next to this text and suddenly all the menubar items should now have a label like this:
 
-![opensesame toolbar with labels](images/os_toolbar_labels.png)
+![opensesame toolbar with labels](images/OS_v4_windows_toolbar_labels.png)
 
 The good news is once you have done this the setting sticks so you will not have to do this every time.
 
@@ -52,9 +52,9 @@ The purpose of this exercise is to get used to running an OpenSesame experiment,
 
 To begin, download the experiment from [here](openseslib/psycel_week_1_task.osexp).
 
-The experiment has probably been downloaded to your Downloads folder. To make life simple, move the file to your Desktop. Now go back to OpenSesame (or reopen it if you closed it earlier) and click on the **Open...** button in the toolbar. Now find your way to the Desktop and select the experiment file (called psyc520720_psychel_week1_task.osexp) then click Open. Once loaded it should look like this:
+The experiment has probably been downloaded to your Downloads folder. To make life simple, move the file to your Desktop. Now go back to OpenSesame (or reopen it if you closed it earlier) and click on the **Open...** button in the toolbar. Now find your way to the Desktop and select the experiment file (called psyc520720_psychel_week1_task.osexp) then click Open. Once loaded, select the line saysing "PSYC520_720_OpenSesame_Activity" at the top left of the "Overview" panel. You OpenSesame window should look like this:
 
-![opensesame with experiment loaded](images/os_loaded_experiment.png)
+![opensesame with experiment loaded](images/OS_v4_windows_loaded_experiment.png)
 
 Do not worry about what it all means at this point! Instead, just click on the big green triangle in the toolbar called **Run fullscreen...**. OpenSesame will ask you to enter a subject number. Enter any numerical value you want here and click OK. You will then see a file selection box with the option to Save. OpenSesame is not very clear about what this is but this box is asking you where do you want to save the data file to and what should it be called. You will notice that the filename is pre-filled with the name subject-X where X is the subject number you gave in the previous step. The next piece of information is **very important**.
 
