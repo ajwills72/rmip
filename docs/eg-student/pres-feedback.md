@@ -5,6 +5,14 @@ Your group's presentation was marked independently by two markers, who then agre
 
 ## Feedback for presentation
 
+### Slides given to workshop leader in good time
+
+SCORE: _Poor / Patchy / OK / Good / Excellent_
+
+### Presentation is of appropriate length
+
+SCORE: _Poor / Patchy / OK / Good / Excellent_
+
 ### Clarity of slides
 
 SCORE: _Poor / Patchy / OK / Good / Excellent_
