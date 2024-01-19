@@ -6,6 +6,18 @@ Your group's presentation was marked independently by two markers, who then agre
 
 ## Feedback for presentation
 
+### Slides given to workshop leader in good time
+
+SCORE: Excellent
+
+FEEDBACK: You emailed your slides to the workgroup leader the night before, and thus helped the session run smoothly.
+
+### Presentation is of appropriate length
+
+SCORE: Poor
+
+FEEDBACK: You overran by about 2 minutes, leaving no time for questions and delaying the group the followed you.
+
 ### Clarity of slides
 
 SCORE: Excellent
