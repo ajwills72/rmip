@@ -31,7 +31,7 @@ SCORE: _Poor / Patchy / OK / Good / Excellent_
 
 FEEDBACK:
 
-### Introducing the specific question
+### Introducing the specific question and hypotheses
 
 SCORE: _Poor / Patchy / OK / Good / Excellent_
 
