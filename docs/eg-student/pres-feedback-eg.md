@@ -36,7 +36,7 @@ SCORE: Excellent
 
 FEEDBACK: You were super clear on the big picture - well done!
 
-### Introducing the specific question
+### Introducing the specific question and hypotheses
 
 SCORE: OK
 
