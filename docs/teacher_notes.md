@@ -213,6 +213,18 @@ _Note_: In the Teacher's presentation, there should be some focus of understandi
 
 Students may find this [library](openses_lib.md) of OpenSesame scripts useful.
 
+#### Advice: how to implement between-subject experimental manipulations
+
+There are (at least) two ways to implement between-subject experimental manipulations in OpenSesame:
+
+- Make two separate OpenSesame scripts (one for each between-subject experimental conditions), create two different links on JATOS and assign different links to different participants.
+
+- Make a single OpenSesame script in which the between-subject condition depends on the parity of the participant number (whether it's odd or even). For this, you can use the built-in variable "subject_parity" and run a specific condition (e.g. condition 1) if the participant number is odd and the other condition (e.g. condition 2) if the participant number is even. This [video](https://www.youtube.com/watch?v=zP8ucRtWU5g) illustrates this method for a between-subject counterbalancing example (which can easily be simplified to a between-subject experimental manipulation).
+
+The second method is preferable because: 
+1. the same JATOS link can be given to all participants
+2. it will ensure that the experiment is otherwise identical for all participants
+
 ### Both sessions
 
 Both sessions are dedicated to achieving the following goal: Have a working,
@@ -243,7 +255,6 @@ Each project should meet all the items on this checklist by the first session ne
 - Ensure you've met all items on the above checklist
 
 - Watch Chris Longmore's JATOS video - [Uploading an OpenSesame Experiment](https://youtu.be/EMHwUMI4JOI).
-
 
 
 <a name="5"></a>
