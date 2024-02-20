@@ -225,6 +225,8 @@ The second method is preferable because:
 1. the same JATOS link can be given to all participants
 2. it will ensure that the experiment is otherwise identical for all participants
 
+When using the second method, or for any experiment that uses separate blocks, make sure the same data logger is used in both blocks (they should have the same name). This will ensure the log file has a single header line at the top.
+
 ### Both sessions
 
 Both sessions are dedicated to achieving the following goal: Have a working,
@@ -272,6 +274,17 @@ Session is dedicated to getting their experiment working on JATOS. If they've fo
 | 000 | Upload of experiment to JATOS |
 | 050 | Complete [within-subjects differences](https://ajwills72.github.io/rminr/anova1.html) ANOVA worksheet |
 | 110 | Finish |
+
+
+#### Advice: Tips for conversion to OSWeb/JATOS experiment
+
+Instructions on converting the OpenSesame experiment script for use in JATOS are given [in this document](https://github.com/ajwills72/rmip/blob/master/docs/prepare_your_online_study.pptx)
+
+Here are a few things to watch out for when converting to OSWeb:
+
+- When the task runs in a browser, long text instructions might get cut off at the edges. To avoid this, students can edit the text object and introduce line breaks using an html line break tag (\<br\>)
+- sounds might not work if participants use Safari to run the experiment
+- Make sure the "0,1" default value is deleted in the "possible subject numbers" field before exporting the experiment
 
 
 #### Advice: "Last working version" debugging of R code
