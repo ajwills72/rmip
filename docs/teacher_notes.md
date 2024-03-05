@@ -213,6 +213,8 @@ _Note_: In the Teacher's presentation, there should be some focus of understandi
 
 Students may find this [library](openses_lib.md) of OpenSesame scripts useful.
 
+> **_IMPORTANT:_**  Students should add a screen at the end of the experiment reminding the participant to press the space bar to finish their participant. If they do not, the data will not be correctly saved.
+
 #### Advice: how to implement between-subject experimental manipulations
 
 There are (at least) two ways to implement between-subject experimental manipulations in OpenSesame:
