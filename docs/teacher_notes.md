@@ -213,7 +213,7 @@ _Note_: In the Teacher's presentation, there should be some focus of understandi
 
 Students may find this [library](openses_lib.md) of OpenSesame scripts useful.
 
-> **_IMPORTANT:_**  Students should add a screen at the end of the experiment reminding the participant to press the space bar to finish their participant. If they do not, the data will not be correctly saved.
+> **_IMPORTANT:_**  When collecting data online using OSWeb/JATOS, the data may not correctly save if the participant does not press the space bar at the end of the experiment. Students should mention in their instructions that the participant must press the space bar at the end to complete their participation. 
 
 #### Advice: how to implement between-subject experimental manipulations
 
@@ -319,7 +319,12 @@ In these circumstances, you do 'last working version' debugging. In other words,
 
 1. Giving each group a list of JATOS links for experiments that each member of the group should participate in. 
 
-2. Troubleshooting/facilitating the process of data collection. 
+2. Troubleshooting/facilitating the process of data collection.
+
+For online data collection, students should be reminded of the following:
+- Participation should be done on a laptop, not a tablet or a phone as things might not display as intended and reponses may not be correctly registered
+- Mac users should avoid using Safari to participate (problems with sound presentation)
+- Participants should press the space bar at the end of each experiment when invited to do so. If not, the experiment data might not save properly.
 
 ### Late-week session
 
