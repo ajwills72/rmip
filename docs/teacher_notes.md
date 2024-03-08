@@ -409,7 +409,7 @@ Students should submit presentation title, author names, and abstract by **end o
 
 ## EASTER BREAK
 
-There is a now a four-week hiatus for Easter Vacation. The module is paused, and no support is available; questions must be held over until the beginning of term. 
+There is a now a three-week hiatus for Easter Vacation. The module is paused, and no support is available; questions must be held over until the beginning of term. 
 
 <a name="10"></a>
 
