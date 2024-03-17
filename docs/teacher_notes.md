@@ -326,6 +326,10 @@ For online data collection, students should be reminded of the following:
 - Mac users should avoid using Safari to participate (problems with sound presentation)
 - Participants should press the space bar at the end of each experiment when invited to do so. If not, the experiment data might not save properly.
 
+Group leaders should also check that experimental data are being saved correctly in JATOS. 
+This should be done as soon as data collection has started to avoid students being left without any data at the end of week 7. 
+One way to check is to attempt to export the JATOS data of the first few participants, convert them to a csv file using OpenSesame (see [Chris Longmore's "Exporting JATOS results" video](https://youtu.be/y3fcPB5Fj5M)) and check that the relevant data are present.
+
 ### Late-week session
 
 | min | Contents                                              |
@@ -345,6 +349,8 @@ For online data collection, students should be reminded of the following:
 ## Week 7: Finish data collection
 
 Both sessions are dedicated to the completion of data collection, plus any support students need for any R worksheet. 
+
+Again, group leaders should make sure experimental data are being correctly saved on JATOS.
 
 ### Homework 
 
