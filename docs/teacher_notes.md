@@ -285,7 +285,7 @@ Instructions on converting the OpenSesame experiment script for use in JATOS are
 Here are a few things to watch out for when converting to OSWeb:
 
 - When the task runs in a browser, long text instructions might get cut off at the edges. To avoid this, students can edit the text object and introduce line breaks using an html line break tag (\<br\>)
-- sounds might not work if participants use Safari to run the experiment
+- if sounds are used in the experiment, check that they work in MacOS Safari (this may be an old issue that has since been resolved)
 - Make sure the "0,1" default value is deleted in the "possible subject numbers" field before exporting the experiment
 
 
@@ -317,18 +317,19 @@ In these circumstances, you do 'last working version' debugging. In other words,
 
 **Data must be collected only from other students enrolled on the module.** Students can act as participants at any point across weeks 6 and 7, during or outside class. However, there are 10 hours of class time scheduled for 'data collection support' to facilitate this. Data collection support, from the teachers' perspective, involves two activities:
 
-1. Giving each group a list of JATOS links for experiments that each member of the group should participate in. 
+1. Giving each group a list of JATOS links for experiments that each member of the group should participate in (usually through a shared spreadsheet linked on DLE). 
 
 2. Troubleshooting/facilitating the process of data collection.
 
 For online data collection, students should be reminded of the following:
-- Participation should be done on a laptop, not a tablet or a phone as things might not display as intended and reponses may not be correctly registered
-- Mac users should avoid using Safari to participate (problems with sound presentation)
+- They should use a laptop, not a tablet or a phone, as things might not display as intended and reponses may not be correctly registered
+- As much as possible, they should participate in random order, so that groups to the right of the participation sheet don't get less participants
+- Mac users should avoid using Safari to participate (problems with sound presentation; although this seemed to have been resolved as of 2024)
 - Participants should press the space bar at the end of each experiment when invited to do so. If not, the experiment data might not save properly.
 
 Group leaders should also check that experimental data are being saved correctly in JATOS. 
 This should be done as soon as data collection has started to avoid students being left without any data at the end of week 7. 
-One way to check is to attempt to export the JATOS data of the first few participants, convert them to a csv file using OpenSesame (see [Chris Longmore's "Exporting JATOS results" video](https://youtu.be/y3fcPB5Fj5M)) and check that the relevant data are present.
+One way to check this is to attempt to export the JATOS data of the first few participants, convert them to a csv file using OpenSesame (see [Chris Longmore's "Exporting JATOS results" video](https://youtu.be/y3fcPB5Fj5M)) and check that the relevant data are present.
 
 ### Late-week session
 
