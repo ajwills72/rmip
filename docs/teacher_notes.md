@@ -353,6 +353,9 @@ Both sessions are dedicated to the completion of data collection, plus any suppo
 
 Again, TAs should make sure experimental data are being correctly saved on JATOS.
 
+> **_NOTE FOR 2025:_**  In 2025, the Easter break will be between weeks 11 and 12. To give enough time to students to prepare their presentation (week 10), it may be wise to make them download/convert their data at the end of week 7 instead of the first session of week 8, so they can focus on analysing their data in week 8.
+
+
 ### Homework 
 
 - Watch Chris Longmore's second JATOS video - [Exporting results](https://youtu.be/y3fcPB5Fj5M)
