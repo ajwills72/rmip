@@ -12,7 +12,7 @@ More information is given on the [module outline page](https://www.andywills.inf
 
 One week before this course begins, you must:
 
-1. Check you can log into [RStudio online](https://rstudio.plymouth.ac.uk), and resolve this issue with the Tech Office if you cannot.
+1. Check you can log into [RStudio online](https://psyrstudio.plymouth.ac.uk), and resolve this issue with the Tech Office if you cannot.
 
 2. Complete the R [revision worksheet](https://ajwills72.github.io/rminr/revision.html), as this course assumes this particular information will be fresh in your mind. It should take approximately 30-45 minutes to complete.
 
