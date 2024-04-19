@@ -85,6 +85,7 @@ If you ever want to look back at earlier materials on R, you can find them all o
 - Week 12: Critique and support
 
    - [Main report](eg-student/report-proforma.odt) template with [example answer](eg-student/report-eg.odt) and [mark scheme](eg-student/report-mark-scheme.html). Also, see this [really bad answer](eg-student/bad-report-eg.odt) for comparison.
+   - [Report writing FAQ](documents/PSYC520_Report_Writing_FAQ.docx)
 
 ## Some explanations
 
