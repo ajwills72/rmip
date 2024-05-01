@@ -580,24 +580,28 @@ The marking process is as follows:
 
 3. You'll then have a single, 30-minute, Zoom meeting with all markers and the module leader to discuss how we all have marked these four reports. The module leader will have also marked the reports. The purpose of this meeting is to ensure you are all marking to the same standard.
 
-4. After the marking meeting, download your set of reports from the DLE. 
-
-    4.1. The DLE is set up so that you can select your name and hence just the reports you are marking. 
-
-    4.2. Use the 'download as zip' functionality, which enables you to download all reports as a single zip archive. Then extract everything from the zip archive and work on the extracted version. 
-  
-    4.3. If you worked in Clare Walsh's workshop, some of your students were registered for PSYC720 (M.Sc. Psychology), not PSYC520 (B.Sc. Psychology). So, you'll have to download from both the PSYC520 and PSYC720 DLE pages. It's vitally important that you keep your files for PSYC720 students entirely seperate from those of PSYC520 students, and that you mark PSYC720 after you mark PSYC520 (see below for the reason).
+4. If you worked in Clare Walsh's workshop, some of your students were registered for PSYC720 (M.Sc. Psychology), not PSYC520 (B.Sc. Psychology). So, you'll have to access both the PSYC520 and PSYC720 DLE pages. 
     
 5. Mark the report in the usual way:
 
-    5.1. Use a PDF annotation tool to add helpful, specific, supportive comments as you go. Your comments must appear as directly visible elements on the page
-    : not, for example, 'pin' elements which the reader has to hover their mouse over to reveal your comment. Such interactive elements do not work on all 
-    devices, leading to complaints from students that they have not received feedback. There is a reason students are told to leave a wide right margin and
-    to double space their work (i.e. in order to leave space for your comments). Make use of the space they have made for you.
+    5.1. Use the [Turnitin tool](https://discourse.psy.plymouth.ac.uk/t/marking-and-feedback-guidelines-in-turnitin-feedback-studio/1343) to add helpful, specific, supportive comments as you go. 
 
     5.2. Do not use sarcasm. Do not belittle. Don't write anything you wouldn't want to receive on your work. If something is wrong, say so, but also say what is right.
  
     5.3. The [mark scheme](eg-student/report-mark-scheme.html) indicates the sorts of things you should be giving feedback on.
+
+   5.4. When you have finished reading and commenting on the report, fill in the
+  'overall comments' section on the cover sheet. You should aim to say three
+  ways in which the report was good, and three ways in which it could have been
+  improved. Your scores CSV file should help you decide what to write here.
+
+  5.5. Note that **you do not assign an overall grade**, this is done during
+  moderation, although if you have suggested grades, feel free to tell me what
+  they are (in an email, not on this sheet). If you are curious about the
+  process of moderation, including how number marks are mapped to letter
+  grades, the R script is available in the github repository for this site -
+  see `scripts/report-marks.R`.
+ 
 
 6. As you mark, fill in the [scores CSV file](mark-process/report-feedback.csv):
   
@@ -605,43 +609,21 @@ The marking process is as follows:
 
      6.2. Use a single file for all your marking within the module (not one file per student).
 
-    6.3. **It is vital** that the _Identifier_ column contains the student identifier _exactly_ as described here. Look at the zip file you downloaded from the DLE. The identifier is in the name of the directory (folder) that contains the report, with one directory for each report. So, if it says "Abbie Dawkins_11396739_assignsubmission_file_", put "Participant 11396739", not "11396739" or "Participant_11396739". Do NOT put the Student Reference Number in the _Identifier_ column. Do NOT type in these numbers by hand, ALWAYS copy and paste. Typing in by hand leads, across 200+ reports, to various copy errors, which are devilish to fix, particuarly if your error is actually also a valid Identifier. 
+    6.3. **It is vital** that the _Identifier_ column contains the student identifier _exactly_ as shown on the DLE. So put e.g. "Participant 11396739", not "11396739" or "Participant_11396739". Do NOT put the Student Reference Number in the _Identifier_ column. Do NOT type in these numbers by hand, ALWAYS copy and paste from the DLE. Typing in by hand leads, across 300+ reports, to various copy errors, which are devilish to fix, particuarly if your error is actually also a valid Identifier. 
   
-    6.4. Always fill in the _SRN_ column. This is the unique Student Reference Number, which the student has written at the top of every page of their report. If they've forgotten to include it, write "NA" (not N.A. or n/a, etc.). The SRN provides a useful backup way of linking these anonymous reports back to the student should something go wrong with the DLE.
+     6.4. In the _Score_ column, put a number from 1 to 5. Only use these numbers. Do not use fractional numbers. Do not use zero. Do not use NA. The numbers have the following meanings: 1 = Poor, 2 = Patchy, 3 = OK, 4 = Good, 5 = Excellent
+
+     6.5. In the _Component_ and _Description_ columns, use the descriptions **exactly** as they appear in the example. Use copy-and-paste to ensure you do not make mistakes.
+
+      6.6. Do not leave any blank cells. So, for example, the Identifier should appear on every line for that student. Use _copy down_ in your spreadsheet application to ensure you don't make errors. Exactly how this works depends on your application, but for LibreOffice Calc and Microsoft Excel, highlight the cells you want to fill with the contents of the first row and press Ctrl+D.
   
-     6.5. In the _Score_ column, put a number from 1 to 5. Only use these numbers. Do not use fractional numbers. Do not use zero. Do not use NA. The numbers have the following meanings: 1 = Poor, 2 = Patchy, 3 = OK, 4 = Good, 5 = Excellent
-
-     6.6. In the _Component_ and _Description_ columns, use the descriptions **exactly** as they appear in the example. Use copy-and-paste to ensure you do not make mistakes.
-
-      6.7. Do not leave any blank cells. So, for example, the SRN should appear on every line for that student. Use _copy down_ in your spreadsheet application to ensure you don't make errors. Exactly how this works depends on your application, but for LibreOffice Calc and Microsoft Excel, highlight the cells you want to fill with the contents of the first row and press Ctrl+D.
+    6.7 Do not leave any blank lines.
   
-    6.8. Do not leave any blank lines.
+7. When the EC deadline passes, check to see if you have received any new reports, and mark those. Also check to see if anything you have already marked has been updated since you marked - if it has, you will have to re-mark it.
 
-7. When you have finished reading and commenting on the report, fill in the
-  'overall comments' section on the cover sheet. You should aim to say three
-  ways in which the report was good, and three ways in which it could have been
-  improved. Your scores CSV file should help you decide what to write here.
-  
-8. When you've finished annotating the PDF, ensure you've saved it, _flattened_,
-  into the same folder, and overwriting the original file (i.e. same file
-  name). 
-  
-    8.1. If you don't know how to produce a flattened PDF within your preferred PDF annotation tool, then use the Print to PDF functionality that is present on all major OS (Windows, Mac, Linux). PDF flattening is important, because not all devices can read PDFs properly unless they're flattened, and your document may give the appearance of having no comments on it. This is particularly a problem for Android / iOS smartphones and tablets, which quite a few students use as their primary device.
+8. When you have marked ALL your reports, send Andy Wills your marks CSV file. 
 
-9. Note that **you do not assign an overall grade**, this is done during
-  moderation, although if you have suggested grades, feel free to tell me what
-  they are (in an email, not on this sheet). If you are curious about the
-  process of moderation, including how number marks are mapped to letter
-  grades, the R script is available in the github repository for this site -
-  see `scripts/report-marks.R`.
-    
-10. When the EC deadline passes, check to see if you have received any new reports, and mark those. Also check to see if anything you have already marked has been updated since you marked - if it has, you will have to re-mark it.
-
-11. When you have marked ALL your reports, use the 'upload zip' functionality on
-  the DLE to upload your marked reports to the DLE. At the same time, send Andy
-  Wills your marks CSV file. 
-
-12. If any matter arises that is not covered by the marksheet - for example evidence
+9. If any matter arises that is not covered by the marksheet - for example evidence
 of plagiarism, collusion, or violation of formatting or page length rules - let
 Andy know via email of your concerns, then mark as if you had not noticed these issues.
 As module leader, Andy will consider each of these exceptional cases and take
