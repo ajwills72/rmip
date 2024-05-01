@@ -590,24 +590,23 @@ The marking process is as follows:
  
     5.3. The [mark scheme](eg-student/report-mark-scheme.html) indicates the sorts of things you should be giving feedback on.
 
-   5.4. When you have finished reading and commenting on the report, fill in the
+    5.4. When you have finished reading and commenting on the report, fill in the
   'overall comments' section on the cover sheet. You should aim to say three
   ways in which the report was good, and three ways in which it could have been
   improved. Your scores CSV file should help you decide what to write here.
 
-  5.5. Note that **you do not assign an overall grade**, this is done during
+    5.5. Note that **you do not assign an overall grade**, this is done during
   moderation, although if you have suggested grades, feel free to tell me what
   they are (in an email, not on this sheet). If you are curious about the
   process of moderation, including how number marks are mapped to letter
   grades, the R script is available in the github repository for this site -
   see `scripts/report-marks.R`.
  
-
 6. As you mark, fill in the [scores CSV file](mark-process/report-feedback.csv):
   
     6.1. This contains an example student, obviously remove this before returning the CSV file to the Module Leader. More generally, this file is automatically read, so it's really important you get the format exactly right. So:
 
-     6.2. Use a single file for all your marking within the module (not one file per student).
+    6.2. Use a single file for all your marking within the module (not one file per student).
 
     6.3. **It is vital** that the _Identifier_ column contains the student identifier _exactly_ as shown on the DLE. So put e.g. "Participant 11396739", not "11396739" or "Participant_11396739". Do NOT put the Student Reference Number in the _Identifier_ column. Do NOT type in these numbers by hand, ALWAYS copy and paste from the DLE. Typing in by hand leads, across 300+ reports, to various copy errors, which are devilish to fix, particuarly if your error is actually also a valid Identifier. 
   
@@ -615,9 +614,9 @@ The marking process is as follows:
 
      6.5. In the _Component_ and _Description_ columns, use the descriptions **exactly** as they appear in the example. Use copy-and-paste to ensure you do not make mistakes.
 
-      6.6. Do not leave any blank cells. So, for example, the Identifier should appear on every line for that student. Use _copy down_ in your spreadsheet application to ensure you don't make errors. Exactly how this works depends on your application, but for LibreOffice Calc and Microsoft Excel, highlight the cells you want to fill with the contents of the first row and press Ctrl+D.
+     6.6. Do not leave any blank cells. So, for example, the Identifier should appear on every line for that student. Use _copy down_ in your spreadsheet application to ensure you don't make errors. Exactly how this works depends on your application, but for LibreOffice Calc and Microsoft Excel, highlight the cells you want to fill with the contents of the first row and press Ctrl+D.
   
-    6.7 Do not leave any blank lines.
+     6.7 Do not leave any blank lines.
   
 7. When the EC deadline passes, check to see if you have received any new reports, and mark those. Also check to see if anything you have already marked has been updated since you marked - if it has, you will have to re-mark it.
 
@@ -636,14 +635,14 @@ the marking of the main report is done entirely separately, with different
 marking criteria. Given you do not award a grade, much of this process is handled 
 during moderation. However, there are still some important differences:
 
-11. Mark PSYC520 first, so you have a clear picture of the average standard of B.Sc. work.
+10. Mark PSYC520 first, so you have a clear picture of the average standard of B.Sc. work.
 
-12. Now mark PSYC720. Relative to your B.Sc. marking you should:
+11. Now mark PSYC720. Relative to your B.Sc. marking you should:
 
-    12.1. Give less 'benefit of the doubt': So, in an UG report you might find something unclear but be able to work it out eventually (perhaps because you are familiar with the project). In these cases we tend to give some 'benefit of the doubt' in
+    11.1. Give less 'benefit of the doubt': So, in an UG report you might find something unclear but be able to work it out eventually (perhaps because you are familiar with the project). In these cases we tend to give some 'benefit of the doubt' in
 that we assume the student meant the right thing and just didn't express it that well. For an M.Sc. student, don't try so hard to work out what they are saying. If it's unclear, treat it as if it is wrong.
 
-    12.2. We expect a higher standard of written (and graphical) expression at M.Sc. level. At B.Sc. level, in some weaker cases the quality of English is not that great. And, at B.Sc. level, we would try quite hard to see beyond that to the substantive content. For an M.Sc. piece of work, we expect consistently good-quality writing that shouldn't need to be 'decoded' into a clear expression by the reader.
+    11.2. We expect a higher standard of written (and graphical) expression at M.Sc. level. At B.Sc. level, in some weaker cases the quality of English is not that great. And, at B.Sc. level, we would try quite hard to see beyond that to the substantive content. For an M.Sc. piece of work, we expect consistently good-quality writing that shouldn't need to be 'decoded' into a clear expression by the reader.
 
 ### After marking
 
