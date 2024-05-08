@@ -566,7 +566,7 @@ In addition, allow two hours for the initial markers' meeting and the preparatio
 
 **Friday 10th May 2024, 1pm** (Week 13) - Initial markers' meeting between all markers and module leader. Immediately after the meeting, you may start marking.
 
-**Monday 31st May 2024, mid-day** (Week 17) (HARD DEADLINE!)  - All reports marked and uploaded to DLE. All mark spreadsheets emailed to Module Leader. Process of moderation begins.
+**Monday 3rd June 2024, mid-day** (Week 17) (HARD DEADLINE!)  - All reports marked and uploaded to DLE. All mark spreadsheets emailed to Module Leader. Process of moderation begins.
 
 **Tuesday 4th June 2024** (Week 17) - Reports and marks are returned to students via DLE.
 
