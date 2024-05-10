@@ -562,9 +562,9 @@ In addition, allow two hours for the initial markers' meeting and the preparatio
 
 **Thursday 9th May 2024, mid-day** (Week 13) - Markers return marking sample with scores, but without feedback, to module leader.
 
-**Friday 10th May 2024, mid-day** (Week 14) - Submission grace period passes, no further submissions permitted. 
-
 **Friday 10th May 2024, 1pm** (Week 13) - Initial markers' meeting between all markers and module leader. Immediately after the meeting, you may start marking.
+
+**Monday 20th May 2024, mid-day** (Week 15) - Submission grace period passes, no further submissions permitted. 
 
 **Monday 3rd June 2024, mid-day** (Week 17) (HARD DEADLINE!)  - All reports marked and uploaded to DLE. All mark spreadsheets emailed to Module Leader. Process of moderation begins.
 
