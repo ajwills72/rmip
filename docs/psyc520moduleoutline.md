@@ -3,14 +3,13 @@
 
 **Credit Weighting:**	20 Credits
 
-**Module Leader:** Andy Wills
+**Module Leader:** Julien Besle
 **Teaching Staff:**	Julien Besle, Michael Verde, Clare Walsh.
 
 ## Aims
 
 The module aims to support students through a simple research cycle and deliver
-a basic understanding of the research process in psychology before engaging
-with an advanced-research cycle. Statistical analysis techniques are taught in
+a basic understanding of the research process in psychology. Statistical analysis techniques are taught in
 workshops with the aim of providing the student with an understanding of the
 analysis procedures appropriate to a range of research designs for testing
 differences. In addition, the module aims to introduce students to issues in
@@ -37,14 +36,13 @@ literature that motivated the work.
 ## Teaching Arrangements
 
 Two two-hour workshops per week, for 12 weeks. Students work in small groups
-(about 7) within large workshops of about 100 students and smaller workshops of
-about 50 students. Each workshop is run sufficient times to accommodate the
+(about 7) within large workshops of a about 100 students. Each workshop is run sufficient times to accommodate the
 whole cohort. In each week, the first (large) workshop will be staffed by one
 lead teacher and four teaching assistants, and the second (small) workshop will
-be staffed by two teaching assistants.  The same staff members are present
+be staffed only by teaching assistants.  The same staff members are present
 every week. A brief summary of the provisional schedule for
 each week is below; a much more detailed guide may be found on the [Research
-Methods in Practice](https://ajwills72.github.io/rmip) website.
+Methods in Practice](https://ajwills72.github.io/rmip/rmip2.html) website.
 
 
 ## Assessment
@@ -53,13 +51,13 @@ Methods in Practice](https://ajwills72.github.io/rmip) website.
 | ------- | ----------- | --------- |
 | **C**oursework | Written report to format and length described [here](https://www.andywills.info/rmip/eg-student/report-proforma.odt) | 80% |
 | **P**ractical | Group oral presentation (10 mins) | 20% |
-| PsychEL activities | Pass a minimum of 11 PsycEL activites | Pass / Fail |
+| PsyLab activities | Pass a minimum of 11 PsyLab activites | Pass / Fail |
 
 For the assessment deadlines, please see the Deadlines document on the Programme page of the DLE.
 
 ## Marking Criteria
 
-There are detailed mark schemes for both the [presentation](https://www.andywills.info/rmip/eg-student/pres-feedback.html) and the [report](https://www.andywills.info/rmip/eg-student/report-mark-scheme.html). The conditions for passing each PsycEL activities are specific to the activity, and are expressed within the activity itself.
+There are detailed mark schemes for both the [presentation](https://www.andywills.info/rmip/eg-student/pres-feedback.html) and the [report](https://www.andywills.info/rmip/eg-student/report-mark-scheme.html). The conditions for passing each PsyLab activities are specific to the activity, and are expressed within the activity itself.
 
 ## Academic Dishonesty
 
