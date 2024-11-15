@@ -1,6 +1,6 @@
 # Research Methods in Practice (Part 2) - Teachers' notes
 
-_2024 edition_.
+_2025 edition_.
 
 ## Contents
 
@@ -26,33 +26,33 @@ _2024 edition_.
 
 - [Week 9: Write a presentation](#9) 
 
-- [EASTER BREAK](#easter)
-
 - [Week 10: Give presentation](#10) 
 
 - [Week 11: Planning a report](#11) 
 
-- [Week 12: Critique and support](#12) 
+- [EASTER BREAK](#easter)
 
-- [Weeks 13-15: After the workshops end...](#13)
+- [Week 15: Critique and support](#12) 
+
+- [Weeks 16-20: After the workshops end...](#13)
 
 
 <a name="over"></a>
 
 ## Overview
 
-_References to 'week X' mean the Xth teaching week of the semester_. For the 2023/24 Plymouth University timetable, teaching week 1 of semester 2 begins 22/01/2024. 
+_References to 'week X' mean the Xth teaching week of the semester_. For the 2024/25 Plymouth University timetable, teaching week 1 of semester 2 begins 20/01/2025. 
 
 
 ### Course organisation and staffing
 
-Students work in groups of 7 within workshop classes of up to 112, so there are three workshop groups in order to accommodate a cohort of 326 students. The course has 12 weeks of teaching. Throughout that time, there is a specified teaching assistant (Ph.D student or TARA) who is the supervisor of each group and is responsible for monitoring the progress of their groups. 
+Students work in groups of ~8 within workshop classes of up to 118, so there are three workshop groups in order to accommodate a cohort of 331 students. The course has 12 weeks of teaching. Throughout that time, there is a specified teaching assistant (Ph.D student or TARA) who is the supervisor of each group and is responsible for monitoring the progress of their groups. 
 
-Each week, students attend a two-hour _early-week_ workshop, and a two-hour _late-week_ workshop. The early-week workshops have a 22:1 student:staff ratio. One of those staff in the early-week session must be a member of academic staff (Lecturer / AP / Prof), who is expected to be present throughout the session. The late-week workshops are staffed solely by teaching assistants, at a 28:1 ratio. 
+Each week, students attend a two-hour _early-week_ workshop, and a two-hour _late-week_ workshop. The early-week workshops have a 20:1 student:staff ratio. One of those staff in the early-week session must be a member of academic staff (Lecturer / AP / Prof), who is expected to be present throughout the session. The late-week workshops are staffed solely by teaching assistants, at a 24:1 ratio. 
 
-In addition to these sources of support, a subset of the TAs run 'hatch times' on a rota (one TA staffs the hatch at any given time). These are drop-in times, run every week day from week 2 of term, until the last day of workshops (Friday of Week 12). The hatch is not open during vacation breaks, nor during public holidays. Opening hours vary:
+In addition to these sources of support, a subset of the TAs run 'hatch times' on a rota (one TA staffs the hatch at any given time). These are drop-in times, run every week day from week 2 of term, until the last day of workshops (Friday of Week 15). The hatch is not open during vacation breaks, nor during public holidays. Opening hours vary:
 
-- Hatch (Weeks 2 - 12 inclusive):  Mondays: 10 – 4, Tuesdays: 10 – 4, Wednesdays: 10 – 1, Thursdays: 10 – 4, Fridays: 10 - 4
+- Hatch (Weeks 2 - 11 + 15):  Mondays: 10 – 4, Tuesdays: 10 – 4, Wednesdays: 10 – 1, Thursdays: 10 – 4, Fridays: 10 - 4
 
 After the main report deadline, support for students with Extenuating Circumstances is, until the EC deadline, via the office hours of the TA who worked with them throughout the semester. For TAs paid by the hour, these support hours are claimable. 
 
@@ -60,11 +60,11 @@ After the main report deadline, support for students with Extenuating Circumstan
 
 The module's mark is based on 20% Practical and 80% Coursework, with no exams, but with pass/fail competency components.
 
-20% - Group mark for a 10-min group oral presentation. The mark is weighted mainly on the quality of the research presented, rather than audio-visual slickness. There is a detailed quantitative mark scheme. **Occurs during class in Week 10** (19-26 April 2024)
+20% - Group mark for a 10-min group oral presentation. The mark is weighted mainly on the quality of the research presented, rather than audio-visual slickness. There is a detailed quantitative mark scheme. **Occurs during class in Week 10** (24-28 March 2025)
 
-80% - Individual mark for an individually-written report. The mark is derived from a detailed quantitative mark scheme. **Due Friday of Week 12**, noon (26th April 2024). Return to students Tuesday of Week 17 (4th June 2024).
+80% - Individual mark for an individually-written report. The mark is derived from a detailed quantitative mark scheme. **Due Friday of Week 12**, noon (2nd May 2025). Return to students Tuesday of Week 20 (3rd June 2025).
 
-Pass/fail - There are a set of pass/fail competency components, which also act as a **lab book**. In order to keep on track students should complete them in the week indicated (see below). **Each activity closes on the Friday of the week following its introduction in class**. There's an exact timetable [here](psycel-schedule.md). In order to complete it after that time, students must request their personal tutor to re-open it. Some of these are group components. In these cases, every member of the group still has to submit it individually, but they can all submit the same thing without penalty.
+Pass/fail - There are a set of pass/fail competency PsyLab components, which also act as a **lab book**. In order to keep on track students should complete them in the week indicated (see below). **Each activity closes on the Friday of the week following its introduction in class**. There's an exact timetable [here](psycel-schedule.md). In order to complete it after that time, students must request their personal tutor to re-open it. Some of these are group components. In these cases, every member of the group still has to submit it individually, but they can all submit the same thing without penalty.
 
 They have to pass at least 11 of the 13 activities to pass the module. 
 
@@ -74,7 +74,7 @@ A full list of assessments, with proformas and model answers in most cases, are 
 
 ### Resources
 
-Each student will need a _proper computer_ (PC, Mac, or Linux - not a phone, not a chromebook) in all sessions. 
+Each student will need a _proper computer_ (PC, Mac, or Linux - not a phone, tablet or chromebook) in all sessions. There are a number of laptops in Link 301 that students can borrow.
 
 For activities based around R, students will continue to use the RStudio server account they were allocated at Stage 1. They should be prompted a week before the module starts to request login details if they do not have them.
 
@@ -127,7 +127,7 @@ One week before the first class, students must be emailed and requested to:
 | 005 | Teacher gets students to start installing Open Sesame |
 | 010 | Teacher gives general introduction to PSYC520 |
 | 015 | Teacher gives a short introduction to each of the three topics and sub-topics. |
-| 030 | Students select topic and organise into groups. TA allocated to groups. Any given TA does one / two topics. |
+| 030 | Students select topic and organise into groups. Each TA allocated to 3 groups. Any given TA does one / two topics maximum. |
 | 055 | Break      |
 | 065 | Students do the [Introduction to OpenSesame](https://ajwills72.github.io/rmip/openses_task1.html)  worksheet, with support |
 | 115 | Finish                                                                                                   |
@@ -158,7 +158,7 @@ _Note 2_: This is probably Plymouth-specific, but note that there is one restric
 
 ### Teachers' resources
 
-Here are some [slides](expt-design.odp) on experimental design written about a decade ago for the Exeter Stage 2 practicals. I think Chris, Clare, or Michael have developed more recent versions for this module. 
+Here are some [slides](expt-design.odp) on experimental design written about a decade ago for the Exeter Stage 2 practicals. Chris, Clare, and Michael have developed more recent versions for this module, available on the PSYC520/720 DLE. 
 
 ### Early-week session
 
@@ -199,9 +199,9 @@ _Note_: In the Teacher's presentation, there should be some focus of understandi
 
 ### Late-week session and homework
 
-- Complete and submit all previous Psyc:EL activities if not already done so. 
+- Complete and submit all previous PsyLab activities if not already done so. 
 
-- Finish and submit protocol to Psyc:EL.
+- Finish and submit protocol to PsyLab.
 
 - Watch Chris Longmore's video on using Open Sesame.
 
@@ -364,11 +364,13 @@ Again, TAs should make sure experimental data are being correctly saved on JATOS
 
 ## Week 8: Analyse data
 
-Both sessions are dedicated to analysing and interpreting the collected data. Data analysis should ideally be submitted to Psyc:EL by the end of the week. 
+Both sessions are dedicated to analysing and interpreting the collected data. Data analysis should ideally be submitted to PsyLab by the end of the week. 
 
 <a name="9"></a>
 
 ## Week 9: Write a presentation
+
+During this week the teacher must establish a schedule of presentation times for week 10 (see Week 10 below for details).
 
 ### Early-week session
 
@@ -417,18 +419,13 @@ Students should submit presentation title, author names, and abstract by **end o
 
 <a name="easter"></a>
 
-## EASTER BREAK
-
-There is a now a three-week hiatus for Easter Vacation. The module is paused, and no support is available; questions must be held over until the beginning of term. 
-
-<a name="10"></a>
-
-
 ## Week 10: Give presentation
 
 All the sessions this week are identical -- each is staffed by one TA and one
-Teacher (who double mark). In each Workshop, there are 16 groups; with 220 minutes of usable time across two two-hour sessions, that is less than 14 minutes
-per presentation. The presentations are 10 minutes, plus 2 minutes for questions. This allows around 100 _seconds_ for a handover to the next group, so one **cannot** allow students to over-run their alloted time. Give them 5-minute, 1-minute, and STOP signs. Don't let them talk more than 1 minute beyond 'STOP', and reduce their question time accordingly. Anything else is unfair on those students who planned appropriately and kept to the time limit. 
+Teacher (who double mark). In each Workshop, there are a maximum of 15 groups; with 220 minutes of usable time across two two-hour sessions, that is less than 15 minutes
+per presentation. The presentations are 10 minutes, plus 2 minutes for questions. This allows around 160 _seconds_ for a handover to the next group, so one **cannot** allow students to over-run their alloted time. Give them 5-minute, 1-minute, and STOP signs. Don't let them talk more than 1 minute beyond 'STOP', and reduce their question time accordingly. Anything else is unfair on those students who planned appropriately and kept to the time limit.
+
+Students must hand in their presentation slide in advance of the workshop in which they will present so that all slides are loaded on the presentation computer before each session. Handing in the presentation time on time is one of the marking criteria.
 
 ### Marking process for group presentations
 
@@ -488,8 +485,7 @@ on their presentation. They discuss what they would have done differently if
 they were starting again. In the second hour, the Teacher gives a talk on report writing. 
 
 Here are some [slides](report-writing.odp) on report writing I put together for
-a similar course at Exeter about a decade ago. I think Michael now has an
-updated version of these.
+a similar course at Exeter about a decade ago. There is an updated version of these slides on the course DLE.
 
 ### Late-week session and homework
 
@@ -506,7 +502,14 @@ Students write and submit a bullet-point plan for their report, with support.
 
 <a name="12"></a>
 
-## Week 12: Critique and support
+## EASTER BREAK
+
+There is a now a three-week hiatus for Easter Vacation. The module is paused, and no support is available; questions must be held over until the beginning of term. 
+
+<a name="10"></a>
+
+
+## Week 15: Critique and support
 
 The end of the late-week session in Week 12 is the **last** opportunity for students to receive support on this module (unless they have Extenuating Circumstances, in which case support continues through the office hours of their TA). It's important to make clear to students that this means all forms of support, including email, are over by the end of this session. Between then and the Friday Week 12 deadline, they are on their own. 
 
@@ -541,7 +544,7 @@ This session falls the day before the report deadline. It's an open Q&A / suppor
 
 <a name="13"></a>
 
-## Week 13-17: After the workshops end...
+## Week 16-20: After the workshops end...
 
 ### TA guide to marking the main report
 
@@ -556,19 +559,17 @@ In addition, allow two hours for the initial markers' meeting and the preparatio
 
 #### Timetable
 
-(AW note: Email chain 16th and 17th August 2023 refers). 
+**Friday 2nd May 2025, mid-day** (Week 15) - Submission deadline passes. Module leader sends marking sample to markers. Markers must not mark any further reports until after initial markers' meeting (below)
 
-**Friday 3rd May 2024, mid-day** (Week 12) - Submission deadline passes. Module leader sends marking sample to markers. Markers must not mark any further reports until after initial markers' meeting (below)
+**Thursday 8th May 2025, mid-day** (Week 16) - Markers return marking sample with scores, but without feedback, to module leader.
 
-**Thursday 9th May 2024, mid-day** (Week 13) - Markers return marking sample with scores, but without feedback, to module leader.
+**Friday 9th May 2025, 1pm** (Week 16) - Initial markers' meeting between all markers and module leader. Immediately after the meeting, you may start marking.
 
-**Friday 10th May 2024, 1pm** (Week 13) - Initial markers' meeting between all markers and module leader. Immediately after the meeting, you may start marking.
+**Monday 12th May 2025, mid-day** (Week 17) - Submission grace period passes, no further submissions permitted. 
 
-**Monday 20th May 2024, mid-day** (Week 15) - Submission grace period passes, no further submissions permitted. 
+**Monday 2nd June 2025, mid-day** (Week 20) (HARD DEADLINE!)  - All reports commented in Turnitin. All mark spreadsheets emailed to Module Leader. Process of moderation begins.
 
-**Monday 3rd June 2024, mid-day** (Week 17) (HARD DEADLINE!)  - All reports marked and uploaded to DLE. All mark spreadsheets emailed to Module Leader. Process of moderation begins.
-
-**Tuesday 4th June 2024** (Week 17) - Reports and marks are returned to students via DLE.
+**Tuesday 3rd June 2025** (Week 20) - Reports and marks are returned to students via DLE.
 
 #### Marking process
 
@@ -620,12 +621,12 @@ The marking process is as follows:
   
 7. When the EC deadline passes, check to see if you have received any new reports, and mark those. Also check to see if anything you have already marked has been updated since you marked - if it has, you will have to re-mark it.
 
-8. When you have marked ALL your reports, send Andy Wills your marks CSV file. 
+8. When you have marked ALL your reports, send your marks CSV file to the module leader. 
 
 9. If any matter arises that is not covered by the marksheet - for example evidence
 of plagiarism, collusion, or violation of formatting or page length rules - let
-Andy know via email of your concerns, then mark as if you had not noticed these issues.
-As module leader, Andy will consider each of these exceptional cases and take
+the module leader know via email of your concerns, then mark as if you had not noticed these issues.
+The module leader will consider each of these exceptional cases and take
 appropriate action.
 
 #### Marking PSYC720
