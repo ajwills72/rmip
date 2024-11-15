@@ -6,19 +6,19 @@ Activities open at the beginning of the day (i.e. 0:00 in 24-hour clock) and clo
 
 | Activity                   | Opens (week) | Closes (week) | Opens (day) | Closes (day) |
 | -------------------------- | ---- | ---- | ---- | ---- |
-| Statistical power          | 1    | 2    | 2025-01-20 | 2025-31-01 |
-| Using Open Sesame          | 1    | 2    | 2025-01-20 | 2025-31-01 |
-| Preprocessing              | 2    | 3    | 2025-01-27 | 2025-02-07 |
-| One page summary           | 2    | 3    | 2025-01-27 | 2025-02-07 |
-| Experiment protocol        | 3    | 4    | 2025-02-03 | 2025-02-14 |
-| Experiment script          | 4    | 5    | 2025-02-10 | 2025-02-21 |
-| Within-subject differences | 5    | 6    | 2025-02-17 | 2025-02-28 |
-| Understanding interactions | 6    | 7    | 2025-02-24 | 2025-03-07 |
-| Factorial differences      | 6    | 7    | 2025-02-24 | 2025-03-07 |
-| Data upload                | 7    | 8    | 2025-03-03 | 2025-03-14 |
-| Analysis script            | 8    | 9    | 2025-03-10 | 2025-03-21 |
-| Abstract submission        | 9    | 10   | 2025-03-17 | 2025-03-28 |
-| Bullet point plan          | 11   | 12   | 2025-03-31 | 2025-05-02 |
+| Statistical power          | 1    | 2    | 20-01-2025 | 31-01-2025 |
+| Using Open Sesame          | 1    | 2    | 20-01-2025 | 31-01-2025 |
+| Preprocessing              | 2    | 3    | 27-01-2025 | 07-02-2025 |
+| One page summary           | 2    | 3    | 27-01-2025 | 07-02-2025 |
+| Experiment protocol        | 3    | 4    | 03-02-2025 | 14-02-2025 |
+| Experiment script          | 4    | 5    | 10-02-2025 | 21-02-2025 |
+| Within-subject differences | 5    | 6    | 17-02-2025 | 28-02-2025 |
+| Understanding interactions | 6    | 7    | 24-02-2025 | 07-03-2025 |
+| Factorial differences      | 6    | 7    | 24-02-2025 | 07-03-2025 |
+| Data upload                | 7    | 8    | 03-03-2025 | 14-03-2025 |
+| Analysis script            | 8    | 9    | 10-03-2025 | 21-03-2025 |
+| Abstract submission        | 9    | 10   | 17-03-2025 | 28-03-2025 |
+| Bullet point plan          | 11   | 12   | 31-03-2025 | 02-05-2025 |
 
 
 Weeks indicate the weeks that the activities _open_. The activity closes at the end (23:59) of the Friday of the week after the week it opened. So, for example, if it opened in Week 1, then it would close Friday of Week 2.
