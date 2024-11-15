@@ -115,11 +115,6 @@ Many of the weekly PsyLab activities build towards writing your report - in part
 
 Giving a presentation is an important transferrable skill (arguably more so than the main report, depending on your career choice). It also provides an opportuinity for you to get feedback on your project in a component worth 20%, which should help you score better on your main report on that same project, which is worth 80%.  
 
-### Why is the presentation immediately after the Easter Break?
-
-It's not possible to have the presentation any earlier than the 10th week, because you need all the time available in the first eight weeks to design, run, and analyze your experiment ... and then we support you in the ninth week to write the presentation, so you are not having to do it unaided. 
-
-It's not desriable to have the presentation any later than the 10th week, because then you would have little time to act on the feedback you received to improve your main report. And, we would have less time to support you in writing your report - as it is, we only have the 11th and 12th weeks to do this, as the report is due at the end of 12th week. 
 
 
 ___
