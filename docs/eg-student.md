@@ -1,6 +1,6 @@
 # Sample set of submissions
 
-_2022 Edition_
+_2025 Edition_
 
 Below are a complete set of submissions, plus marking criteria and feedback for an imaginary student on this module. 
 
@@ -8,35 +8,25 @@ This imaginary student selected a sub-topic on test-potentiated learning ([Potts
 
 ## Proformas
 
-- [One-page summary](eg-student/onepagesummary.odt) with [model answer](eg-student/onepagesummary-example.odt). Student uploads to PsycEL.
+- [One-page summary](eg-student/onepagesummary.odt) with [model answer](eg-student/onepagesummary-example.odt). Student uploads to PsyLab.
 
-- [Full protocol](eg-student/protocol.odt) with [model answer](eg-student/protocol-example.odt). Student uploads to PsycEL.
+- [Full protocol](eg-student/protocol.odt) with [model answer](eg-student/protocol-example.odt). Student uploads to PsyLab.
 
-- [Abstract submission](eg-student/conference-abstract.odt) with [model answer](eg-student/conference-abstract-eg.odt). Student uploads to PsycEL.
+- [Abstract submission](eg-student/conference-abstract.odt) with [model answer](eg-student/conference-abstract-eg.odt). Student uploads to PsyLab.
 
 - [Presentation feedback](eg-student/pres-feedback.html) with [example feedback](eg-student/pres-feedback-eg.html) and [model slides](eg-student/presentation-eg.pdf). 
 
-- _Bullet point plan_: There is no proforma for this, but there is a [model answer](eg-student/eg-bullet.html). Student uploads to PsycEL.
+- _Bullet point plan_: There is no proforma for this, but there is a [model answer](eg-student/eg-bullet.html). Student uploads to PsyLab.
 
 - [Main report](eg-student/report-proforma.odt) with [model answer](eg-student/report-eg.odt) and [mark scheme](eg-student/report-mark-scheme.html) **Student uploads to DLE**.
 
 
 
-## Lab book (aka PsycEL)
+## Lab book (aka PsyLab)
 
-Weeks indicate the weeks that the activities _open_. The activity closes at the end (23:59) of the Friday of the week after the week it opened. So, for example, if it in Week 1, then it would close Friday of Week 2.
+Model answers are given here for illustration, they should **not** appear on PsyLab. 
 
-After an activity has closed, the student must request their personal tutor to re-open it for them. This serves the function of giving personal tutors an early-warning of lack of progress on the part of their tutees. 
-
-When an activity is reopened, it reopens for two weeks, or until the final deadline, whichever is sooner. So, for example, if the tutor reopens on May 18 and the final deadline is May 21, the it only reopens until May 21. 
-
-**The final deadline is the same day as the deadline for the main report**
-
-Beyond that deadline, only the module leader can reopen the activities, and this should only be done once it's made clear to the student that they should apply for Extenuating Circumstances. 
-
-Model answers are given here for illustration, they should **not** appear on PsycEL. 
-
-The operation of this lab book is more like the PsycEL activities of PSYC412 etc, rather than the rather labour-intensive manual checking system tried in PSYC519. Exercises are marked as 'complete' (i.e. passed) if the material uploaded / pasted meets certain syntatical requirements that can be automatically checked on the server side.
+The operation of this lab book is more like the PsyLab activities of PSYC412 etc, rather than the rather labour-intensive manual checking system tried in PSYC519. Exercises are marked as 'complete' (i.e. passed) if the material uploaded / pasted meets certain syntatical requirements that can be automatically checked on the server side.
 
 - Week 1. [Statistical power](eg-student/power.md)
 
@@ -62,12 +52,10 @@ The operation of this lab book is more like the PsycEL activities of PSYC412 etc
 
 - Week 9. [Abstract submission](eg-student/conference.md)
 
-- Week 10. There is no Week 10 PsycEL.
+- Week 10. There is no Week 10 PsyLab.
 
 - Week 11. [Bullet point plan](eg-student/bullet.md)
 
-- Week 12. There is no Week 12 PsycEL.
+- Week 12. There is no Week 12 PsyLab.
 
-
-
-
+Weeks indicate the weeks that the activities _open_. The activity closes at the end (23:59) of the Friday of the week after the week it opened. So, for example, if it opened in Week 1, then it would close Friday of Week 2.
