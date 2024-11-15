@@ -1,6 +1,6 @@
 # Research Methods in Practice 2
 
-_Andy Wills, Clare Walsh, Michael Verde, Julien Besle_
+_Clare Walsh, Michael Verde, Julien Besle_
 
 ## Overview
 
