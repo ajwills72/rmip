@@ -1,8 +1,8 @@
 # Research Methods in Practice
 
-_2024 edition_
+_2025 edition_
 
-**Written by:** _Andy Wills, Chris Longmore, Clare Walsh and Michael Verde_
+**Written by:** _Andy Wills, Chris Longmore, Clare Walsh, Michael Verde and Julien Besle_
 
 
 Students on this module get a guided introduction to doing research as a team. Across 12 weeks, they go through one cycle of a research project. They pick a topic, plan a study, build an experiment, collect data, analyze that data, and give a group presentation on their findings. They critically evaluate their work, and write up the whole thing in journal article format. 
