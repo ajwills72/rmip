@@ -1,0 +1,60 @@
+Group: 211
+
+PSYC520 / PSYC720: Group Presentation
+
+Your group's presentation was marked independently by two markers, who then agreed the following scores and feedback. The overall mark for each group was calculated by taking the mean across the 12 scores below. The module leader took the set of overall marks, moderated them, and converted them to the grade you see below. This was done with reference to the generic marking criteria you can find in your Stage handbook. The mark awarded is for your group. Every member of the group who attended their group’s presentation gets this mark. Failure to attend results in a mark of zero.
+
+These marks are provisional, and will remain so until confirmed by the Board of Examiners.
+
+DO NOT REPLY TO THIS AUTO-GENERATED EMAIL, as replies will not be received. If you have questions about this feedback, ask your group leader in your next session.
+
+
+OVERALL MARK: 65%
+
+1. Slides given to workshop leader in good time
+SCORE: Excellent
+FEEDBACK: NA
+
+2. Presentation is of appropriate length
+SCORE: Excellent
+FEEDBACK: NA
+
+3. Clarity of slides
+SCORE: Good
+FEEDBACK: Slides were good. The text size could be further increased.
+
+4. Clarity of speech
+SCORE: Excellent
+FEEDBACK: Speech was very good and you did not utilise notes throughout the presentation, well done.
+
+5. Big picture overview
+SCORE: OK
+FEEDBACK: Good big picture overview, this was more apparent in the response to questions however. Relating the study to the previous literature explicitly in the slides could improve this further. Don't mention the methods in the big picture overview. Focus on the research background. Use bullet points with content rather than references.
+
+6. Introducing the specific question and hypotheses
+SCORE: OK
+FEEDBACK: The description of the theory was described using references. Providing explanations of what these studies did and what they found would strengthen this section. This could further develop the hypothesis by including explicit links to previous work and why you expect to find the effects in your study. Avoid giving methods results in hypotheses. What about the second variable?  What is the motivation?
+
+7. Description of methodology
+SCORE: OK
+FEEDBACK: It described the methodology well but could be improved by including visual representations of the procedure. It also appeared to utilise a more list based format which is best to be avoided. Did you counterbalance the survival scenario?
+
+8. Description of results
+SCORE: Good
+FEEDBACK: The description of the results were good, the explanation of the data aggregation process was, however, unnecessary. It was not entirely clear why the additional measure was included. Say 0.29 instead of 2.9 * 10^-1.
+
+9. Interpretation of results
+SCORE: OK
+FEEDBACK: Good explanation of the results, it would be best to include it into one slide with the graphs to provide a better overview of what is being discussed. It could be improved by relating the results to the literature.
+
+10. Discussion of next steps
+SCORE: Good
+FEEDBACK: Good explanation of the next steps with thorough examples of what to study and why
+
+11. Response to questions
+SCORE: Excellent
+FEEDBACK: Very good answers to the questions, with a clear understanding of the theoretical considerations with the study. The responses to the questions were answered very thoroughly.
+
+12. Advice on next steps
+FEEDBACK: From the questions it was clear that the theoretical considerations have been understood, but ensure the data analysis approach/ results are comprehended.
+

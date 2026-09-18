@@ -1,0 +1,60 @@
+Group: 210
+
+PSYC520 / PSYC720: Group Presentation
+
+Your group's presentation was marked independently by two markers, who then agreed the following scores and feedback. The overall mark for each group was calculated by taking the mean across the 12 scores below. The module leader took the set of overall marks, moderated them, and converted them to the grade you see below. This was done with reference to the generic marking criteria you can find in your Stage handbook. The mark awarded is for your group. Every member of the group who attended their group’s presentation gets this mark. Failure to attend results in a mark of zero.
+
+These marks are provisional, and will remain so until confirmed by the Board of Examiners.
+
+DO NOT REPLY TO THIS AUTO-GENERATED EMAIL, as replies will not be received. If you have questions about this feedback, ask your group leader in your next session.
+
+
+OVERALL MARK: 62%
+
+1. Slides given to workshop leader in good time
+SCORE: Excellent
+FEEDBACK: NA
+
+2. Presentation is of appropriate length
+SCORE: Excellent
+FEEDBACK: NA
+
+3. Clarity of slides
+SCORE: OK
+FEEDBACK: Good formatting with a clear layout. The implications and results could be further condensed to fit on a single slide to let the viewer have a more holistic understanding of what is currently being discussed.
+
+4. Clarity of speech
+SCORE: Excellent
+FEEDBACK: Very well spoken with no notes used, well done
+
+5. Big picture overview
+SCORE: OK
+FEEDBACK: Briefly mentioned the background to the production effect in a clear way. It did, however, lack an explicit link to the current study. Previous research is better to be explained instead of including reference as a list. Need to define production effect before giving possible explanations.
+
+6. Introducing the specific question and hypotheses
+SCORE: OK
+FEEDBACK: Good decomposition of the question into sub-categories. It does, however, lack a rationale to the study and an explanation to why you expect your hypothesis. Why study the effect of "type of information"? Good description of the interaction effect.
+
+7. Description of methodology
+SCORE: OK
+FEEDBACK: Covered the methodology well with the necessary information included. It could be improved with a visual aid such a video or image. It could also be improved by condensing into one slide, too much repetition between the two slides. Within-subject variable description was unclear.
+
+8. Description of results
+SCORE: Good
+FEEDBACK: Graphs were very clear with the differentiation of the main effects and interactions being visually apparent. It could be improved by including it on one slide. The ANOVA results are missing but instead the pairwise comparisons reported. This was not clear whether this was done post-hoc. No need to present both graph and tables. Nice to show the boxplots.
+
+9. Interpretation of results
+SCORE: OK
+FEEDBACK: Very good interpretation of the results, could be improved by further linking to the theory. Interpretation of interaction effect is unclear.
+
+10. Discussion of next steps
+SCORE: Good
+FEEDBACK: Good ideas, but link between results and implications is unclear.
+
+11. Response to questions
+SCORE: Excellent
+FEEDBACK: Good response to questions, Well explained with clear understanding of the theory.
+
+12. Advice on next steps
+FEEDBACK: Ensure the ANOVA is reported correctly before the t-tests. Also, provide a more specific relationship to the results and explanations to why they may occur (i.e. relationship to the current theory).
+
